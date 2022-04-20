@@ -5,28 +5,6 @@ datasets that were introduced in the NeurIPS 2021 ML4PS Workshop paper titled "A
 and Benchmark for First Break Picking in Hard Rock Seismic Exploration". Additional information may
 be added later following other publications using this data.
 
-The cross-validation folds used in the NeurIPS 2021 ML4PS workshop paper are as follow:
-
-Fold Sudbury:
-Train: Halfmile, Lalor;
-Valid: Brunswick;
-Test: Sudbury
-
-Fold Brunswick:
-Train: Sudbury, Halfmile;
-Valid: Lalor;
-Test: Brunswick
-
-Fold Halfmile:
-Train: Lalor, Brunswick;
-Valid: Sudbury;
-Test: Halfmile
-
-Fold Lalor:
-Train: Brunswick, Sudbury;
-Valid: Halfmile;
-Test: Lalor
-
 ## Data
 
 Before downloading any data, make sure you read and understand the licensing terms below.
@@ -63,6 +41,30 @@ The HDF5 files are hosted on AWS, and can be downloaded directly:
 ### Data loading demo
 
 We demonstrate how to parse and display the data in [this notebook](./fbp_data_loading_demo.ipynb).
+
+### Cross-validation folds
+
+The cross-validation folds used in the NeurIPS 2021 ML4PS workshop paper are as follow:
+
+Fold Sudbury:
+Train: Halfmile, Lalor;
+Valid: Brunswick;
+Test: Sudbury
+
+Fold Brunswick:
+Train: Sudbury, Halfmile;
+Valid: Lalor;
+Test: Brunswick
+
+Fold Halfmile:
+Train: Lalor, Brunswick;
+Valid: Sudbury;
+Test: Halfmile
+
+Fold Lalor:
+Train: Brunswick, Sudbury;
+Valid: Halfmile;
+Test: Lalor
 
 ## Acknowledgements
 
