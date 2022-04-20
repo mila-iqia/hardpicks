@@ -8,23 +8,23 @@ be added later following other publications using this data.
 The cross-validation folds used in the NeurIPS 2021 ML4PS workshop paper are as follow:
 
 Fold Sudbury:
-Train: Halfmile, Lalor
-Valid: Brunswick
+Train: Halfmile, Lalor;
+Valid: Brunswick;
 Test: Sudbury
 
 Fold Brunswick:
-Train: Sudbury, Halfmile
-Valid: Lalor
+Train: Sudbury, Halfmile;
+Valid: Lalor;
 Test: Brunswick
 
 Fold Halfmile:
-Train: Lalor, Brunswick
-Valid: Sudbury
+Train: Lalor, Brunswick;
+Valid: Sudbury;
 Test: Halfmile
 
 Fold Lalor:
-Train: Brunswick, Sudbury
-Valid: Halfmile
+Train: Brunswick, Sudbury;
+Valid: Halfmile;
 Test: Lalor
 
 ## Data
