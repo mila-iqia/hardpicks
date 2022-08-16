@@ -36,7 +36,7 @@ The HDF5 files are hosted on AWS, and can be downloaded directly:
  - [Brunswick](https://d3sakqnghgsk6x.cloudfront.net/Brunswick_3D/Brunswick_orig_1500ms_V2.hdf5.xz)
  - [Halfmile Lake](https://d3sakqnghgsk6x.cloudfront.net/Halfmile_3D/Halfmile3D_add_geom_sorted.hdf5.xz)
  - [Lalor](https://d3sakqnghgsk6x.cloudfront.net/Lalor_3D/Lalor_raw_z_1500ms_norp_geom_v3.hdf5.xz)
- - [Sudbury](https://d3sakqnghgsk6x.cloudfront.net/Sudbury_3D/Sudbury3D_all_shots_2s.hdf.xz)
+ - [Sudbury](https://d3sakqnghgsk6x.cloudfront.net/Sudbury_3D/preprocessed_Sudbury3D.hdf.xz)
 
 ### Data loading demo
 
