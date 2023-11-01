@@ -1,0 +1,101 @@
+# SESSION ARGS
+exp_name: smoke_test_unet
+run_name: default
+seed: 21
+set_deterministic: false
+set_benchmark: false
+
+# TRAINER ARGS
+early_stop_metric: valid/loss
+patience: 2
+max_epochs: 2
+precision: 16
+log_every_n_steps: 1
+num_sanity_val_steps: -1  # run sanity check on all validation data (good for logging pred images)
+trainer_checkpoint: none # "latest" will resume an existing run, "none" will skip all
+profiling: advanced
+use_full_metrics_during_training: false
+
+# DATA MODULE ARGS
+module_type: FBPDataModule
+train_batch_size: 4
+eval_batch_size: 3
+num_workers: 0
+pin_memory: true
+convert_to_fp16: true
+convert_to_int16: false
+preload_trace_data: false
+cache_trace_metadata: false
+provide_offset_dists: true
+pad_to_nearest_pow2: true
+use_batch_sampler: false
+use_rebalancing_sampler: false
+skip_setup_overlap_check: true
+train_loader_params:
+  - site_name: train1
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+  - site_name: train2
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+  - site_name: train3
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+valid_loader_params:
+  - site_name: valid
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+test_loader_params:
+  - site_name: test
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+
+# MODEL ARGS
+model_type: FBPUNet
+model_checkpoint:   # keep empty if we're training from a pre-trained state
+unet_decoder_type: vanilla
+unet_encoder_type: timm-efficientnet-b0
+use_dist_offsets: true
+use_first_break_prior: false
+mid_block_channels: 0
+decoder_block_channels:  [128, 64, 32, 16, 8]  # note: list length is decoder block count!
+decoder_attention_type:  # keep empty if we're not using attention mechanisms in the decoder
+coordconv: false
+encoder_block_count: 5
+segm_class_count: 3
+gathers_to_display: 10
+use_checkpointing: false
+optimizer_type: Adam
+optimizer_params:
+  lr: 0.001
+  weight_decay: 0.000001
+scheduler_type: StepLR
+scheduler_params:
+  step_size: 3
+  gamma: 0.1
+update_scheduler_at_epochs: true
+loss_type: crossentropy
+loss_params:
+
+# METRICS ARGS
+eval_type: FBPEvaluator
+segm_first_break_prob_threshold: 0.333
+eval_metrics:  # also keeping it simple here, we'll only use two variations of the same metric
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 1
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 3
+  - metric_type: GatherCoverage
+  - metric_type: MeanAbsoluteError

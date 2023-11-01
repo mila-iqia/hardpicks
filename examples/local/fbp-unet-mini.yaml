@@ -1,0 +1,113 @@
+# FIRST BREAK PICKING MODEL TRAINING/PROFILING CONFIG WITH FIXED ARGUMENTS;
+# This will train a mini model (ResNet-18-style U-Net) with fixed arguments. A single site is used
+# in the training set (Sudbury), and a single site is used for validation (Halfmile Lake).
+# This model is small enough that it should be trainable on most GPUs without much memory.
+#
+# Launch this experiment from the project root using:
+#    python ./hardpicks/main.py \
+#        --data ./data/fbp/data  \
+#        --output ./data/fbp/results \
+#        --config ./examples/local/fbp-unet-mini.yaml
+#
+
+# SESSION ARGS
+exp_name: fbp-unet-mini  # name of the experiment (used to tag the model and create its output dir)
+run_name: default  # name of this particular run (if needed; used to tag the model inside an experiment)
+seed: 0  # global RNG seed used for numpy, pytorch, ...
+set_deterministic: false  # toggles the CUDNN deterministic flag via pytorch
+set_benchmark: true  # toggles the CUDNN benchmark flag via pytorch
+
+# TRAINER ARGS
+early_stop_metric:  # if we want to do early stopping, we would specify the metric name here (e.g. 'valid/loss')
+early_stop_metric_mode: min  # depending on the metric, we might have to specify this manually
+patience: 16  # when doing early stopping, this would be the number of epochs to wait for an improvement
+max_epochs: 16  # the maximum number of epochs to train the model for
+precision: 16  # the model precision (16-bit or 32-bit)
+log_every_n_steps: 1  # toggles how often pytorch lightning will log progression to the console
+num_sanity_val_steps: -1  # run sanity check on all validation data (good for logging pred images)
+trainer_checkpoint: latest  # "latest" will resume an existing run, "none" will skip all
+
+# DATA MODULE ARGS
+module_type: FBPDataModule  # class name of the data loading module that will be instantiated
+train_batch_size: 12  # batch size used during training (in this case, it's a number of raw gathers)
+eval_batch_size: 64  # batch size used during evaluation (may be larger since we do not perform backprop)
+num_workers: 8  # number of workers (processes) to use in parallel in order to load the gathers faster
+pin_memory: true  # toggles whether the data loader will load tensors directly onto GPU memory or not
+convert_to_fp16: true  # toggles whether raw gather trace data will be converted to fp16 or not (saves RAM)
+convert_to_int16: true  # toggles whether raw gather pick data will be converted to int16 or not (saves RAM)
+preload_trace_data: false  # toggles whether to preload the entire gather dataset onto RAM or not
+cache_trace_metadata: true  # toggles whether to cache the trace metadata for all gathers at launch
+provide_offset_dists: true  # toggles whether to provide the receiver offset distances for extra channels or not
+pad_to_nearest_pow2: true  # toggles whether to pad gather iomages to their nearest power-of-two size
+use_batch_sampler: false  # toggles whether to use the batch sample for more complex data loading behaviors
+use_rebalancing_sampler: true  # toggles whether to use the automatic batch rebalancing via the custom sampler
+skip_setup_overlap_check: true  # toggles whether to skip the gather overlap check across sets at launch
+train_loader_params:  # list of sites and their parameters that will constitute the training set
+  - site_name: Sudbury  # this means the entirety of Sudbury will be used in the training set
+    segm_first_break_buffer: 0  # sets the 'buffer' size around which picks will be considered valid
+    auto_invalidate_outliers: true  # runs the outlier detection+invalidation code on the loaded trace data
+    outlier_detection_threshold: 0.95  # hyperparameter for the outlier detection+invalidation code
+    outlier_detection_strategy: global-linear-fit-error-quantile  # same as above, hyperparameter
+    generate_first_break_prior_masks: true  # toggles whether to generate first break prior masks as channels
+    augmentations:  # defines the data augmentation operations to apply to the loaded gathers
+      - type: crop  # this will crop the gathers so that they have shapes that are more easily stackable
+        params:
+          low_sample_count: 512  # minimum number of samples inside the traces
+          high_sample_count: 1024  # maximum number of samples inside the traces
+          max_crop_fraction: 0.333  # hyperparameter controlling the ratio of downsampling to upsampling
+      - type: kill  # this will nullify a random portion of the traces inside each gather
+        params:
+          prob: 0.08
+      - type: drop_and_pad  # this will 'drop' (remove) a random portion of traces inside each gather
+        params:
+          target_trace_counts: [ 64, 128, 256, 512 ]  # the list of supported trace counts per gather
+          full_snap: true  # defines whether we will force the gathers to have one of the above trace counts
+          max_drop_ratio: 0.50  # defines the maximum number of traces that can be dropped inside a gather
+      - type: flip  # this will randomly flip gathers horizontally
+valid_loader_params:  # list of sites and their parameters that will constitute the validation set
+  - site_name: Halfmile  # this means the entirety of Halfmile will be used in the validation set
+    generate_first_break_prior_masks: true  # toggles whether to generate first break prior masks as channels
+test_loader_params:  # leave empty == no test set
+
+# MODEL ARGS
+model_type: FBPUNet  # class name of the model that will be instantiated
+model_checkpoint:   # keep empty if we're not training from a pre-trained state
+unet_encoder_type: resnet18  # the U-Net's encoder will be based on the ResNet18 architecture
+unet_decoder_type: vanilla  # the U-Net's decoder will be based on a simple Conv-BN-ReLU architecture
+use_dist_offsets: true  # defines whether the U-Net should be built to use dist offsets
+use_first_break_prior: true  # defines whether the U-Net should be built to expect the first break prior channel(s)
+coordconv: false  # toggles whether coordinate convolutions should be activated internally or not
+use_checkpointing: false  # toggles whether to use model checkpointing internally to save some GPU RAM
+encoder_block_count: 5  # number of blocks that are used in the encoder architecture
+mid_block_channels: 0  # number of 'middle' blocks defined to bridge the encoder and decoder architectures
+decoder_block_channels: [ 512, 256, 128, 64, 32 ]  # depth of each decoder block; note: list length is block count!
+decoder_attention_type:  # keep empty if we're not using attention mechanisms in the decoder
+segm_class_count: 1  # number of classes that the U-Net will predict (1 = binary = first-break vs not-first-break)
+gathers_to_display: 10  # number of gathers that will be rendered and saved via tensorboard or other loggers
+optimizer_type: Adam  # class name of the optimizer that will be instantiated
+optimizer_params:  # hyperparameters that will be passed to the constructor of the optimizer (along with model params)
+  lr: 0.001  # base learning rate to use (before any scheduling rule is applied)
+  weight_decay: 0.000001  # weight decay factor to use (if any; specified by Adam)
+scheduler_type: StepLR  # class name of the learning rate scheduler that will be instantiate (optional!)
+scheduler_params:  # hyperparameters that will be passed to the constructor of the scheduler (along with the optimizer)
+  step_size: 12  # number of steps (epochs) to complete before 'stepping' down the learning rate
+  gamma: 0.1  # the factor to apply for each learning rate step
+update_scheduler_at_epochs: true  # toggles whether to update the scheduler at epochs or iterations
+loss_type: crossentropy  # name/type of the loss module to instantiate in order to train the model
+loss_params:  # hyperparameters that will be passed to the constructor of the loss module (if any)
+
+# METRICS ARGS
+eval_type: FBPEvaluator  # class name of the evaluator that will be instantiated
+segm_first_break_prob_threshold: 0.01  # sensitivity threshold used to binarize the first break predictions
+use_full_metrics_during_training: false  # toggles whether to compute all metrics on the training set (might be slow!)
+eval_metrics:
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 1
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 3
+  - metric_type: GatherCoverage
+  - metric_type: MeanAbsoluteError
+  - metric_type: RootMeanSquaredError
+  - metric_type: MeanBiasError

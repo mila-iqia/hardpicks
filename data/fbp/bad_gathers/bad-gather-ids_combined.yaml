@@ -1,0 +1,8504 @@
+Brunswick:
+  809:
+    ReceiverId: 461001
+    ShotId: 11078
+  881:
+    ReceiverId: 461001
+    ShotId: 11084
+  1056:
+    ReceiverId: 381280
+    ShotId: 11105
+  1953:
+    ReceiverId: 581067
+    ShotId: 31079
+  3491:
+    ReceiverId: 401269
+    ShotId: 51109
+  4827:
+    ReceiverId: 181014
+    ShotId: 91001
+  8123:
+    ReceiverId: 541001
+    ShotId: 131089
+  9676:
+    ReceiverId: 141267
+    ShotId: 171001
+  9683:
+    ReceiverId: 41240
+    ShotId: 171004
+  9684:
+    ReceiverId: 61206
+    ShotId: 171004
+  10582:
+    ReceiverId: 321279
+    ShotId: 171090
+  14897:
+    ReceiverId: 241002
+    ShotId: 251016
+  14983:
+    ReceiverId: 41278
+    ShotId: 251024
+  14993:
+    ReceiverId: 241280
+    ShotId: 251024
+Halfmile:
+  2919:
+    ReceiverId: 10152905
+    ShotId: 20181320
+  2967:
+    ReceiverId: 10152905
+    ShotId: 20181326
+  3439:
+    ReceiverId: 10152404
+    ShotId: 20221154
+  3699:
+    ReceiverId: 10071600
+    ShotId: 20221250
+  4151:
+    ReceiverId: 10152404
+    ShotId: 20241131
+  5397:
+    ReceiverId: 10112002
+    ShotId: 20321050
+Lalor:
+  75:
+    ReceiverId: 145123
+    ShotId: 202105
+  76:
+    ReceiverId: 149120
+    ShotId: 202105
+  77:
+    ReceiverId: 153275
+    ShotId: 202105
+  151:
+    ReceiverId: 129102
+    ShotId: 202110
+  199:
+    ReceiverId: 129102
+    ShotId: 202113
+  463:
+    ReceiverId: 161101
+    ShotId: 202129
+  479:
+    ReceiverId: 161101
+    ShotId: 202130
+  495:
+    ReceiverId: 161101
+    ShotId: 202131
+  807:
+    ReceiverId: 129274
+    ShotId: 202152
+  1077:
+    ReceiverId: 121265
+    ShotId: 202169
+  1209:
+    ReceiverId: 137101
+    ShotId: 206102
+  1586:
+    ReceiverId: 105101
+    ShotId: 206127
+  1589:
+    ReceiverId: 117103
+    ShotId: 206127
+  1639:
+    ReceiverId: 153101
+    ShotId: 206130
+  2433:
+    ReceiverId: 129102
+    ShotId: 210106
+  2434:
+    ReceiverId: 133100
+    ShotId: 210106
+  3017:
+    ReceiverId: 161101
+    ShotId: 210142
+  3245:
+    ReceiverId: 113101
+    ShotId: 210157
+  3341:
+    ReceiverId: 113112
+    ShotId: 210163
+  3893:
+    ReceiverId: 145272
+    ShotId: 214122
+  4108:
+    ReceiverId: 109102
+    ShotId: 214136
+  5521:
+    ReceiverId: 113101
+    ShotId: 218150
+  5749:
+    ReceiverId: 129107
+    ShotId: 218164
+  6805:
+    ReceiverId: 129115
+    ShotId: 222156
+  6913:
+    ReceiverId: 113101
+    ShotId: 222163
+  7062:
+    ReceiverId: 129102
+    ShotId: 222173
+  7174:
+    ReceiverId: 129263
+    ShotId: 226105
+  7192:
+    ReceiverId: 137274
+    ShotId: 226106
+  7253:
+    ReceiverId: 125101
+    ShotId: 226110
+  7284:
+    ReceiverId: 121105
+    ShotId: 226112
+  7318:
+    ReceiverId: 129117
+    ShotId: 226114
+  7934:
+    ReceiverId: 129126
+    ShotId: 226153
+  7998:
+    ReceiverId: 129125
+    ShotId: 226157
+  8158:
+    ReceiverId: 129267
+    ShotId: 226167
+  8174:
+    ReceiverId: 129105
+    ShotId: 226168
+  8206:
+    ReceiverId: 129113
+    ShotId: 226170
+  8254:
+    ReceiverId: 129273
+    ShotId: 226173
+  8270:
+    ReceiverId: 129105
+    ShotId: 226174
+  8303:
+    ReceiverId: 133100
+    ShotId: 230101
+  8402:
+    ReceiverId: 145104
+    ShotId: 230107
+  8497:
+    ReceiverId: 141102
+    ShotId: 230113
+  9102:
+    ReceiverId: 129258
+    ShotId: 230151
+  9310:
+    ReceiverId: 129122
+    ShotId: 230165
+  9646:
+    ReceiverId: 129272
+    ShotId: 234103
+  9662:
+    ReceiverId: 129274
+    ShotId: 234104
+  9677:
+    ReceiverId: 125272
+    ShotId: 234105
+  9680:
+    ReceiverId: 137101
+    ShotId: 234105
+  9745:
+    ReceiverId: 141275
+    ShotId: 234109
+  9774:
+    ReceiverId: 129263
+    ShotId: 234111
+  9875:
+    ReceiverId: 149275
+    ShotId: 234117
+  9923:
+    ReceiverId: 149272
+    ShotId: 234120
+  10115:
+    ReceiverId: 149102
+    ShotId: 234144
+  10277:
+    ReceiverId: 157272
+    ShotId: 234154
+  10411:
+    ReceiverId: 117262
+    ShotId: 234163
+  10426:
+    ReceiverId: 113101
+    ShotId: 234164
+  10556:
+    ReceiverId: 121102
+    ShotId: 234172
+  10591:
+    ReceiverId: 133111
+    ShotId: 234174
+  10677:
+    ReceiverId: 157102
+    ShotId: 236123
+  10978:
+    ReceiverId: 145276
+    ShotId: 238129
+  11014:
+    ReceiverId: 161277
+    ShotId: 238131
+  11048:
+    ReceiverId: 105253
+    ShotId: 238134
+  11401:
+    ReceiverId: 109253
+    ShotId: 238156
+  11747:
+    ReceiverId: 149275
+    ShotId: 242117
+  11843:
+    ReceiverId: 149101
+    ShotId: 242123
+  12673:
+    ReceiverId: 141101
+    ShotId: 246119
+  12995:
+    ReceiverId: 149275
+    ShotId: 246139
+  13032:
+    ReceiverId: 105101
+    ShotId: 246142
+  13551:
+    ReceiverId: 133103
+    ShotId: 246174
+  13552:
+    ReceiverId: 137103
+    ShotId: 246174
+  13603:
+    ReceiverId: 149275
+    ShotId: 250122
+  13604:
+    ReceiverId: 153101
+    ShotId: 250122
+  13667:
+    ReceiverId: 149101
+    ShotId: 250126
+  13669:
+    ReceiverId: 157101
+    ShotId: 250126
+  13689:
+    ReceiverId: 109252
+    ShotId: 250128
+  13737:
+    ReceiverId: 109103
+    ShotId: 250131
+  13892:
+    ReceiverId: 153101
+    ShotId: 250140
+  13929:
+    ReceiverId: 109102
+    ShotId: 250143
+  14398:
+    ReceiverId: 129102
+    ShotId: 250172
+  14432:
+    ReceiverId: 137102
+    ShotId: 250174
+Matagami:
+  312:
+    ReceiverId: 1003
+    ShotId: 2052
+  456:
+    ReceiverId: 1018
+    ShotId: 3036
+  536:
+    ReceiverId: 1082
+    ShotId: 3056
+  584:
+    ReceiverId: 1082
+    ShotId: 3068
+  619:
+    ReceiverId: 4081
+    ShotId: 4002
+  785:
+    ReceiverId: 2075
+    ShotId: 4044
+  856:
+    ReceiverId: 1094
+    ShotId: 4062
+  865:
+    ReceiverId: 2029
+    ShotId: 4064
+  893:
+    ReceiverId: 6080
+    ShotId: 5006
+  1031:
+    ReceiverId: 8096
+    ShotId: 5040
+  1056:
+    ReceiverId: 1082
+    ShotId: 5048
+  1313:
+    ReceiverId: 2001
+    ShotId: 7016
+  1588:
+    ReceiverId: 5001
+    ShotId: 8030
+  1594:
+    ReceiverId: 3001
+    ShotId: 8032
+  1597:
+    ReceiverId: 6096
+    ShotId: 8032
+  1608:
+    ReceiverId: 1096
+    ShotId: 8036
+  1654:
+    ReceiverId: 7092
+    ShotId: 8046
+  1755:
+    ReceiverId: 4080
+    ShotId: 9014
+  1771:
+    ReceiverId: 4080
+    ShotId: 9018
+  1798:
+    ReceiverId: 7001
+    ShotId: 9024
+  1952:
+    ReceiverId: 1082
+    ShotId: 10006
+  1954:
+    ReceiverId: 3080
+    ShotId: 10006
+  1955:
+    ReceiverId: 4080
+    ShotId: 10006
+  1992:
+    ReceiverId: 1018
+    ShotId: 10016
+  1995:
+    ReceiverId: 4017
+    ShotId: 10016
+  2000:
+    ReceiverId: 1096
+    ShotId: 10018
+  2001:
+    ReceiverId: 2001
+    ShotId: 10018
+  2052:
+    ReceiverId: 5096
+    ShotId: 10030
+  2061:
+    ReceiverId: 6094
+    ShotId: 10032
+  2111:
+    ReceiverId: 8003
+    ShotId: 10044
+  2163:
+    ReceiverId: 4017
+    ShotId: 11014
+  2176:
+    ReceiverId: 1096
+    ShotId: 11018
+  2272:
+    ReceiverId: 1018
+    ShotId: 11044
+  2436:
+    ReceiverId: 5052
+    ShotId: 12042
+  2442:
+    ReceiverId: 3049
+    ShotId: 12044
+  2443:
+    ReceiverId: 4132
+    ShotId: 12044
+  2474:
+    ReceiverId: 3128
+    ShotId: 12052
+  2709:
+    ReceiverId: 1066
+    ShotId: 13060
+  2764:
+    ReceiverId: 2062
+    ShotId: 14012
+  2766:
+    ReceiverId: 4133
+    ShotId: 14012
+  2771:
+    ReceiverId: 1141
+    ShotId: 14014
+  2973:
+    ReceiverId: 3144
+    ShotId: 14064
+  2974:
+    ReceiverId: 4077
+    ShotId: 14064
+  2975:
+    ReceiverId: 5115
+    ShotId: 14064
+  3133:
+    ReceiverId: 3061
+    ShotId: 15040
+  3436:
+    ReceiverId: 2139
+    ShotId: 17008
+  3502:
+    ReceiverId: 4144
+    ShotId: 17024
+  4738:
+    ReceiverId: 2097
+    ShotId: 23034
+  4759:
+    ReceiverId: 8185
+    ShotId: 23038
+  5092:
+    ReceiverId: 5112
+    ShotId: 24058
+  5530:
+    ReceiverId: 3176
+    ShotId: 26042
+  5531:
+    ReceiverId: 4176
+    ShotId: 26042
+  5600:
+    ReceiverId: 1107
+    ShotId: 26060
+  5619:
+    ReceiverId: 4176
+    ShotId: 26064
+  5629:
+    ReceiverId: 6176
+    ShotId: 26066
+  5664:
+    ReceiverId: 1108
+    ShotId: 27010
+  5853:
+    ReceiverId: 6113
+    ShotId: 27056
+  5939:
+    ReceiverId: 4177
+    ShotId: 28016
+  6039:
+    ReceiverId: 8110
+    ShotId: 28040
+  6063:
+    ReceiverId: 8178
+    ShotId: 28046
+  6069:
+    ReceiverId: 6104
+    ShotId: 28048
+  6070:
+    ReceiverId: 7179
+    ShotId: 28048
+  6071:
+    ReceiverId: 8107
+    ShotId: 28048
+  6097:
+    ReceiverId: 2176
+    ShotId: 28056
+  6129:
+    ReceiverId: 2176
+    ShotId: 28064
+  6136:
+    ReceiverId: 1113
+    ShotId: 28066
+  6151:
+    ReceiverId: 8181
+    ShotId: 29002
+  6158:
+    ReceiverId: 7110
+    ShotId: 29004
+  6172:
+    ReceiverId: 5113
+    ShotId: 29008
+  6175:
+    ReceiverId: 8114
+    ShotId: 29008
+  6281:
+    ReceiverId: 2113
+    ShotId: 29036
+  6286:
+    ReceiverId: 7180
+    ShotId: 29036
+  6296:
+    ReceiverId: 1113
+    ShotId: 29040
+  6410:
+    ReceiverId: 3112
+    ShotId: 30002
+  6494:
+    ReceiverId: 7105
+    ShotId: 30022
+  6507:
+    ReceiverId: 4112
+    ShotId: 30026
+  6522:
+    ReceiverId: 3107
+    ShotId: 30030
+  6553:
+    ReceiverId: 2113
+    ShotId: 30038
+  6554:
+    ReceiverId: 3113
+    ShotId: 30038
+  6569:
+    ReceiverId: 2113
+    ShotId: 30042
+  6570:
+    ReceiverId: 3177
+    ShotId: 30042
+  6589:
+    ReceiverId: 6113
+    ShotId: 30046
+  6594:
+    ReceiverId: 3113
+    ShotId: 30048
+  6603:
+    ReceiverId: 4175
+    ShotId: 30050
+  6609:
+    ReceiverId: 2098
+    ShotId: 30052
+  6613:
+    ReceiverId: 6179
+    ShotId: 30052
+  6635:
+    ReceiverId: 4113
+    ShotId: 30058
+  6640:
+    ReceiverId: 1112
+    ShotId: 30060
+  6644:
+    ReceiverId: 5113
+    ShotId: 30060
+  6651:
+    ReceiverId: 4176
+    ShotId: 30062
+  6660:
+    ReceiverId: 5176
+    ShotId: 30064
+  6675:
+    ReceiverId: 4176
+    ShotId: 31002
+  6687:
+    ReceiverId: 8182
+    ShotId: 31004
+  6721:
+    ReceiverId: 2176
+    ShotId: 31014
+  6728:
+    ReceiverId: 1192
+    ShotId: 31016
+  6745:
+    ReceiverId: 2180
+    ShotId: 31020
+  6777:
+    ReceiverId: 2097
+    ShotId: 31028
+  6832:
+    ReceiverId: 1192
+    ShotId: 31042
+  6857:
+    ReceiverId: 2173
+    ShotId: 31048
+  6869:
+    ReceiverId: 6178
+    ShotId: 31050
+  6875:
+    ReceiverId: 4112
+    ShotId: 31052
+  6888:
+    ReceiverId: 1176
+    ShotId: 31056
+  6896:
+    ReceiverId: 1113
+    ShotId: 31058
+  6898:
+    ReceiverId: 3112
+    ShotId: 31058
+  6899:
+    ReceiverId: 4179
+    ShotId: 31058
+  6905:
+    ReceiverId: 2186
+    ShotId: 31060
+  6908:
+    ReceiverId: 5113
+    ShotId: 31060
+  6920:
+    ReceiverId: 1176
+    ShotId: 31064
+  6925:
+    ReceiverId: 6113
+    ShotId: 31064
+  6929:
+    ReceiverId: 2109
+    ShotId: 31066
+  6931:
+    ReceiverId: 4113
+    ShotId: 31066
+  6952:
+    ReceiverId: 1192
+    ShotId: 32006
+  6958:
+    ReceiverId: 7176
+    ShotId: 32006
+  6959:
+    ReceiverId: 8176
+    ShotId: 32006
+  7000:
+    ReceiverId: 1178
+    ShotId: 32018
+  7049:
+    ReceiverId: 2192
+    ShotId: 32030
+  7082:
+    ReceiverId: 3172
+    ShotId: 32038
+  7121:
+    ReceiverId: 2100
+    ShotId: 32048
+  7126:
+    ReceiverId: 7177
+    ShotId: 32048
+  7127:
+    ReceiverId: 8179
+    ShotId: 32048
+  7136:
+    ReceiverId: 1176
+    ShotId: 32052
+  7138:
+    ReceiverId: 3114
+    ShotId: 32052
+  7162:
+    ReceiverId: 3177
+    ShotId: 32058
+  7168:
+    ReceiverId: 1192
+    ShotId: 32060
+  7185:
+    ReceiverId: 2176
+    ShotId: 32064
+  7190:
+    ReceiverId: 7113
+    ShotId: 32064
+  7239:
+    ReceiverId: 22001
+    ShotId: 33010
+  7663:
+    ReceiverId: 22001
+    ShotId: 35008
+  7748:
+    ReceiverId: 19093
+    ShotId: 35030
+  7887:
+    ReceiverId: 22081
+    ShotId: 35064
+  7907:
+    ReceiverId: 18001
+    ShotId: 36002
+  7909:
+    ReceiverId: 20096
+    ShotId: 36002
+  7919:
+    ReceiverId: 22015
+    ShotId: 36004
+  7966:
+    ReceiverId: 16096
+    ShotId: 36022
+  8027:
+    ReceiverId: 21084
+    ShotId: 36036
+  8140:
+    ReceiverId: 22014
+    ShotId: 36064
+  8165:
+    ReceiverId: 15009
+    ShotId: 37004
+  8179:
+    ReceiverId: 21096
+    ShotId: 37006
+  8192:
+    ReceiverId: 18001
+    ShotId: 37010
+  8203:
+    ReceiverId: 22001
+    ShotId: 37012
+  8205:
+    ReceiverId: 16096
+    ShotId: 37014
+  8256:
+    ReceiverId: 19001
+    ShotId: 37026
+  8258:
+    ReceiverId: 21081
+    ShotId: 37026
+  8261:
+    ReceiverId: 16096
+    ShotId: 37028
+  8269:
+    ReceiverId: 16096
+    ShotId: 37030
+  8278:
+    ReceiverId: 17007
+    ShotId: 37032
+  8319:
+    ReceiverId: 18010
+    ShotId: 37042
+  8385:
+    ReceiverId: 20091
+    ShotId: 37058
+  8462:
+    ReceiverId: 17007
+    ShotId: 38010
+  8600:
+    ReceiverId: 19096
+    ShotId: 38044
+  8700:
+    ReceiverId: 15096
+    ShotId: 39002
+  8705:
+    ReceiverId: 20007
+    ShotId: 39002
+  8706:
+    ReceiverId: 21096
+    ShotId: 39002
+  8707:
+    ReceiverId: 22002
+    ShotId: 39002
+  8709:
+    ReceiverId: 16096
+    ShotId: 39004
+  8714:
+    ReceiverId: 21001
+    ShotId: 39004
+  8717:
+    ReceiverId: 16096
+    ShotId: 39006
+  8720:
+    ReceiverId: 19096
+    ShotId: 39006
+  8721:
+    ReceiverId: 20094
+    ShotId: 39006
+  8821:
+    ReceiverId: 16007
+    ShotId: 39032
+  8934:
+    ReceiverId: 17013
+    ShotId: 39060
+  8981:
+    ReceiverId: 16089
+    ShotId: 40004
+  8982:
+    ReceiverId: 17007
+    ShotId: 40004
+  8984:
+    ReceiverId: 19001
+    ShotId: 40004
+  8985:
+    ReceiverId: 20094
+    ShotId: 40004
+  8990:
+    ReceiverId: 17095
+    ShotId: 40006
+  8995:
+    ReceiverId: 22001
+    ShotId: 40006
+  9019:
+    ReceiverId: 22096
+    ShotId: 40012
+  9020:
+    ReceiverId: 15096
+    ShotId: 40014
+  9038:
+    ReceiverId: 17008
+    ShotId: 40018
+  9054:
+    ReceiverId: 17096
+    ShotId: 40022
+  9055:
+    ReceiverId: 18093
+    ShotId: 40022
+  9237:
+    ReceiverId: 16007
+    ShotId: 41002
+  9268:
+    ReceiverId: 15007
+    ShotId: 41010
+  9284:
+    ReceiverId: 15007
+    ShotId: 41014
+  9357:
+    ReceiverId: 16096
+    ShotId: 41032
+  9396:
+    ReceiverId: 15007
+    ShotId: 41042
+  9656:
+    ReceiverId: 19001
+    ShotId: 43006
+  9659:
+    ReceiverId: 22001
+    ShotId: 43006
+  9724:
+    ReceiverId: 15096
+    ShotId: 43024
+  9743:
+    ReceiverId: 18001
+    ShotId: 43028
+  9761:
+    ReceiverId: 20096
+    ShotId: 43032
+  9799:
+    ReceiverId: 18093
+    ShotId: 43042
+  9803:
+    ReceiverId: 22095
+    ShotId: 43042
+  9854:
+    ReceiverId: 17084
+    ShotId: 45002
+  9855:
+    ReceiverId: 18080
+    ShotId: 45002
+  9943:
+    ReceiverId: 18016
+    ShotId: 46002
+  9954:
+    ReceiverId: 21082
+    ShotId: 46004
+  9978:
+    ReceiverId: 21017
+    ShotId: 46010
+  9992:
+    ReceiverId: 19082
+    ShotId: 46014
+  10007:
+    ReceiverId: 18086
+    ShotId: 46018
+  10009:
+    ReceiverId: 20083
+    ShotId: 46018
+  10010:
+    ReceiverId: 21080
+    ShotId: 46018
+  10025:
+    ReceiverId: 20016
+    ShotId: 46022
+  10027:
+    ReceiverId: 22081
+    ShotId: 46022
+  10029:
+    ReceiverId: 27001
+    ShotId: 48002
+  10030:
+    ReceiverId: 28096
+    ShotId: 48002
+  10037:
+    ReceiverId: 16143
+    ShotId: 49002
+  10039:
+    ReceiverId: 18144
+    ShotId: 49002
+  10040:
+    ReceiverId: 19144
+    ShotId: 49002
+  10041:
+    ReceiverId: 20049
+    ShotId: 49002
+  10044:
+    ReceiverId: 15049
+    ShotId: 49008
+  10112:
+    ReceiverId: 19049
+    ShotId: 49024
+  10220:
+    ReceiverId: 15067
+    ShotId: 49052
+  10241:
+    ReceiverId: 20054
+    ShotId: 50002
+  10543:
+    ReceiverId: 18049
+    ShotId: 51034
+  10545:
+    ReceiverId: 20143
+    ShotId: 51034
+  10678:
+    ReceiverId: 17144
+    ShotId: 51068
+  10784:
+    ReceiverId: 19134
+    ShotId: 52028
+  10928:
+    ReceiverId: 19139
+    ShotId: 53002
+  11085:
+    ReceiverId: 16144
+    ShotId: 53044
+  11087:
+    ReceiverId: 18144
+    ShotId: 53044
+  11105:
+    ReceiverId: 20144
+    ShotId: 53048
+  11106:
+    ReceiverId: 21144
+    ShotId: 53048
+  11170:
+    ReceiverId: 21130
+    ShotId: 53064
+  11171:
+    ReceiverId: 22062
+    ShotId: 53064
+  11365:
+    ReceiverId: 16139
+    ShotId: 54048
+  11369:
+    ReceiverId: 20131
+    ShotId: 54048
+  11371:
+    ReceiverId: 22055
+    ShotId: 54048
+  11601:
+    ReceiverId: 20144
+    ShotId: 55042
+  11626:
+    ReceiverId: 21054
+    ShotId: 55048
+  11631:
+    ReceiverId: 18129
+    ShotId: 55050
+  11633:
+    ReceiverId: 20139
+    ShotId: 55050
+  11635:
+    ReceiverId: 22054
+    ShotId: 55050
+  12417:
+    ReceiverId: 20054
+    ShotId: 58044
+  12540:
+    ReceiverId: 15129
+    ShotId: 59008
+  12592:
+    ReceiverId: 19130
+    ShotId: 59020
+  12598:
+    ReceiverId: 17128
+    ShotId: 59022
+  13182:
+    ReceiverId: 17176
+    ShotId: 62012
+  13295:
+    ReceiverId: 18177
+    ShotId: 62040
+  13376:
+    ReceiverId: 19114
+    ShotId: 62060
+  13389:
+    ReceiverId: 16175
+    ShotId: 62064
+  13390:
+    ReceiverId: 17177
+    ShotId: 62064
+  13396:
+    ReceiverId: 15113
+    ShotId: 62066
+  13397:
+    ReceiverId: 16119
+    ShotId: 62066
+  13400:
+    ReceiverId: 19178
+    ShotId: 62066
+  13412:
+    ReceiverId: 15113
+    ShotId: 63004
+  13439:
+    ReceiverId: 18113
+    ShotId: 63010
+  13460:
+    ReceiverId: 15111
+    ShotId: 63016
+  13461:
+    ReceiverId: 16122
+    ShotId: 63016
+  13662:
+    ReceiverId: 17177
+    ShotId: 63066
+  13663:
+    ReceiverId: 18111
+    ShotId: 63066
+  13664:
+    ReceiverId: 19178
+    ShotId: 63066
+  13671:
+    ReceiverId: 18111
+    ShotId: 63068
+  13672:
+    ReceiverId: 19115
+    ShotId: 63068
+  13674:
+    ReceiverId: 21177
+    ShotId: 63068
+  13699:
+    ReceiverId: 22176
+    ShotId: 64008
+  13703:
+    ReceiverId: 18112
+    ShotId: 64010
+  13705:
+    ReceiverId: 20116
+    ShotId: 64010
+  13706:
+    ReceiverId: 21181
+    ShotId: 64010
+  13728:
+    ReceiverId: 19114
+    ShotId: 64016
+  13767:
+    ReceiverId: 18175
+    ShotId: 64026
+  13819:
+    ReceiverId: 22176
+    ShotId: 64038
+  13828:
+    ReceiverId: 15113
+    ShotId: 64042
+  13845:
+    ReceiverId: 16113
+    ShotId: 64046
+  13846:
+    ReceiverId: 17176
+    ShotId: 64046
+  13878:
+    ReceiverId: 17180
+    ShotId: 64054
+  13916:
+    ReceiverId: 15113
+    ShotId: 64064
+  13918:
+    ReceiverId: 17113
+    ShotId: 64064
+  13925:
+    ReceiverId: 16113
+    ShotId: 64066
+  13927:
+    ReceiverId: 18110
+    ShotId: 64066
+  13930:
+    ReceiverId: 21182
+    ShotId: 64066
+  13934:
+    ReceiverId: 17178
+    ShotId: 64068
+  13935:
+    ReceiverId: 18177
+    ShotId: 64068
+  13939:
+    ReceiverId: 22176
+    ShotId: 64068
+  13947:
+    ReceiverId: 22176
+    ShotId: 65002
+  13949:
+    ReceiverId: 16113
+    ShotId: 65004
+  13950:
+    ReceiverId: 17183
+    ShotId: 65004
+  13951:
+    ReceiverId: 18117
+    ShotId: 65004
+  13953:
+    ReceiverId: 20186
+    ShotId: 65004
+  13954:
+    ReceiverId: 21118
+    ShotId: 65004
+  13958:
+    ReceiverId: 17113
+    ShotId: 65006
+  13972:
+    ReceiverId: 15176
+    ShotId: 65010
+  13982:
+    ReceiverId: 17120
+    ShotId: 65012
+  13992:
+    ReceiverId: 19116
+    ShotId: 65014
+  13993:
+    ReceiverId: 20114
+    ShotId: 65014
+  13997:
+    ReceiverId: 16179
+    ShotId: 65016
+  13998:
+    ReceiverId: 17113
+    ShotId: 65016
+  14004:
+    ReceiverId: 15118
+    ShotId: 65018
+  14009:
+    ReceiverId: 20110
+    ShotId: 65018
+  14102:
+    ReceiverId: 17113
+    ShotId: 65042
+  14118:
+    ReceiverId: 17176
+    ShotId: 65046
+  14126:
+    ReceiverId: 17176
+    ShotId: 65048
+  14129:
+    ReceiverId: 20176
+    ShotId: 65048
+  14149:
+    ReceiverId: 16176
+    ShotId: 65054
+  14150:
+    ReceiverId: 17109
+    ShotId: 65054
+  14159:
+    ReceiverId: 18174
+    ShotId: 65056
+  14164:
+    ReceiverId: 15174
+    ShotId: 65058
+  14174:
+    ReceiverId: 17192
+    ShotId: 65060
+  14176:
+    ReceiverId: 19182
+    ShotId: 65060
+  14177:
+    ReceiverId: 20114
+    ShotId: 65060
+  14187:
+    ReceiverId: 22112
+    ShotId: 65062
+  14188:
+    ReceiverId: 15176
+    ShotId: 65064
+  14190:
+    ReceiverId: 17113
+    ShotId: 65064
+  14205:
+    ReceiverId: 16113
+    ShotId: 65068
+  14206:
+    ReceiverId: 17113
+    ShotId: 65068
+  14208:
+    ReceiverId: 19115
+    ShotId: 65068
+  14209:
+    ReceiverId: 20113
+    ShotId: 65068
+  14210:
+    ReceiverId: 21177
+    ShotId: 65068
+  14211:
+    ReceiverId: 22113
+    ShotId: 65068
+  14213:
+    ReceiverId: 16113
+    ShotId: 66004
+  14214:
+    ReceiverId: 17176
+    ShotId: 66004
+  14219:
+    ReceiverId: 22114
+    ShotId: 66004
+  14226:
+    ReceiverId: 21178
+    ShotId: 66006
+  14227:
+    ReceiverId: 22113
+    ShotId: 66006
+  14238:
+    ReceiverId: 17176
+    ShotId: 66010
+  14240:
+    ReceiverId: 19178
+    ShotId: 66010
+  14246:
+    ReceiverId: 17113
+    ShotId: 66012
+  14253:
+    ReceiverId: 16111
+    ShotId: 66014
+  14259:
+    ReceiverId: 22176
+    ShotId: 66014
+  14263:
+    ReceiverId: 18174
+    ShotId: 66016
+  14268:
+    ReceiverId: 15110
+    ShotId: 66018
+  14269:
+    ReceiverId: 16176
+    ShotId: 66018
+  14270:
+    ReceiverId: 17113
+    ShotId: 66018
+  14271:
+    ReceiverId: 18173
+    ShotId: 66018
+  14272:
+    ReceiverId: 19181
+    ShotId: 66018
+  14275:
+    ReceiverId: 22112
+    ShotId: 66018
+  14283:
+    ReceiverId: 22113
+    ShotId: 66020
+  14288:
+    ReceiverId: 19114
+    ShotId: 66022
+  14291:
+    ReceiverId: 22113
+    ShotId: 66022
+  14333:
+    ReceiverId: 16181
+    ShotId: 66034
+  14342:
+    ReceiverId: 17190
+    ShotId: 66036
+  14405:
+    ReceiverId: 16176
+    ShotId: 66052
+  14406:
+    ReceiverId: 17176
+    ShotId: 66052
+  14432:
+    ReceiverId: 17173
+    ShotId: 66060
+  14433:
+    ReceiverId: 18110
+    ShotId: 66060
+  14439:
+    ReceiverId: 16112
+    ShotId: 66062
+  14448:
+    ReceiverId: 17176
+    ShotId: 66064
+  14449:
+    ReceiverId: 18172
+    ShotId: 66064
+  14452:
+    ReceiverId: 21180
+    ShotId: 66064
+  14462:
+    ReceiverId: 15176
+    ShotId: 66068
+  14473:
+    ReceiverId: 18173
+    ShotId: 67002
+  14476:
+    ReceiverId: 21181
+    ShotId: 67002
+  14479:
+    ReceiverId: 16119
+    ShotId: 67004
+  14488:
+    ReceiverId: 17176
+    ShotId: 67006
+  14490:
+    ReceiverId: 19116
+    ShotId: 67006
+  14491:
+    ReceiverId: 20114
+    ShotId: 67006
+  14498:
+    ReceiverId: 19115
+    ShotId: 67008
+  14525:
+    ReceiverId: 22179
+    ShotId: 67014
+  14543:
+    ReceiverId: 16182
+    ShotId: 67020
+  14670:
+    ReceiverId: 15113
+    ShotId: 67052
+  14673:
+    ReceiverId: 18173
+    ShotId: 67052
+  14696:
+    ReceiverId: 17176
+    ShotId: 67058
+  14703:
+    ReceiverId: 16176
+    ShotId: 67060
+  14706:
+    ReceiverId: 19114
+    ShotId: 67060
+  14710:
+    ReceiverId: 15177
+    ShotId: 67062
+  14711:
+    ReceiverId: 16176
+    ShotId: 67062
+  14718:
+    ReceiverId: 15176
+    ShotId: 67064
+  14732:
+    ReceiverId: 21116
+    ShotId: 67066
+  14736:
+    ReceiverId: 17113
+    ShotId: 67068
+  14744:
+    ReceiverId: 17113
+    ShotId: 68002
+  14746:
+    ReceiverId: 19115
+    ShotId: 68002
+  14754:
+    ReceiverId: 19179
+    ShotId: 68004
+  14755:
+    ReceiverId: 20115
+    ShotId: 68004
+  14768:
+    ReceiverId: 17176
+    ShotId: 68008
+  14772:
+    ReceiverId: 21116
+    ShotId: 68008
+  14777:
+    ReceiverId: 18110
+    ShotId: 68010
+  14778:
+    ReceiverId: 19178
+    ShotId: 68010
+  14780:
+    ReceiverId: 21114
+    ShotId: 68010
+  14787:
+    ReceiverId: 20113
+    ShotId: 68012
+  14801:
+    ReceiverId: 18173
+    ShotId: 68016
+  14802:
+    ReceiverId: 19178
+    ShotId: 68016
+  14814:
+    ReceiverId: 15115
+    ShotId: 68020
+  14815:
+    ReceiverId: 16115
+    ShotId: 68020
+  14828:
+    ReceiverId: 21178
+    ShotId: 68022
+  14861:
+    ReceiverId: 22176
+    ShotId: 68030
+  14862:
+    ReceiverId: 15178
+    ShotId: 68032
+  14917:
+    ReceiverId: 22192
+    ShotId: 68044
+  14918:
+    ReceiverId: 15176
+    ShotId: 68046
+  14921:
+    ReceiverId: 18178
+    ShotId: 68046
+  14933:
+    ReceiverId: 22110
+    ShotId: 68048
+  14958:
+    ReceiverId: 15113
+    ShotId: 68056
+  14959:
+    ReceiverId: 16176
+    ShotId: 68056
+  14966:
+    ReceiverId: 15179
+    ShotId: 68058
+  14971:
+    ReceiverId: 20181
+    ShotId: 68058
+  14974:
+    ReceiverId: 15174
+    ShotId: 68060
+  14984:
+    ReceiverId: 17116
+    ShotId: 68062
+  14985:
+    ReceiverId: 18179
+    ShotId: 68062
+  14987:
+    ReceiverId: 20179
+    ShotId: 68062
+  14992:
+    ReceiverId: 17184
+    ShotId: 68064
+  14994:
+    ReceiverId: 19178
+    ShotId: 68064
+  14999:
+    ReceiverId: 16176
+    ShotId: 68066
+  15006:
+    ReceiverId: 15174
+    ShotId: 68068
+  15018:
+    ReceiverId: 19115
+    ShotId: 69002
+  15019:
+    ReceiverId: 20113
+    ShotId: 69002
+  15021:
+    ReceiverId: 22113
+    ShotId: 69002
+  15036:
+    ReceiverId: 21118
+    ShotId: 69006
+  15041:
+    ReceiverId: 18179
+    ShotId: 69008
+  15043:
+    ReceiverId: 20115
+    ShotId: 69008
+  15044:
+    ReceiverId: 21179
+    ShotId: 69008
+  15077:
+    ReceiverId: 22113
+    ShotId: 69016
+  15117:
+    ReceiverId: 22176
+    ShotId: 69026
+  15123:
+    ReceiverId: 20177
+    ShotId: 69028
+  15136:
+    ReceiverId: 17097
+    ShotId: 69032
+  15141:
+    ReceiverId: 22176
+    ShotId: 69032
+  15147:
+    ReceiverId: 20112
+    ShotId: 69034
+  15215:
+    ReceiverId: 16176
+    ShotId: 69052
+  15241:
+    ReceiverId: 18110
+    ShotId: 69058
+  15265:
+    ReceiverId: 18110
+    ShotId: 69064
+  15288:
+    ReceiverId: 17118
+    ShotId: 70002
+  15289:
+    ReceiverId: 18180
+    ShotId: 70002
+  15293:
+    ReceiverId: 22097
+    ShotId: 70002
+  15324:
+    ReceiverId: 21180
+    ShotId: 70010
+  15333:
+    ReceiverId: 22177
+    ShotId: 70012
+  15340:
+    ReceiverId: 21191
+    ShotId: 70014
+  15348:
+    ReceiverId: 21177
+    ShotId: 70016
+  15356:
+    ReceiverId: 21113
+    ShotId: 70018
+  15357:
+    ReceiverId: 22179
+    ShotId: 70018
+  15386:
+    ReceiverId: 19120
+    ShotId: 70026
+  15502:
+    ReceiverId: 15176
+    ShotId: 70056
+  15523:
+    ReceiverId: 20114
+    ShotId: 70060
+  15525:
+    ReceiverId: 22178
+    ShotId: 70060
+  15534:
+    ReceiverId: 15113
+    ShotId: 70064
+  15551:
+    ReceiverId: 16179
+    ShotId: 70068
+  15576:
+    ReceiverId: 17113
+    ShotId: 71006
+  15615:
+    ReceiverId: 16113
+    ShotId: 71016
+  15617:
+    ReceiverId: 18173
+    ShotId: 71016
+  15620:
+    ReceiverId: 21177
+    ShotId: 71016
+  15718:
+    ReceiverId: 26001
+    ShotId: 72022
+  15776:
+    ReceiverId: 28088
+    ShotId: 72036
+  15789:
+    ReceiverId: 33096
+    ShotId: 72038
+  15817:
+    ReceiverId: 29003
+    ShotId: 72046
+  15940:
+    ReceiverId: 32017
+    ShotId: 73020
+  16325:
+    ReceiverId: 33096
+    ShotId: 75008
+  16349:
+    ReceiverId: 33018
+    ShotId: 75014
+  16509:
+    ReceiverId: 33096
+    ShotId: 75054
+  16533:
+    ReceiverId: 33096
+    ShotId: 76002
+  16596:
+    ReceiverId: 32017
+    ShotId: 76018
+  16645:
+    ReceiverId: 33022
+    ShotId: 76030
+  16716:
+    ReceiverId: 32090
+    ShotId: 76048
+  16862:
+    ReceiverId: 26001
+    ShotId: 77028
+  16931:
+    ReceiverId: 31096
+    ShotId: 77044
+  16956:
+    ReceiverId: 32093
+    ShotId: 77050
+  17102:
+    ReceiverId: 26096
+    ShotId: 78028
+  17130:
+    ReceiverId: 30001
+    ShotId: 78034
+  17145:
+    ReceiverId: 29001
+    ShotId: 78038
+  17179:
+    ReceiverId: 31002
+    ShotId: 78046
+  17214:
+    ReceiverId: 26095
+    ShotId: 78056
+  17501:
+    ReceiverId: 33018
+    ShotId: 80006
+  17668:
+    ReceiverId: 32004
+    ShotId: 80048
+  17715:
+    ReceiverId: 33018
+    ShotId: 80060
+  17731:
+    ReceiverId: 33018
+    ShotId: 81006
+  17747:
+    ReceiverId: 33096
+    ShotId: 81010
+  17755:
+    ReceiverId: 33096
+    ShotId: 81012
+  17779:
+    ReceiverId: 33096
+    ShotId: 81018
+  17781:
+    ReceiverId: 27002
+    ShotId: 81020
+  17787:
+    ReceiverId: 33096
+    ShotId: 81020
+  17813:
+    ReceiverId: 27096
+    ShotId: 81028
+  17827:
+    ReceiverId: 33018
+    ShotId: 81030
+  17849:
+    ReceiverId: 31096
+    ShotId: 81036
+  17883:
+    ReceiverId: 33096
+    ShotId: 81044
+  17955:
+    ReceiverId: 33022
+    ShotId: 82008
+  17989:
+    ReceiverId: 27010
+    ShotId: 82018
+  18075:
+    ReceiverId: 33018
+    ShotId: 82038
+  18114:
+    ReceiverId: 32017
+    ShotId: 83002
+  18127:
+    ReceiverId: 29081
+    ShotId: 83006
+  18136:
+    ReceiverId: 30079
+    ShotId: 83008
+  18139:
+    ReceiverId: 33018
+    ShotId: 83008
+  18141:
+    ReceiverId: 27013
+    ShotId: 83010
+  18155:
+    ReceiverId: 33022
+    ShotId: 83012
+  18163:
+    ReceiverId: 33018
+    ShotId: 83014
+  18164:
+    ReceiverId: 26082
+    ShotId: 83016
+  18169:
+    ReceiverId: 31082
+    ShotId: 83016
+  18187:
+    ReceiverId: 33022
+    ShotId: 83020
+  18192:
+    ReceiverId: 30016
+    ShotId: 83022
+  18193:
+    ReceiverId: 31017
+    ShotId: 83022
+  18195:
+    ReceiverId: 33096
+    ShotId: 83022
+  18200:
+    ReceiverId: 30079
+    ShotId: 83024
+  18202:
+    ReceiverId: 32018
+    ShotId: 83024
+  18213:
+    ReceiverId: 27017
+    ShotId: 84004
+  18230:
+    ReceiverId: 28016
+    ShotId: 84008
+  18235:
+    ReceiverId: 33096
+    ShotId: 84008
+  18259:
+    ReceiverId: 33096
+    ShotId: 84014
+  18271:
+    ReceiverId: 29090
+    ShotId: 84018
+  18283:
+    ReceiverId: 33022
+    ShotId: 84020
+  18298:
+    ReceiverId: 32132
+    ShotId: 86004
+  18305:
+    ReceiverId: 31049
+    ShotId: 86006
+  18409:
+    ReceiverId: 31135
+    ShotId: 86032
+  18474:
+    ReceiverId: 32054
+    ShotId: 87002
+  18475:
+    ReceiverId: 33049
+    ShotId: 87002
+  18477:
+    ReceiverId: 27052
+    ShotId: 87004
+  18480:
+    ReceiverId: 30050
+    ShotId: 87004
+  18483:
+    ReceiverId: 33103
+    ShotId: 87004
+  18580:
+    ReceiverId: 26142
+    ShotId: 87030
+  18581:
+    ReceiverId: 27117
+    ShotId: 87030
+  18588:
+    ReceiverId: 26140
+    ShotId: 87032
+  18589:
+    ReceiverId: 27119
+    ShotId: 87032
+  18590:
+    ReceiverId: 28133
+    ShotId: 87032
+  18596:
+    ReceiverId: 26050
+    ShotId: 87034
+  18597:
+    ReceiverId: 27066
+    ShotId: 87034
+  18602:
+    ReceiverId: 32129
+    ShotId: 87034
+  18607:
+    ReceiverId: 29141
+    ShotId: 88002
+  18609:
+    ReceiverId: 31060
+    ShotId: 88002
+  18610:
+    ReceiverId: 32051
+    ShotId: 88002
+  18611:
+    ReceiverId: 33143
+    ShotId: 88002
+  18617:
+    ReceiverId: 31144
+    ShotId: 88004
+  18618:
+    ReceiverId: 32136
+    ShotId: 88004
+  18619:
+    ReceiverId: 33049
+    ShotId: 88004
+  18621:
+    ReceiverId: 27135
+    ShotId: 88006
+  18634:
+    ReceiverId: 32135
+    ShotId: 88008
+  18665:
+    ReceiverId: 31054
+    ShotId: 88016
+  18666:
+    ReceiverId: 32049
+    ShotId: 88016
+  18669:
+    ReceiverId: 27128
+    ShotId: 88018
+  18685:
+    ReceiverId: 27133
+    ShotId: 88022
+  18695:
+    ReceiverId: 29140
+    ShotId: 88024
+  18697:
+    ReceiverId: 31061
+    ShotId: 88024
+  18813:
+    ReceiverId: 27129
+    ShotId: 88054
+  18814:
+    ReceiverId: 28144
+    ShotId: 88054
+  18815:
+    ReceiverId: 29049
+    ShotId: 88054
+  18817:
+    ReceiverId: 31144
+    ShotId: 88054
+  18818:
+    ReceiverId: 32138
+    ShotId: 88054
+  18819:
+    ReceiverId: 33049
+    ShotId: 88054
+  18820:
+    ReceiverId: 26049
+    ShotId: 88056
+  18821:
+    ReceiverId: 27049
+    ShotId: 88056
+  18825:
+    ReceiverId: 31140
+    ShotId: 88056
+  18835:
+    ReceiverId: 33061
+    ShotId: 88058
+  18845:
+    ReceiverId: 27131
+    ShotId: 89002
+  18847:
+    ReceiverId: 29054
+    ShotId: 89002
+  18850:
+    ReceiverId: 32144
+    ShotId: 89002
+  18851:
+    ReceiverId: 33049
+    ShotId: 89002
+  18858:
+    ReceiverId: 32049
+    ShotId: 89004
+  18859:
+    ReceiverId: 33049
+    ShotId: 89004
+  18900:
+    ReceiverId: 26050
+    ShotId: 89016
+  18907:
+    ReceiverId: 33144
+    ShotId: 89016
+  18910:
+    ReceiverId: 28059
+    ShotId: 89018
+  18913:
+    ReceiverId: 31144
+    ShotId: 89018
+  18914:
+    ReceiverId: 32051
+    ShotId: 89018
+  18915:
+    ReceiverId: 33140
+    ShotId: 89018
+  19011:
+    ReceiverId: 33049
+    ShotId: 89042
+  19027:
+    ReceiverId: 33049
+    ShotId: 89046
+  19041:
+    ReceiverId: 31056
+    ShotId: 89050
+  19052:
+    ReceiverId: 26144
+    ShotId: 89054
+  19053:
+    ReceiverId: 27143
+    ShotId: 89054
+  19055:
+    ReceiverId: 29065
+    ShotId: 89054
+  19059:
+    ReceiverId: 33059
+    ShotId: 89054
+  19067:
+    ReceiverId: 33054
+    ShotId: 89056
+  19069:
+    ReceiverId: 27078
+    ShotId: 89058
+  19070:
+    ReceiverId: 28143
+    ShotId: 89058
+  19071:
+    ReceiverId: 29140
+    ShotId: 89058
+  19156:
+    ReceiverId: 26049
+    ShotId: 90022
+  19198:
+    ReceiverId: 28052
+    ShotId: 90032
+  19251:
+    ReceiverId: 33055
+    ShotId: 90044
+  19307:
+    ReceiverId: 33049
+    ShotId: 90058
+  19309:
+    ReceiverId: 27143
+    ShotId: 91002
+  19313:
+    ReceiverId: 31121
+    ShotId: 91002
+  19314:
+    ReceiverId: 32126
+    ShotId: 91002
+  19315:
+    ReceiverId: 33054
+    ShotId: 91002
+  19319:
+    ReceiverId: 29062
+    ShotId: 91004
+  19321:
+    ReceiverId: 31055
+    ShotId: 91004
+  19322:
+    ReceiverId: 32136
+    ShotId: 91004
+  19323:
+    ReceiverId: 33055
+    ShotId: 91004
+  19331:
+    ReceiverId: 33051
+    ShotId: 91006
+  19338:
+    ReceiverId: 32120
+    ShotId: 91008
+  19339:
+    ReceiverId: 33060
+    ShotId: 91008
+  19348:
+    ReceiverId: 26074
+    ShotId: 91012
+  19353:
+    ReceiverId: 31144
+    ShotId: 91012
+  19354:
+    ReceiverId: 32126
+    ShotId: 91012
+  19355:
+    ReceiverId: 33140
+    ShotId: 91012
+  19361:
+    ReceiverId: 31065
+    ShotId: 91014
+  19362:
+    ReceiverId: 32136
+    ShotId: 91014
+  19363:
+    ReceiverId: 33063
+    ShotId: 91014
+  19370:
+    ReceiverId: 32062
+    ShotId: 91016
+  19371:
+    ReceiverId: 33132
+    ShotId: 91016
+  19424:
+    ReceiverId: 30065
+    ShotId: 91030
+  19426:
+    ReceiverId: 32137
+    ShotId: 91030
+  19427:
+    ReceiverId: 33049
+    ShotId: 91030
+  19490:
+    ReceiverId: 32054
+    ShotId: 91046
+  19492:
+    ReceiverId: 26144
+    ShotId: 91048
+  19493:
+    ReceiverId: 27051
+    ShotId: 91048
+  19494:
+    ReceiverId: 28144
+    ShotId: 91048
+  19495:
+    ReceiverId: 29144
+    ShotId: 91048
+  19496:
+    ReceiverId: 30129
+    ShotId: 91048
+  19497:
+    ReceiverId: 31142
+    ShotId: 91048
+  19498:
+    ReceiverId: 32049
+    ShotId: 91048
+  19891:
+    ReceiverId: 33144
+    ShotId: 93028
+  20012:
+    ReceiverId: 26144
+    ShotId: 93060
+  20013:
+    ReceiverId: 27051
+    ShotId: 93060
+  20014:
+    ReceiverId: 28071
+    ShotId: 93060
+  20017:
+    ReceiverId: 31050
+    ShotId: 93060
+  20019:
+    ReceiverId: 33144
+    ShotId: 93060
+  20020:
+    ReceiverId: 26055
+    ShotId: 93062
+  20027:
+    ReceiverId: 33144
+    ShotId: 93062
+  20099:
+    ReceiverId: 33061
+    ShotId: 94018
+  20223:
+    ReceiverId: 29050
+    ShotId: 94050
+  20231:
+    ReceiverId: 29144
+    ShotId: 94052
+  20239:
+    ReceiverId: 29134
+    ShotId: 94054
+  20263:
+    ReceiverId: 29144
+    ShotId: 94060
+  20271:
+    ReceiverId: 29131
+    ShotId: 94062
+  20272:
+    ReceiverId: 30050
+    ShotId: 94062
+  20273:
+    ReceiverId: 31131
+    ShotId: 94062
+  20307:
+    ReceiverId: 33133
+    ShotId: 95008
+  20323:
+    ReceiverId: 33131
+    ShotId: 95012
+  20483:
+    ReceiverId: 33142
+    ShotId: 95052
+  20498:
+    ReceiverId: 32056
+    ShotId: 95056
+  20501:
+    ReceiverId: 27052
+    ShotId: 95058
+  20506:
+    ReceiverId: 32056
+    ShotId: 95058
+  20507:
+    ReceiverId: 33144
+    ShotId: 95058
+  20513:
+    ReceiverId: 31050
+    ShotId: 95060
+  20515:
+    ReceiverId: 33049
+    ShotId: 95060
+  20517:
+    ReceiverId: 27144
+    ShotId: 95062
+  20522:
+    ReceiverId: 32129
+    ShotId: 95062
+  20529:
+    ReceiverId: 31144
+    ShotId: 95064
+  20531:
+    ReceiverId: 33058
+    ShotId: 95064
+  20535:
+    ReceiverId: 29061
+    ShotId: 96002
+  20536:
+    ReceiverId: 30065
+    ShotId: 96002
+  20537:
+    ReceiverId: 31119
+    ShotId: 96002
+  20538:
+    ReceiverId: 32135
+    ShotId: 96002
+  20539:
+    ReceiverId: 33128
+    ShotId: 96002
+  20541:
+    ReceiverId: 27058
+    ShotId: 96004
+  20542:
+    ReceiverId: 28123
+    ShotId: 96004
+  20546:
+    ReceiverId: 32065
+    ShotId: 96004
+  20547:
+    ReceiverId: 33065
+    ShotId: 96004
+  20548:
+    ReceiverId: 26060
+    ShotId: 96006
+  20549:
+    ReceiverId: 27130
+    ShotId: 96006
+  20550:
+    ReceiverId: 28129
+    ShotId: 96006
+  20553:
+    ReceiverId: 31129
+    ShotId: 96006
+  20554:
+    ReceiverId: 32128
+    ShotId: 96006
+  20555:
+    ReceiverId: 33129
+    ShotId: 96006
+  20557:
+    ReceiverId: 27131
+    ShotId: 96008
+  20559:
+    ReceiverId: 29131
+    ShotId: 96008
+  20560:
+    ReceiverId: 30128
+    ShotId: 96008
+  20561:
+    ReceiverId: 31065
+    ShotId: 96008
+  20562:
+    ReceiverId: 32128
+    ShotId: 96008
+  20563:
+    ReceiverId: 33128
+    ShotId: 96008
+  20567:
+    ReceiverId: 29062
+    ShotId: 96010
+  20571:
+    ReceiverId: 33065
+    ShotId: 96010
+  20572:
+    ReceiverId: 26062
+    ShotId: 96012
+  20573:
+    ReceiverId: 27104
+    ShotId: 96012
+  20574:
+    ReceiverId: 28053
+    ShotId: 96012
+  20575:
+    ReceiverId: 29058
+    ShotId: 96012
+  20576:
+    ReceiverId: 30117
+    ShotId: 96012
+  20577:
+    ReceiverId: 31108
+    ShotId: 96012
+  20578:
+    ReceiverId: 32128
+    ShotId: 96012
+  20579:
+    ReceiverId: 33065
+    ShotId: 96012
+  20582:
+    ReceiverId: 28064
+    ShotId: 96024
+  20586:
+    ReceiverId: 32129
+    ShotId: 96024
+  20587:
+    ReceiverId: 33065
+    ShotId: 96024
+  20593:
+    ReceiverId: 31097
+    ShotId: 97002
+  20602:
+    ReceiverId: 32192
+    ShotId: 97004
+  20609:
+    ReceiverId: 31187
+    ShotId: 97006
+  20618:
+    ReceiverId: 32098
+    ShotId: 97008
+  20623:
+    ReceiverId: 29190
+    ShotId: 97010
+  20625:
+    ReceiverId: 31097
+    ShotId: 97010
+  20626:
+    ReceiverId: 32098
+    ShotId: 97010
+  20630:
+    ReceiverId: 28097
+    ShotId: 97012
+  20634:
+    ReceiverId: 32188
+    ShotId: 97012
+  20666:
+    ReceiverId: 32100
+    ShotId: 97020
+  20818:
+    ReceiverId: 32127
+    ShotId: 97060
+  20819:
+    ReceiverId: 33181
+    ShotId: 97060
+  20830:
+    ReceiverId: 28181
+    ShotId: 97064
+  20836:
+    ReceiverId: 26110
+    ShotId: 98002
+  20839:
+    ReceiverId: 29109
+    ShotId: 98002
+  20840:
+    ReceiverId: 30114
+    ShotId: 98002
+  20841:
+    ReceiverId: 31112
+    ShotId: 98002
+  20844:
+    ReceiverId: 26103
+    ShotId: 98004
+  20845:
+    ReceiverId: 27112
+    ShotId: 98004
+  20847:
+    ReceiverId: 29176
+    ShotId: 98004
+  20849:
+    ReceiverId: 31176
+    ShotId: 98004
+  20850:
+    ReceiverId: 32176
+    ShotId: 98004
+  20851:
+    ReceiverId: 33113
+    ShotId: 98004
+  20857:
+    ReceiverId: 31178
+    ShotId: 98006
+  20858:
+    ReceiverId: 32174
+    ShotId: 98006
+  20859:
+    ReceiverId: 33176
+    ShotId: 98006
+  20863:
+    ReceiverId: 29100
+    ShotId: 98008
+  20865:
+    ReceiverId: 31113
+    ShotId: 98008
+  20866:
+    ReceiverId: 32113
+    ShotId: 98008
+  20867:
+    ReceiverId: 33177
+    ShotId: 98008
+  20871:
+    ReceiverId: 29176
+    ShotId: 98010
+  20872:
+    ReceiverId: 30178
+    ShotId: 98010
+  20873:
+    ReceiverId: 31177
+    ShotId: 98010
+  20874:
+    ReceiverId: 32176
+    ShotId: 98010
+  20879:
+    ReceiverId: 29177
+    ShotId: 98012
+  20880:
+    ReceiverId: 30114
+    ShotId: 98012
+  20881:
+    ReceiverId: 31175
+    ShotId: 98012
+  20882:
+    ReceiverId: 32176
+    ShotId: 98012
+  20897:
+    ReceiverId: 31176
+    ShotId: 98016
+  20898:
+    ReceiverId: 32179
+    ShotId: 98016
+  20906:
+    ReceiverId: 32111
+    ShotId: 98018
+  20907:
+    ReceiverId: 33177
+    ShotId: 98018
+  20909:
+    ReceiverId: 27184
+    ShotId: 98020
+  20910:
+    ReceiverId: 28113
+    ShotId: 98020
+  20911:
+    ReceiverId: 29176
+    ShotId: 98020
+  20912:
+    ReceiverId: 30177
+    ShotId: 98020
+  20913:
+    ReceiverId: 31112
+    ShotId: 98020
+  20914:
+    ReceiverId: 32113
+    ShotId: 98020
+  20915:
+    ReceiverId: 33113
+    ShotId: 98020
+  20916:
+    ReceiverId: 26181
+    ShotId: 98022
+  20917:
+    ReceiverId: 27176
+    ShotId: 98022
+  20918:
+    ReceiverId: 28113
+    ShotId: 98022
+  20921:
+    ReceiverId: 31176
+    ShotId: 98022
+  20922:
+    ReceiverId: 32176
+    ShotId: 98022
+  20924:
+    ReceiverId: 26110
+    ShotId: 98024
+  20925:
+    ReceiverId: 27112
+    ShotId: 98024
+  20926:
+    ReceiverId: 28114
+    ShotId: 98024
+  20929:
+    ReceiverId: 31176
+    ShotId: 98024
+  20930:
+    ReceiverId: 32113
+    ShotId: 98024
+  20931:
+    ReceiverId: 33177
+    ShotId: 98024
+  20932:
+    ReceiverId: 26173
+    ShotId: 98026
+  20933:
+    ReceiverId: 27113
+    ShotId: 98026
+  20934:
+    ReceiverId: 28176
+    ShotId: 98026
+  20935:
+    ReceiverId: 29176
+    ShotId: 98026
+  20936:
+    ReceiverId: 30113
+    ShotId: 98026
+  20937:
+    ReceiverId: 31176
+    ShotId: 98026
+  20938:
+    ReceiverId: 32113
+    ShotId: 98026
+  20940:
+    ReceiverId: 26172
+    ShotId: 98028
+  20941:
+    ReceiverId: 27174
+    ShotId: 98028
+  20942:
+    ReceiverId: 28112
+    ShotId: 98028
+  20943:
+    ReceiverId: 29176
+    ShotId: 98028
+  20944:
+    ReceiverId: 30113
+    ShotId: 98028
+  20945:
+    ReceiverId: 31176
+    ShotId: 98028
+  20950:
+    ReceiverId: 28177
+    ShotId: 98030
+  20956:
+    ReceiverId: 26106
+    ShotId: 98032
+  20958:
+    ReceiverId: 28179
+    ShotId: 98032
+  20962:
+    ReceiverId: 32113
+    ShotId: 98032
+  20963:
+    ReceiverId: 33177
+    ShotId: 98032
+  20964:
+    ReceiverId: 26110
+    ShotId: 98034
+  20965:
+    ReceiverId: 27108
+    ShotId: 98034
+  20966:
+    ReceiverId: 28190
+    ShotId: 98034
+  20967:
+    ReceiverId: 29113
+    ShotId: 98034
+  20968:
+    ReceiverId: 30179
+    ShotId: 98034
+  20969:
+    ReceiverId: 31177
+    ShotId: 98034
+  20970:
+    ReceiverId: 32112
+    ShotId: 98034
+  20971:
+    ReceiverId: 33113
+    ShotId: 98034
+  20972:
+    ReceiverId: 26113
+    ShotId: 98036
+  20973:
+    ReceiverId: 27178
+    ShotId: 98036
+  20974:
+    ReceiverId: 28111
+    ShotId: 98036
+  20975:
+    ReceiverId: 29176
+    ShotId: 98036
+  20976:
+    ReceiverId: 30109
+    ShotId: 98036
+  20977:
+    ReceiverId: 31177
+    ShotId: 98036
+  20978:
+    ReceiverId: 32183
+    ShotId: 98036
+  20979:
+    ReceiverId: 33112
+    ShotId: 98036
+  20980:
+    ReceiverId: 26176
+    ShotId: 98038
+  20981:
+    ReceiverId: 27176
+    ShotId: 98038
+  20982:
+    ReceiverId: 28176
+    ShotId: 98038
+  20983:
+    ReceiverId: 29177
+    ShotId: 98038
+  20984:
+    ReceiverId: 30180
+    ShotId: 98038
+  20985:
+    ReceiverId: 31107
+    ShotId: 98038
+  20986:
+    ReceiverId: 32107
+    ShotId: 98038
+  20987:
+    ReceiverId: 33180
+    ShotId: 98038
+  20988:
+    ReceiverId: 26177
+    ShotId: 98040
+  20989:
+    ReceiverId: 27112
+    ShotId: 98040
+  20990:
+    ReceiverId: 28111
+    ShotId: 98040
+  20991:
+    ReceiverId: 29111
+    ShotId: 98040
+  20992:
+    ReceiverId: 30111
+    ShotId: 98040
+  20993:
+    ReceiverId: 31175
+    ShotId: 98040
+  20994:
+    ReceiverId: 32186
+    ShotId: 98040
+  20995:
+    ReceiverId: 33111
+    ShotId: 98040
+  20996:
+    ReceiverId: 26176
+    ShotId: 98042
+  20997:
+    ReceiverId: 27113
+    ShotId: 98042
+  20998:
+    ReceiverId: 28111
+    ShotId: 98042
+  20999:
+    ReceiverId: 29112
+    ShotId: 98042
+  21002:
+    ReceiverId: 32112
+    ShotId: 98042
+  21003:
+    ReceiverId: 33108
+    ShotId: 98042
+  21004:
+    ReceiverId: 26113
+    ShotId: 98044
+  21005:
+    ReceiverId: 27176
+    ShotId: 98044
+  21006:
+    ReceiverId: 28178
+    ShotId: 98044
+  21007:
+    ReceiverId: 29112
+    ShotId: 98044
+  21008:
+    ReceiverId: 30179
+    ShotId: 98044
+  21009:
+    ReceiverId: 31102
+    ShotId: 98044
+  21010:
+    ReceiverId: 32106
+    ShotId: 98044
+  21011:
+    ReceiverId: 33108
+    ShotId: 98044
+  21012:
+    ReceiverId: 26177
+    ShotId: 98048
+  21013:
+    ReceiverId: 27113
+    ShotId: 98048
+  21014:
+    ReceiverId: 28113
+    ShotId: 98048
+  21015:
+    ReceiverId: 29177
+    ShotId: 98048
+  21019:
+    ReceiverId: 33112
+    ShotId: 98048
+  21020:
+    ReceiverId: 26113
+    ShotId: 98052
+  21021:
+    ReceiverId: 27176
+    ShotId: 98052
+  21022:
+    ReceiverId: 28177
+    ShotId: 98052
+  21023:
+    ReceiverId: 29111
+    ShotId: 98052
+  21024:
+    ReceiverId: 30110
+    ShotId: 98052
+  21025:
+    ReceiverId: 31176
+    ShotId: 98052
+  21026:
+    ReceiverId: 32110
+    ShotId: 98052
+  21027:
+    ReceiverId: 33180
+    ShotId: 98052
+  21028:
+    ReceiverId: 26177
+    ShotId: 98054
+  21029:
+    ReceiverId: 27176
+    ShotId: 98054
+  21030:
+    ReceiverId: 28112
+    ShotId: 98054
+  21031:
+    ReceiverId: 29176
+    ShotId: 98054
+  21032:
+    ReceiverId: 30178
+    ShotId: 98054
+  21033:
+    ReceiverId: 31177
+    ShotId: 98054
+  21034:
+    ReceiverId: 32107
+    ShotId: 98054
+  21036:
+    ReceiverId: 26113
+    ShotId: 98056
+  21037:
+    ReceiverId: 27113
+    ShotId: 98056
+  21038:
+    ReceiverId: 28113
+    ShotId: 98056
+  21039:
+    ReceiverId: 29113
+    ShotId: 98056
+  21040:
+    ReceiverId: 30177
+    ShotId: 98056
+  21041:
+    ReceiverId: 31109
+    ShotId: 98056
+  21042:
+    ReceiverId: 32107
+    ShotId: 98056
+  21043:
+    ReceiverId: 33182
+    ShotId: 98056
+  21044:
+    ReceiverId: 26176
+    ShotId: 98058
+  21045:
+    ReceiverId: 27177
+    ShotId: 98058
+  21046:
+    ReceiverId: 28176
+    ShotId: 98058
+  21047:
+    ReceiverId: 29113
+    ShotId: 98058
+  21048:
+    ReceiverId: 30177
+    ShotId: 98058
+  21049:
+    ReceiverId: 31111
+    ShotId: 98058
+  21050:
+    ReceiverId: 32177
+    ShotId: 98058
+  21051:
+    ReceiverId: 33182
+    ShotId: 98058
+  21052:
+    ReceiverId: 26113
+    ShotId: 98060
+  21053:
+    ReceiverId: 27176
+    ShotId: 98060
+  21054:
+    ReceiverId: 28176
+    ShotId: 98060
+  21055:
+    ReceiverId: 29112
+    ShotId: 98060
+  21056:
+    ReceiverId: 30177
+    ShotId: 98060
+  21057:
+    ReceiverId: 31110
+    ShotId: 98060
+  21058:
+    ReceiverId: 32177
+    ShotId: 98060
+  21059:
+    ReceiverId: 33102
+    ShotId: 98060
+  21060:
+    ReceiverId: 26113
+    ShotId: 98062
+  21061:
+    ReceiverId: 27176
+    ShotId: 98062
+  21062:
+    ReceiverId: 28177
+    ShotId: 98062
+  21064:
+    ReceiverId: 30113
+    ShotId: 98062
+  21067:
+    ReceiverId: 33179
+    ShotId: 98062
+  21068:
+    ReceiverId: 26113
+    ShotId: 98064
+  21069:
+    ReceiverId: 27113
+    ShotId: 98064
+  21070:
+    ReceiverId: 28176
+    ShotId: 98064
+  21071:
+    ReceiverId: 29176
+    ShotId: 98064
+  21073:
+    ReceiverId: 31111
+    ShotId: 98064
+  21074:
+    ReceiverId: 32112
+    ShotId: 98064
+  21075:
+    ReceiverId: 33179
+    ShotId: 98064
+  21076:
+    ReceiverId: 26110
+    ShotId: 99002
+  21077:
+    ReceiverId: 27177
+    ShotId: 99002
+  21078:
+    ReceiverId: 28176
+    ShotId: 99002
+  21079:
+    ReceiverId: 29177
+    ShotId: 99002
+  21080:
+    ReceiverId: 30177
+    ShotId: 99002
+  21081:
+    ReceiverId: 31113
+    ShotId: 99002
+  21082:
+    ReceiverId: 32176
+    ShotId: 99002
+  21083:
+    ReceiverId: 33113
+    ShotId: 99002
+  21084:
+    ReceiverId: 26110
+    ShotId: 99004
+  21085:
+    ReceiverId: 27177
+    ShotId: 99004
+  21086:
+    ReceiverId: 28176
+    ShotId: 99004
+  21087:
+    ReceiverId: 29180
+    ShotId: 99004
+  21088:
+    ReceiverId: 30114
+    ShotId: 99004
+  21089:
+    ReceiverId: 31176
+    ShotId: 99004
+  21090:
+    ReceiverId: 32176
+    ShotId: 99004
+  21091:
+    ReceiverId: 33114
+    ShotId: 99004
+  21092:
+    ReceiverId: 26174
+    ShotId: 99006
+  21093:
+    ReceiverId: 27112
+    ShotId: 99006
+  21094:
+    ReceiverId: 28176
+    ShotId: 99006
+  21095:
+    ReceiverId: 29109
+    ShotId: 99006
+  21096:
+    ReceiverId: 30109
+    ShotId: 99006
+  21097:
+    ReceiverId: 31176
+    ShotId: 99006
+  21098:
+    ReceiverId: 32111
+    ShotId: 99006
+  21099:
+    ReceiverId: 33183
+    ShotId: 99006
+  21101:
+    ReceiverId: 27113
+    ShotId: 99008
+  21102:
+    ReceiverId: 28113
+    ShotId: 99008
+  21103:
+    ReceiverId: 29113
+    ShotId: 99008
+  21104:
+    ReceiverId: 30114
+    ShotId: 99008
+  21105:
+    ReceiverId: 31112
+    ShotId: 99008
+  21106:
+    ReceiverId: 32113
+    ShotId: 99008
+  21110:
+    ReceiverId: 28177
+    ShotId: 99010
+  21111:
+    ReceiverId: 29113
+    ShotId: 99010
+  21112:
+    ReceiverId: 30113
+    ShotId: 99010
+  21113:
+    ReceiverId: 31176
+    ShotId: 99010
+  21114:
+    ReceiverId: 32176
+    ShotId: 99010
+  21115:
+    ReceiverId: 33177
+    ShotId: 99010
+  21116:
+    ReceiverId: 26174
+    ShotId: 99012
+  21117:
+    ReceiverId: 27113
+    ShotId: 99012
+  21120:
+    ReceiverId: 30114
+    ShotId: 99012
+  21121:
+    ReceiverId: 31176
+    ShotId: 99012
+  21122:
+    ReceiverId: 32176
+    ShotId: 99012
+  21124:
+    ReceiverId: 26110
+    ShotId: 99014
+  21128:
+    ReceiverId: 30177
+    ShotId: 99014
+  21129:
+    ReceiverId: 31113
+    ShotId: 99014
+  21132:
+    ReceiverId: 26190
+    ShotId: 99016
+  21134:
+    ReceiverId: 28176
+    ShotId: 99016
+  21135:
+    ReceiverId: 29113
+    ShotId: 99016
+  21136:
+    ReceiverId: 30112
+    ShotId: 99016
+  21137:
+    ReceiverId: 31176
+    ShotId: 99016
+  21138:
+    ReceiverId: 32110
+    ShotId: 99016
+  21145:
+    ReceiverId: 31176
+    ShotId: 99018
+  21146:
+    ReceiverId: 32113
+    ShotId: 99018
+  21148:
+    ReceiverId: 26108
+    ShotId: 99020
+  21149:
+    ReceiverId: 27180
+    ShotId: 99020
+  21150:
+    ReceiverId: 28113
+    ShotId: 99020
+  21151:
+    ReceiverId: 29176
+    ShotId: 99020
+  21152:
+    ReceiverId: 30177
+    ShotId: 99020
+  21153:
+    ReceiverId: 31113
+    ShotId: 99020
+  21154:
+    ReceiverId: 32113
+    ShotId: 99020
+  21155:
+    ReceiverId: 33113
+    ShotId: 99020
+  21161:
+    ReceiverId: 31113
+    ShotId: 99022
+  21163:
+    ReceiverId: 33177
+    ShotId: 99022
+  21164:
+    ReceiverId: 26108
+    ShotId: 99024
+  21165:
+    ReceiverId: 27112
+    ShotId: 99024
+  21166:
+    ReceiverId: 28176
+    ShotId: 99024
+  21167:
+    ReceiverId: 29113
+    ShotId: 99024
+  21168:
+    ReceiverId: 30177
+    ShotId: 99024
+  21169:
+    ReceiverId: 31119
+    ShotId: 99024
+  21170:
+    ReceiverId: 32113
+    ShotId: 99024
+  21171:
+    ReceiverId: 33113
+    ShotId: 99024
+  21186:
+    ReceiverId: 32177
+    ShotId: 99028
+  21188:
+    ReceiverId: 26184
+    ShotId: 99030
+  21189:
+    ReceiverId: 27112
+    ShotId: 99030
+  21190:
+    ReceiverId: 28113
+    ShotId: 99030
+  21196:
+    ReceiverId: 26113
+    ShotId: 99032
+  21199:
+    ReceiverId: 29113
+    ShotId: 99032
+  21200:
+    ReceiverId: 30178
+    ShotId: 99032
+  21201:
+    ReceiverId: 31175
+    ShotId: 99032
+  21203:
+    ReceiverId: 33113
+    ShotId: 99032
+  21204:
+    ReceiverId: 26113
+    ShotId: 99034
+  21205:
+    ReceiverId: 27110
+    ShotId: 99034
+  21206:
+    ReceiverId: 28172
+    ShotId: 99034
+  21207:
+    ReceiverId: 29179
+    ShotId: 99034
+  21208:
+    ReceiverId: 30181
+    ShotId: 99034
+  21209:
+    ReceiverId: 31181
+    ShotId: 99034
+  21210:
+    ReceiverId: 32111
+    ShotId: 99034
+  21211:
+    ReceiverId: 33113
+    ShotId: 99034
+  21212:
+    ReceiverId: 26112
+    ShotId: 99036
+  21213:
+    ReceiverId: 27177
+    ShotId: 99036
+  21214:
+    ReceiverId: 28177
+    ShotId: 99036
+  21215:
+    ReceiverId: 29184
+    ShotId: 99036
+  21216:
+    ReceiverId: 30181
+    ShotId: 99036
+  21218:
+    ReceiverId: 32179
+    ShotId: 99036
+  21219:
+    ReceiverId: 33178
+    ShotId: 99036
+  21220:
+    ReceiverId: 26112
+    ShotId: 99038
+  21221:
+    ReceiverId: 27180
+    ShotId: 99038
+  21222:
+    ReceiverId: 28111
+    ShotId: 99038
+  21223:
+    ReceiverId: 29106
+    ShotId: 99038
+  21224:
+    ReceiverId: 30110
+    ShotId: 99038
+  21228:
+    ReceiverId: 26113
+    ShotId: 99040
+  21229:
+    ReceiverId: 27109
+    ShotId: 99040
+  21230:
+    ReceiverId: 28184
+    ShotId: 99040
+  21231:
+    ReceiverId: 29109
+    ShotId: 99040
+  21232:
+    ReceiverId: 30179
+    ShotId: 99040
+  21236:
+    ReceiverId: 26176
+    ShotId: 99042
+  21237:
+    ReceiverId: 27110
+    ShotId: 99042
+  21238:
+    ReceiverId: 28182
+    ShotId: 99042
+  21239:
+    ReceiverId: 29110
+    ShotId: 99042
+  21240:
+    ReceiverId: 30112
+    ShotId: 99042
+  21242:
+    ReceiverId: 32108
+    ShotId: 99042
+  21243:
+    ReceiverId: 33103
+    ShotId: 99042
+  21244:
+    ReceiverId: 26113
+    ShotId: 99044
+  21245:
+    ReceiverId: 27113
+    ShotId: 99044
+  21246:
+    ReceiverId: 28102
+    ShotId: 99044
+  21248:
+    ReceiverId: 30112
+    ShotId: 99044
+  21249:
+    ReceiverId: 31102
+    ShotId: 99044
+  21250:
+    ReceiverId: 32121
+    ShotId: 99044
+  21252:
+    ReceiverId: 26113
+    ShotId: 99046
+  21253:
+    ReceiverId: 27113
+    ShotId: 99046
+  21254:
+    ReceiverId: 28112
+    ShotId: 99046
+  21256:
+    ReceiverId: 30180
+    ShotId: 99046
+  21257:
+    ReceiverId: 31105
+    ShotId: 99046
+  21258:
+    ReceiverId: 32111
+    ShotId: 99046
+  21260:
+    ReceiverId: 26177
+    ShotId: 99048
+  21261:
+    ReceiverId: 27113
+    ShotId: 99048
+  21262:
+    ReceiverId: 28112
+    ShotId: 99048
+  21263:
+    ReceiverId: 29108
+    ShotId: 99048
+  21266:
+    ReceiverId: 32173
+    ShotId: 99048
+  21268:
+    ReceiverId: 26113
+    ShotId: 99052
+  21269:
+    ReceiverId: 27177
+    ShotId: 99052
+  21270:
+    ReceiverId: 28112
+    ShotId: 99052
+  21271:
+    ReceiverId: 29112
+    ShotId: 99052
+  21272:
+    ReceiverId: 30177
+    ShotId: 99052
+  21273:
+    ReceiverId: 31175
+    ShotId: 99052
+  21274:
+    ReceiverId: 32178
+    ShotId: 99052
+  21275:
+    ReceiverId: 33112
+    ShotId: 99052
+  21276:
+    ReceiverId: 26177
+    ShotId: 99054
+  21277:
+    ReceiverId: 27113
+    ShotId: 99054
+  21278:
+    ReceiverId: 28112
+    ShotId: 99054
+  21279:
+    ReceiverId: 29175
+    ShotId: 99054
+  21280:
+    ReceiverId: 30178
+    ShotId: 99054
+  21283:
+    ReceiverId: 33178
+    ShotId: 99054
+  21284:
+    ReceiverId: 26113
+    ShotId: 99056
+  21285:
+    ReceiverId: 27176
+    ShotId: 99056
+  21286:
+    ReceiverId: 28113
+    ShotId: 99056
+  21287:
+    ReceiverId: 29112
+    ShotId: 99056
+  21288:
+    ReceiverId: 30114
+    ShotId: 99056
+  21290:
+    ReceiverId: 32108
+    ShotId: 99056
+  21291:
+    ReceiverId: 33104
+    ShotId: 99056
+  21292:
+    ReceiverId: 26176
+    ShotId: 99058
+  21293:
+    ReceiverId: 27113
+    ShotId: 99058
+  21294:
+    ReceiverId: 28113
+    ShotId: 99058
+  21295:
+    ReceiverId: 29112
+    ShotId: 99058
+  21297:
+    ReceiverId: 31174
+    ShotId: 99058
+  21298:
+    ReceiverId: 32177
+    ShotId: 99058
+  21300:
+    ReceiverId: 26113
+    ShotId: 99060
+  21301:
+    ReceiverId: 27177
+    ShotId: 99060
+  21302:
+    ReceiverId: 28113
+    ShotId: 99060
+  21303:
+    ReceiverId: 29112
+    ShotId: 99060
+  21304:
+    ReceiverId: 30115
+    ShotId: 99060
+  21306:
+    ReceiverId: 32177
+    ShotId: 99060
+  21307:
+    ReceiverId: 33188
+    ShotId: 99060
+  21308:
+    ReceiverId: 26176
+    ShotId: 99062
+  21309:
+    ReceiverId: 27176
+    ShotId: 99062
+  21310:
+    ReceiverId: 28176
+    ShotId: 99062
+  21311:
+    ReceiverId: 29113
+    ShotId: 99062
+  21312:
+    ReceiverId: 30113
+    ShotId: 99062
+  21313:
+    ReceiverId: 31112
+    ShotId: 99062
+  21314:
+    ReceiverId: 32113
+    ShotId: 99062
+  21315:
+    ReceiverId: 33178
+    ShotId: 99062
+  21318:
+    ReceiverId: 28113
+    ShotId: 99064
+  21328:
+    ReceiverId: 30123
+    ShotId: 100002
+  21329:
+    ReceiverId: 31172
+    ShotId: 100002
+  21330:
+    ReceiverId: 32179
+    ShotId: 100002
+  21331:
+    ReceiverId: 33112
+    ShotId: 100002
+  21337:
+    ReceiverId: 31113
+    ShotId: 100004
+  21339:
+    ReceiverId: 33176
+    ShotId: 100004
+  21347:
+    ReceiverId: 33113
+    ShotId: 100006
+  21352:
+    ReceiverId: 30178
+    ShotId: 100008
+  21354:
+    ReceiverId: 32113
+    ShotId: 100008
+  21395:
+    ReceiverId: 33176
+    ShotId: 100018
+  21417:
+    ReceiverId: 31175
+    ShotId: 100024
+  21434:
+    ReceiverId: 32176
+    ShotId: 100028
+  21436:
+    ReceiverId: 26172
+    ShotId: 100030
+  21437:
+    ReceiverId: 27175
+    ShotId: 100030
+  21438:
+    ReceiverId: 28179
+    ShotId: 100030
+  21439:
+    ReceiverId: 29177
+    ShotId: 100030
+  21440:
+    ReceiverId: 30113
+    ShotId: 100030
+  21441:
+    ReceiverId: 31178
+    ShotId: 100030
+  21442:
+    ReceiverId: 32113
+    ShotId: 100030
+  21444:
+    ReceiverId: 26110
+    ShotId: 100032
+  21445:
+    ReceiverId: 27106
+    ShotId: 100032
+  21446:
+    ReceiverId: 28116
+    ShotId: 100032
+  21447:
+    ReceiverId: 29108
+    ShotId: 100032
+  21448:
+    ReceiverId: 30107
+    ShotId: 100032
+  21449:
+    ReceiverId: 31109
+    ShotId: 100032
+  21450:
+    ReceiverId: 32113
+    ShotId: 100032
+  21451:
+    ReceiverId: 33112
+    ShotId: 100032
+  21452:
+    ReceiverId: 26110
+    ShotId: 100036
+  21453:
+    ReceiverId: 27180
+    ShotId: 100036
+  21455:
+    ReceiverId: 29179
+    ShotId: 100036
+  21456:
+    ReceiverId: 30110
+    ShotId: 100036
+  21458:
+    ReceiverId: 32107
+    ShotId: 100036
+  21459:
+    ReceiverId: 33177
+    ShotId: 100036
+  21460:
+    ReceiverId: 26112
+    ShotId: 100038
+  21461:
+    ReceiverId: 27181
+    ShotId: 100038
+  21462:
+    ReceiverId: 28109
+    ShotId: 100038
+  21463:
+    ReceiverId: 29106
+    ShotId: 100038
+  21464:
+    ReceiverId: 30117
+    ShotId: 100038
+  21466:
+    ReceiverId: 32106
+    ShotId: 100038
+  21467:
+    ReceiverId: 33179
+    ShotId: 100038
+  21468:
+    ReceiverId: 26177
+    ShotId: 100040
+  21469:
+    ReceiverId: 27185
+    ShotId: 100040
+  21470:
+    ReceiverId: 28108
+    ShotId: 100040
+  21471:
+    ReceiverId: 29178
+    ShotId: 100040
+  21472:
+    ReceiverId: 30114
+    ShotId: 100040
+  21474:
+    ReceiverId: 32107
+    ShotId: 100040
+  21475:
+    ReceiverId: 33186
+    ShotId: 100040
+  21476:
+    ReceiverId: 26113
+    ShotId: 100042
+  21477:
+    ReceiverId: 27180
+    ShotId: 100042
+  21478:
+    ReceiverId: 28181
+    ShotId: 100042
+  21479:
+    ReceiverId: 29178
+    ShotId: 100042
+  21482:
+    ReceiverId: 32111
+    ShotId: 100042
+  21483:
+    ReceiverId: 33189
+    ShotId: 100042
+  21484:
+    ReceiverId: 26113
+    ShotId: 100044
+  21485:
+    ReceiverId: 27112
+    ShotId: 100044
+  21486:
+    ReceiverId: 28184
+    ShotId: 100044
+  21487:
+    ReceiverId: 29181
+    ShotId: 100044
+  21488:
+    ReceiverId: 30181
+    ShotId: 100044
+  21491:
+    ReceiverId: 33107
+    ShotId: 100044
+  21492:
+    ReceiverId: 26113
+    ShotId: 100046
+  21493:
+    ReceiverId: 27178
+    ShotId: 100046
+  21494:
+    ReceiverId: 28176
+    ShotId: 100046
+  21495:
+    ReceiverId: 29180
+    ShotId: 100046
+  21496:
+    ReceiverId: 30180
+    ShotId: 100046
+  21497:
+    ReceiverId: 31180
+    ShotId: 100046
+  21498:
+    ReceiverId: 32178
+    ShotId: 100046
+  21499:
+    ReceiverId: 33110
+    ShotId: 100046
+  21500:
+    ReceiverId: 26177
+    ShotId: 100048
+  21501:
+    ReceiverId: 27113
+    ShotId: 100048
+  21502:
+    ReceiverId: 28177
+    ShotId: 100048
+  21503:
+    ReceiverId: 29179
+    ShotId: 100048
+  21508:
+    ReceiverId: 26177
+    ShotId: 100050
+  21509:
+    ReceiverId: 27177
+    ShotId: 100050
+  21510:
+    ReceiverId: 28176
+    ShotId: 100050
+  21511:
+    ReceiverId: 29113
+    ShotId: 100050
+  21513:
+    ReceiverId: 31108
+    ShotId: 100050
+  21514:
+    ReceiverId: 32177
+    ShotId: 100050
+  21515:
+    ReceiverId: 33112
+    ShotId: 100050
+  21517:
+    ReceiverId: 27177
+    ShotId: 100052
+  21518:
+    ReceiverId: 28113
+    ShotId: 100052
+  21519:
+    ReceiverId: 29176
+    ShotId: 100052
+  21520:
+    ReceiverId: 30114
+    ShotId: 100052
+  21521:
+    ReceiverId: 31176
+    ShotId: 100052
+  21522:
+    ReceiverId: 32117
+    ShotId: 100052
+  21523:
+    ReceiverId: 33177
+    ShotId: 100052
+  21524:
+    ReceiverId: 26113
+    ShotId: 100054
+  21525:
+    ReceiverId: 27113
+    ShotId: 100054
+  21526:
+    ReceiverId: 28176
+    ShotId: 100054
+  21528:
+    ReceiverId: 30113
+    ShotId: 100054
+  21529:
+    ReceiverId: 31182
+    ShotId: 100054
+  21531:
+    ReceiverId: 33180
+    ShotId: 100054
+  21532:
+    ReceiverId: 26176
+    ShotId: 100056
+  21533:
+    ReceiverId: 27176
+    ShotId: 100056
+  21534:
+    ReceiverId: 28176
+    ShotId: 100056
+  21535:
+    ReceiverId: 29112
+    ShotId: 100056
+  21536:
+    ReceiverId: 30114
+    ShotId: 100056
+  21537:
+    ReceiverId: 31105
+    ShotId: 100056
+  21538:
+    ReceiverId: 32187
+    ShotId: 100056
+  21539:
+    ReceiverId: 33107
+    ShotId: 100056
+  21540:
+    ReceiverId: 26113
+    ShotId: 100058
+  21541:
+    ReceiverId: 27113
+    ShotId: 100058
+  21542:
+    ReceiverId: 28176
+    ShotId: 100058
+  21543:
+    ReceiverId: 29113
+    ShotId: 100058
+  21546:
+    ReceiverId: 32177
+    ShotId: 100058
+  21547:
+    ReceiverId: 33107
+    ShotId: 100058
+  21548:
+    ReceiverId: 26179
+    ShotId: 100060
+  21549:
+    ReceiverId: 27112
+    ShotId: 100060
+  21551:
+    ReceiverId: 29178
+    ShotId: 100060
+  21553:
+    ReceiverId: 31176
+    ShotId: 100060
+  21556:
+    ReceiverId: 26177
+    ShotId: 100062
+  21557:
+    ReceiverId: 27176
+    ShotId: 100062
+  21558:
+    ReceiverId: 28113
+    ShotId: 100062
+  21559:
+    ReceiverId: 29177
+    ShotId: 100062
+  21560:
+    ReceiverId: 30178
+    ShotId: 100062
+  21561:
+    ReceiverId: 31176
+    ShotId: 100062
+  21562:
+    ReceiverId: 32179
+    ShotId: 100062
+  21563:
+    ReceiverId: 33183
+    ShotId: 100062
+  21565:
+    ReceiverId: 27112
+    ShotId: 100064
+  21566:
+    ReceiverId: 28113
+    ShotId: 100064
+  21567:
+    ReceiverId: 29113
+    ShotId: 100064
+  21568:
+    ReceiverId: 30113
+    ShotId: 100064
+  21570:
+    ReceiverId: 32180
+    ShotId: 100064
+  21571:
+    ReceiverId: 33111
+    ShotId: 100064
+  21574:
+    ReceiverId: 28113
+    ShotId: 101002
+  21576:
+    ReceiverId: 30113
+    ShotId: 101002
+  21577:
+    ReceiverId: 31166
+    ShotId: 101002
+  21578:
+    ReceiverId: 32111
+    ShotId: 101002
+  21579:
+    ReceiverId: 33109
+    ShotId: 101002
+  21585:
+    ReceiverId: 31108
+    ShotId: 101004
+  21586:
+    ReceiverId: 32106
+    ShotId: 101004
+  21587:
+    ReceiverId: 33177
+    ShotId: 101004
+  21590:
+    ReceiverId: 28112
+    ShotId: 101006
+  21593:
+    ReceiverId: 31110
+    ShotId: 101006
+  21594:
+    ReceiverId: 32176
+    ShotId: 101006
+  21595:
+    ReceiverId: 33113
+    ShotId: 101006
+  21600:
+    ReceiverId: 30178
+    ShotId: 101008
+  21602:
+    ReceiverId: 32111
+    ShotId: 101008
+  21608:
+    ReceiverId: 30178
+    ShotId: 101010
+  21610:
+    ReceiverId: 32177
+    ShotId: 101010
+  21614:
+    ReceiverId: 28176
+    ShotId: 101012
+  21617:
+    ReceiverId: 31176
+    ShotId: 101012
+  21618:
+    ReceiverId: 32113
+    ShotId: 101012
+  21619:
+    ReceiverId: 33113
+    ShotId: 101012
+  21626:
+    ReceiverId: 32177
+    ShotId: 101014
+  21627:
+    ReceiverId: 33176
+    ShotId: 101014
+  21634:
+    ReceiverId: 32179
+    ShotId: 101016
+  21636:
+    ReceiverId: 26105
+    ShotId: 101018
+  21642:
+    ReceiverId: 32113
+    ShotId: 101018
+  21643:
+    ReceiverId: 33177
+    ShotId: 101018
+  21645:
+    ReceiverId: 27100
+    ShotId: 101020
+  21647:
+    ReceiverId: 29177
+    ShotId: 101020
+  21648:
+    ReceiverId: 30179
+    ShotId: 101020
+  21650:
+    ReceiverId: 32111
+    ShotId: 101020
+  21651:
+    ReceiverId: 33113
+    ShotId: 101020
+  21653:
+    ReceiverId: 27190
+    ShotId: 101022
+  21654:
+    ReceiverId: 28192
+    ShotId: 101022
+  21658:
+    ReceiverId: 32176
+    ShotId: 101022
+  21659:
+    ReceiverId: 33113
+    ShotId: 101022
+  21661:
+    ReceiverId: 27103
+    ShotId: 101024
+  21663:
+    ReceiverId: 29112
+    ShotId: 101024
+  21664:
+    ReceiverId: 30177
+    ShotId: 101024
+  21666:
+    ReceiverId: 32176
+    ShotId: 101024
+  21667:
+    ReceiverId: 33113
+    ShotId: 101024
+  21668:
+    ReceiverId: 26112
+    ShotId: 101026
+  21669:
+    ReceiverId: 27183
+    ShotId: 101026
+  21670:
+    ReceiverId: 28110
+    ShotId: 101026
+  21671:
+    ReceiverId: 29110
+    ShotId: 101026
+  21672:
+    ReceiverId: 30183
+    ShotId: 101026
+  21673:
+    ReceiverId: 31173
+    ShotId: 101026
+  21674:
+    ReceiverId: 32176
+    ShotId: 101026
+  21675:
+    ReceiverId: 33113
+    ShotId: 101026
+  21676:
+    ReceiverId: 26179
+    ShotId: 101028
+  21678:
+    ReceiverId: 28104
+    ShotId: 101028
+  21680:
+    ReceiverId: 30111
+    ShotId: 101028
+  21681:
+    ReceiverId: 31110
+    ShotId: 101028
+  21682:
+    ReceiverId: 32176
+    ShotId: 101028
+  21683:
+    ReceiverId: 33177
+    ShotId: 101028
+  21684:
+    ReceiverId: 26178
+    ShotId: 101030
+  21685:
+    ReceiverId: 27179
+    ShotId: 101030
+  21686:
+    ReceiverId: 28110
+    ShotId: 101030
+  21687:
+    ReceiverId: 29181
+    ShotId: 101030
+  21688:
+    ReceiverId: 30183
+    ShotId: 101030
+  21689:
+    ReceiverId: 31107
+    ShotId: 101030
+  21690:
+    ReceiverId: 32176
+    ShotId: 101030
+  21691:
+    ReceiverId: 33113
+    ShotId: 101030
+  21692:
+    ReceiverId: 26178
+    ShotId: 101032
+  21693:
+    ReceiverId: 27176
+    ShotId: 101032
+  21694:
+    ReceiverId: 28184
+    ShotId: 101032
+  21695:
+    ReceiverId: 29106
+    ShotId: 101032
+  21696:
+    ReceiverId: 30107
+    ShotId: 101032
+  21697:
+    ReceiverId: 31103
+    ShotId: 101032
+  21698:
+    ReceiverId: 32116
+    ShotId: 101032
+  21699:
+    ReceiverId: 33179
+    ShotId: 101032
+  21700:
+    ReceiverId: 26180
+    ShotId: 101034
+  21701:
+    ReceiverId: 27180
+    ShotId: 101034
+  21702:
+    ReceiverId: 28179
+    ShotId: 101034
+  21703:
+    ReceiverId: 29107
+    ShotId: 101034
+  21706:
+    ReceiverId: 32182
+    ShotId: 101034
+  21707:
+    ReceiverId: 33177
+    ShotId: 101034
+  21708:
+    ReceiverId: 26109
+    ShotId: 101036
+  21709:
+    ReceiverId: 27110
+    ShotId: 101036
+  21710:
+    ReceiverId: 28176
+    ShotId: 101036
+  21711:
+    ReceiverId: 29109
+    ShotId: 101036
+  21712:
+    ReceiverId: 30111
+    ShotId: 101036
+  21713:
+    ReceiverId: 31101
+    ShotId: 101036
+  21714:
+    ReceiverId: 32108
+    ShotId: 101036
+  21715:
+    ReceiverId: 33178
+    ShotId: 101036
+  21716:
+    ReceiverId: 26178
+    ShotId: 101038
+  21717:
+    ReceiverId: 27109
+    ShotId: 101038
+  21718:
+    ReceiverId: 28177
+    ShotId: 101038
+  21719:
+    ReceiverId: 29177
+    ShotId: 101038
+  21720:
+    ReceiverId: 30182
+    ShotId: 101038
+  21721:
+    ReceiverId: 31178
+    ShotId: 101038
+  21722:
+    ReceiverId: 32183
+    ShotId: 101038
+  21723:
+    ReceiverId: 33181
+    ShotId: 101038
+  21724:
+    ReceiverId: 26113
+    ShotId: 101040
+  21725:
+    ReceiverId: 27186
+    ShotId: 101040
+  21727:
+    ReceiverId: 29181
+    ShotId: 101040
+  21728:
+    ReceiverId: 30113
+    ShotId: 101040
+  21729:
+    ReceiverId: 31176
+    ShotId: 101040
+  21730:
+    ReceiverId: 32174
+    ShotId: 101040
+  21731:
+    ReceiverId: 33182
+    ShotId: 101040
+  21733:
+    ReceiverId: 27103
+    ShotId: 101042
+  21734:
+    ReceiverId: 28180
+    ShotId: 101042
+  21735:
+    ReceiverId: 29106
+    ShotId: 101042
+  21736:
+    ReceiverId: 30117
+    ShotId: 101042
+  21737:
+    ReceiverId: 31175
+    ShotId: 101042
+  21738:
+    ReceiverId: 32110
+    ShotId: 101042
+  21739:
+    ReceiverId: 33112
+    ShotId: 101042
+  21740:
+    ReceiverId: 26177
+    ShotId: 101044
+  21741:
+    ReceiverId: 27112
+    ShotId: 101044
+  21742:
+    ReceiverId: 28183
+    ShotId: 101044
+  21743:
+    ReceiverId: 29107
+    ShotId: 101044
+  21744:
+    ReceiverId: 30112
+    ShotId: 101044
+  21745:
+    ReceiverId: 31176
+    ShotId: 101044
+  21746:
+    ReceiverId: 32176
+    ShotId: 101044
+  21748:
+    ReceiverId: 26113
+    ShotId: 101046
+  21749:
+    ReceiverId: 27113
+    ShotId: 101046
+  21750:
+    ReceiverId: 28177
+    ShotId: 101046
+  21751:
+    ReceiverId: 29177
+    ShotId: 101046
+  21752:
+    ReceiverId: 30114
+    ShotId: 101046
+  21753:
+    ReceiverId: 31175
+    ShotId: 101046
+  21754:
+    ReceiverId: 32177
+    ShotId: 101046
+  21755:
+    ReceiverId: 33113
+    ShotId: 101046
+  21757:
+    ReceiverId: 27113
+    ShotId: 101048
+  21758:
+    ReceiverId: 28112
+    ShotId: 101048
+  21759:
+    ReceiverId: 29179
+    ShotId: 101048
+  21760:
+    ReceiverId: 30110
+    ShotId: 101048
+  21762:
+    ReceiverId: 32177
+    ShotId: 101048
+  21765:
+    ReceiverId: 27120
+    ShotId: 101050
+  21766:
+    ReceiverId: 28112
+    ShotId: 101050
+  21769:
+    ReceiverId: 31176
+    ShotId: 101050
+  21770:
+    ReceiverId: 32112
+    ShotId: 101050
+  21772:
+    ReceiverId: 26113
+    ShotId: 101052
+  21773:
+    ReceiverId: 27177
+    ShotId: 101052
+  21774:
+    ReceiverId: 28112
+    ShotId: 101052
+  21775:
+    ReceiverId: 29111
+    ShotId: 101052
+  21776:
+    ReceiverId: 30113
+    ShotId: 101052
+  21777:
+    ReceiverId: 31182
+    ShotId: 101052
+  21778:
+    ReceiverId: 32175
+    ShotId: 101052
+  21779:
+    ReceiverId: 33179
+    ShotId: 101052
+  21780:
+    ReceiverId: 26105
+    ShotId: 101056
+  21781:
+    ReceiverId: 27177
+    ShotId: 101056
+  21782:
+    ReceiverId: 28185
+    ShotId: 101056
+  21783:
+    ReceiverId: 29102
+    ShotId: 101056
+  21784:
+    ReceiverId: 30108
+    ShotId: 101056
+  21785:
+    ReceiverId: 31105
+    ShotId: 101056
+  21786:
+    ReceiverId: 32102
+    ShotId: 101056
+  21787:
+    ReceiverId: 33184
+    ShotId: 101056
+  21788:
+    ReceiverId: 26182
+    ShotId: 101058
+  21789:
+    ReceiverId: 27110
+    ShotId: 101058
+  21790:
+    ReceiverId: 28113
+    ShotId: 101058
+  21791:
+    ReceiverId: 29177
+    ShotId: 101058
+  21792:
+    ReceiverId: 30103
+    ShotId: 101058
+  21793:
+    ReceiverId: 31109
+    ShotId: 101058
+  21794:
+    ReceiverId: 32109
+    ShotId: 101058
+  21795:
+    ReceiverId: 33105
+    ShotId: 101058
+  21796:
+    ReceiverId: 26113
+    ShotId: 101060
+  21797:
+    ReceiverId: 27181
+    ShotId: 101060
+  21798:
+    ReceiverId: 28188
+    ShotId: 101060
+  21799:
+    ReceiverId: 29177
+    ShotId: 101060
+  21800:
+    ReceiverId: 30113
+    ShotId: 101060
+  21801:
+    ReceiverId: 31101
+    ShotId: 101060
+  21802:
+    ReceiverId: 32176
+    ShotId: 101060
+  21803:
+    ReceiverId: 33182
+    ShotId: 101060
+  21804:
+    ReceiverId: 26106
+    ShotId: 102002
+  21805:
+    ReceiverId: 27120
+    ShotId: 102002
+  21806:
+    ReceiverId: 28176
+    ShotId: 102002
+  21807:
+    ReceiverId: 29112
+    ShotId: 102002
+  21808:
+    ReceiverId: 30106
+    ShotId: 102002
+  21809:
+    ReceiverId: 31097
+    ShotId: 102002
+  21810:
+    ReceiverId: 32114
+    ShotId: 102002
+  21811:
+    ReceiverId: 33176
+    ShotId: 102002
+  21812:
+    ReceiverId: 26110
+    ShotId: 102004
+  21813:
+    ReceiverId: 27177
+    ShotId: 102004
+  21814:
+    ReceiverId: 28177
+    ShotId: 102004
+  21815:
+    ReceiverId: 29105
+    ShotId: 102004
+  21816:
+    ReceiverId: 30185
+    ShotId: 102004
+  21817:
+    ReceiverId: 31170
+    ShotId: 102004
+  21818:
+    ReceiverId: 32102
+    ShotId: 102004
+  21819:
+    ReceiverId: 33176
+    ShotId: 102004
+  21826:
+    ReceiverId: 32113
+    ShotId: 102006
+  21827:
+    ReceiverId: 33176
+    ShotId: 102006
+  21831:
+    ReceiverId: 29111
+    ShotId: 102008
+  21834:
+    ReceiverId: 32113
+    ShotId: 102008
+  21841:
+    ReceiverId: 31174
+    ShotId: 102010
+  21842:
+    ReceiverId: 32113
+    ShotId: 102010
+  21849:
+    ReceiverId: 31112
+    ShotId: 102012
+  21850:
+    ReceiverId: 32114
+    ShotId: 102012
+  21854:
+    ReceiverId: 28175
+    ShotId: 102014
+  21857:
+    ReceiverId: 31110
+    ShotId: 102014
+  21858:
+    ReceiverId: 32176
+    ShotId: 102014
+  21862:
+    ReceiverId: 28113
+    ShotId: 102016
+  21863:
+    ReceiverId: 29113
+    ShotId: 102016
+  21865:
+    ReceiverId: 31111
+    ShotId: 102016
+  21866:
+    ReceiverId: 32176
+    ShotId: 102016
+  21868:
+    ReceiverId: 26171
+    ShotId: 102018
+  21870:
+    ReceiverId: 28176
+    ShotId: 102018
+  21871:
+    ReceiverId: 29113
+    ShotId: 102018
+  21874:
+    ReceiverId: 32113
+    ShotId: 102018
+  21875:
+    ReceiverId: 33176
+    ShotId: 102018
+  21884:
+    ReceiverId: 26109
+    ShotId: 102022
+  21885:
+    ReceiverId: 27107
+    ShotId: 102022
+  21887:
+    ReceiverId: 29175
+    ShotId: 102022
+  21888:
+    ReceiverId: 30178
+    ShotId: 102022
+  21890:
+    ReceiverId: 32176
+    ShotId: 102022
+  21891:
+    ReceiverId: 33176
+    ShotId: 102022
+  21892:
+    ReceiverId: 26180
+    ShotId: 102024
+  21893:
+    ReceiverId: 27186
+    ShotId: 102024
+  21898:
+    ReceiverId: 32178
+    ShotId: 102024
+  21899:
+    ReceiverId: 33176
+    ShotId: 102024
+  21900:
+    ReceiverId: 26112
+    ShotId: 102026
+  21901:
+    ReceiverId: 27111
+    ShotId: 102026
+  21902:
+    ReceiverId: 28182
+    ShotId: 102026
+  21903:
+    ReceiverId: 29108
+    ShotId: 102026
+  21904:
+    ReceiverId: 30111
+    ShotId: 102026
+  21905:
+    ReceiverId: 31176
+    ShotId: 102026
+  21907:
+    ReceiverId: 33113
+    ShotId: 102026
+  21908:
+    ReceiverId: 26179
+    ShotId: 102028
+  21909:
+    ReceiverId: 27112
+    ShotId: 102028
+  21910:
+    ReceiverId: 28107
+    ShotId: 102028
+  21911:
+    ReceiverId: 29102
+    ShotId: 102028
+  21912:
+    ReceiverId: 30111
+    ShotId: 102028
+  21913:
+    ReceiverId: 31174
+    ShotId: 102028
+  21914:
+    ReceiverId: 32112
+    ShotId: 102028
+  21915:
+    ReceiverId: 33113
+    ShotId: 102028
+  21917:
+    ReceiverId: 27178
+    ShotId: 102030
+  21918:
+    ReceiverId: 28179
+    ShotId: 102030
+  21919:
+    ReceiverId: 29185
+    ShotId: 102030
+  21920:
+    ReceiverId: 30108
+    ShotId: 102030
+  21921:
+    ReceiverId: 31176
+    ShotId: 102030
+  21922:
+    ReceiverId: 32176
+    ShotId: 102030
+  21923:
+    ReceiverId: 33113
+    ShotId: 102030
+  21924:
+    ReceiverId: 26111
+    ShotId: 102032
+  21926:
+    ReceiverId: 28185
+    ShotId: 102032
+  21927:
+    ReceiverId: 29178
+    ShotId: 102032
+  21928:
+    ReceiverId: 30186
+    ShotId: 102032
+  21929:
+    ReceiverId: 31102
+    ShotId: 102032
+  21930:
+    ReceiverId: 32177
+    ShotId: 102032
+  21931:
+    ReceiverId: 33112
+    ShotId: 102032
+  21932:
+    ReceiverId: 26179
+    ShotId: 102036
+  21933:
+    ReceiverId: 27178
+    ShotId: 102036
+  21934:
+    ReceiverId: 28109
+    ShotId: 102036
+  21935:
+    ReceiverId: 29109
+    ShotId: 102036
+  21936:
+    ReceiverId: 30183
+    ShotId: 102036
+  21937:
+    ReceiverId: 31097
+    ShotId: 102036
+  21938:
+    ReceiverId: 32178
+    ShotId: 102036
+  21939:
+    ReceiverId: 33113
+    ShotId: 102036
+  21940:
+    ReceiverId: 26109
+    ShotId: 102038
+  21941:
+    ReceiverId: 27112
+    ShotId: 102038
+  21942:
+    ReceiverId: 28108
+    ShotId: 102038
+  21943:
+    ReceiverId: 29114
+    ShotId: 102038
+  21944:
+    ReceiverId: 30111
+    ShotId: 102038
+  21945:
+    ReceiverId: 31100
+    ShotId: 102038
+  21946:
+    ReceiverId: 32109
+    ShotId: 102038
+  21947:
+    ReceiverId: 33177
+    ShotId: 102038
+  21948:
+    ReceiverId: 26107
+    ShotId: 102040
+  21949:
+    ReceiverId: 27181
+    ShotId: 102040
+  21950:
+    ReceiverId: 28177
+    ShotId: 102040
+  21951:
+    ReceiverId: 29180
+    ShotId: 102040
+  21952:
+    ReceiverId: 30180
+    ShotId: 102040
+  21953:
+    ReceiverId: 31105
+    ShotId: 102040
+  21954:
+    ReceiverId: 32109
+    ShotId: 102040
+  21955:
+    ReceiverId: 33176
+    ShotId: 102040
+  21956:
+    ReceiverId: 26178
+    ShotId: 102042
+  21957:
+    ReceiverId: 27106
+    ShotId: 102042
+  21958:
+    ReceiverId: 28112
+    ShotId: 102042
+  21959:
+    ReceiverId: 29110
+    ShotId: 102042
+  21960:
+    ReceiverId: 30114
+    ShotId: 102042
+  21961:
+    ReceiverId: 31174
+    ShotId: 102042
+  21962:
+    ReceiverId: 32110
+    ShotId: 102042
+  21963:
+    ReceiverId: 33177
+    ShotId: 102042
+  21964:
+    ReceiverId: 26113
+    ShotId: 102044
+  21965:
+    ReceiverId: 27177
+    ShotId: 102044
+  21967:
+    ReceiverId: 29111
+    ShotId: 102044
+  21968:
+    ReceiverId: 30178
+    ShotId: 102044
+  21969:
+    ReceiverId: 31174
+    ShotId: 102044
+  21970:
+    ReceiverId: 32113
+    ShotId: 102044
+  21971:
+    ReceiverId: 33179
+    ShotId: 102044
+  21972:
+    ReceiverId: 26176
+    ShotId: 102048
+  21973:
+    ReceiverId: 27111
+    ShotId: 102048
+  21974:
+    ReceiverId: 28108
+    ShotId: 102048
+  21975:
+    ReceiverId: 29104
+    ShotId: 102048
+  21976:
+    ReceiverId: 30112
+    ShotId: 102048
+  21977:
+    ReceiverId: 31105
+    ShotId: 102048
+  21978:
+    ReceiverId: 32121
+    ShotId: 102048
+  21979:
+    ReceiverId: 33111
+    ShotId: 102048
+  21980:
+    ReceiverId: 26176
+    ShotId: 102050
+  21981:
+    ReceiverId: 27113
+    ShotId: 102050
+  21982:
+    ReceiverId: 28113
+    ShotId: 102050
+  21983:
+    ReceiverId: 29178
+    ShotId: 102050
+  21984:
+    ReceiverId: 30112
+    ShotId: 102050
+  21985:
+    ReceiverId: 31108
+    ShotId: 102050
+  21986:
+    ReceiverId: 32176
+    ShotId: 102050
+  21987:
+    ReceiverId: 33111
+    ShotId: 102050
+  21988:
+    ReceiverId: 26183
+    ShotId: 102052
+  21989:
+    ReceiverId: 27099
+    ShotId: 102052
+  21990:
+    ReceiverId: 28100
+    ShotId: 102052
+  21991:
+    ReceiverId: 29186
+    ShotId: 102052
+  21992:
+    ReceiverId: 30182
+    ShotId: 102052
+  21993:
+    ReceiverId: 31187
+    ShotId: 102052
+  21996:
+    ReceiverId: 26108
+    ShotId: 102054
+  21997:
+    ReceiverId: 27113
+    ShotId: 102054
+  21998:
+    ReceiverId: 28113
+    ShotId: 102054
+  21999:
+    ReceiverId: 29179
+    ShotId: 102054
+  22000:
+    ReceiverId: 30179
+    ShotId: 102054
+  22001:
+    ReceiverId: 31103
+    ShotId: 102054
+  22005:
+    ReceiverId: 32127
+    ShotId: 102056
+  22007:
+    ReceiverId: 26101
+    ShotId: 102058
+  22008:
+    ReceiverId: 27113
+    ShotId: 102058
+  22009:
+    ReceiverId: 28176
+    ShotId: 102058
+  22010:
+    ReceiverId: 29113
+    ShotId: 102058
+  22011:
+    ReceiverId: 30113
+    ShotId: 102058
+  22013:
+    ReceiverId: 32182
+    ShotId: 102058
+  22014:
+    ReceiverId: 33109
+    ShotId: 102058
+  22015:
+    ReceiverId: 26112
+    ShotId: 102060
+  22016:
+    ReceiverId: 27178
+    ShotId: 102060
+  22017:
+    ReceiverId: 28113
+    ShotId: 102060
+  22018:
+    ReceiverId: 29177
+    ShotId: 102060
+  22019:
+    ReceiverId: 30112
+    ShotId: 102060
+  22021:
+    ReceiverId: 32103
+    ShotId: 102060
+  22022:
+    ReceiverId: 33182
+    ShotId: 102060
+  22023:
+    ReceiverId: 26112
+    ShotId: 102062
+  22024:
+    ReceiverId: 27177
+    ShotId: 102062
+  22025:
+    ReceiverId: 28113
+    ShotId: 102062
+  22026:
+    ReceiverId: 29176
+    ShotId: 102062
+  22027:
+    ReceiverId: 30111
+    ShotId: 102062
+  22028:
+    ReceiverId: 31182
+    ShotId: 102062
+  22029:
+    ReceiverId: 32110
+    ShotId: 102062
+  22030:
+    ReceiverId: 33184
+    ShotId: 102062
+  22031:
+    ReceiverId: 26107
+    ShotId: 103002
+  22033:
+    ReceiverId: 28173
+    ShotId: 103002
+  22034:
+    ReceiverId: 29179
+    ShotId: 103002
+  22037:
+    ReceiverId: 32109
+    ShotId: 103002
+  22041:
+    ReceiverId: 28111
+    ShotId: 103004
+  22042:
+    ReceiverId: 29108
+    ShotId: 103004
+  22043:
+    ReceiverId: 30107
+    ShotId: 103004
+  22044:
+    ReceiverId: 31164
+    ShotId: 103004
+  22045:
+    ReceiverId: 32110
+    ShotId: 103004
+  22046:
+    ReceiverId: 33113
+    ShotId: 103004
+  22053:
+    ReceiverId: 32097
+    ShotId: 103006
+  22068:
+    ReceiverId: 31108
+    ShotId: 103010
+  22069:
+    ReceiverId: 32113
+    ShotId: 103010
+  22076:
+    ReceiverId: 31176
+    ShotId: 103012
+  22080:
+    ReceiverId: 27113
+    ShotId: 103014
+  22084:
+    ReceiverId: 31110
+    ShotId: 103014
+  22085:
+    ReceiverId: 32176
+    ShotId: 103014
+  22093:
+    ReceiverId: 32113
+    ShotId: 103016
+  22096:
+    ReceiverId: 27184
+    ShotId: 103018
+  22097:
+    ReceiverId: 28112
+    ShotId: 103018
+  22098:
+    ReceiverId: 29183
+    ShotId: 103018
+  22099:
+    ReceiverId: 30192
+    ShotId: 103018
+  22100:
+    ReceiverId: 31178
+    ShotId: 103018
+  22101:
+    ReceiverId: 32176
+    ShotId: 103018
+  22102:
+    ReceiverId: 33177
+    ShotId: 103018
+  22103:
+    ReceiverId: 26105
+    ShotId: 103020
+  22104:
+    ReceiverId: 27179
+    ShotId: 103020
+  22105:
+    ReceiverId: 28113
+    ShotId: 103020
+  22106:
+    ReceiverId: 29112
+    ShotId: 103020
+  22107:
+    ReceiverId: 30114
+    ShotId: 103020
+  22108:
+    ReceiverId: 31174
+    ShotId: 103020
+  22109:
+    ReceiverId: 32113
+    ShotId: 103020
+  22110:
+    ReceiverId: 33113
+    ShotId: 103020
+  22111:
+    ReceiverId: 26110
+    ShotId: 103022
+  22112:
+    ReceiverId: 27104
+    ShotId: 103022
+  22113:
+    ReceiverId: 28111
+    ShotId: 103022
+  22114:
+    ReceiverId: 29175
+    ShotId: 103022
+  22115:
+    ReceiverId: 30177
+    ShotId: 103022
+  22116:
+    ReceiverId: 31173
+    ShotId: 103022
+  22117:
+    ReceiverId: 32176
+    ShotId: 103022
+  22118:
+    ReceiverId: 33176
+    ShotId: 103022
+  22119:
+    ReceiverId: 26178
+    ShotId: 103024
+  22120:
+    ReceiverId: 27103
+    ShotId: 103024
+  22121:
+    ReceiverId: 28117
+    ShotId: 103024
+  22122:
+    ReceiverId: 29176
+    ShotId: 103024
+  22123:
+    ReceiverId: 30178
+    ShotId: 103024
+  22124:
+    ReceiverId: 31110
+    ShotId: 103024
+  22125:
+    ReceiverId: 32113
+    ShotId: 103024
+  22126:
+    ReceiverId: 33176
+    ShotId: 103024
+  22130:
+    ReceiverId: 29177
+    ShotId: 103026
+  22131:
+    ReceiverId: 30179
+    ShotId: 103026
+  22132:
+    ReceiverId: 31107
+    ShotId: 103026
+  22133:
+    ReceiverId: 32113
+    ShotId: 103026
+  22134:
+    ReceiverId: 33113
+    ShotId: 103026
+  22135:
+    ReceiverId: 26179
+    ShotId: 103028
+  22136:
+    ReceiverId: 27111
+    ShotId: 103028
+  22138:
+    ReceiverId: 29182
+    ShotId: 103028
+  22139:
+    ReceiverId: 30111
+    ShotId: 103028
+  22140:
+    ReceiverId: 31109
+    ShotId: 103028
+  22141:
+    ReceiverId: 32110
+    ShotId: 103028
+  22142:
+    ReceiverId: 33113
+    ShotId: 103028
+  22144:
+    ReceiverId: 27112
+    ShotId: 103030
+  22145:
+    ReceiverId: 28110
+    ShotId: 103030
+  22146:
+    ReceiverId: 29104
+    ShotId: 103030
+  22147:
+    ReceiverId: 30182
+    ShotId: 103030
+  22148:
+    ReceiverId: 31178
+    ShotId: 103030
+  22149:
+    ReceiverId: 32176
+    ShotId: 103030
+  22150:
+    ReceiverId: 33113
+    ShotId: 103030
+  22152:
+    ReceiverId: 27112
+    ShotId: 103032
+  22153:
+    ReceiverId: 28177
+    ShotId: 103032
+  22154:
+    ReceiverId: 29110
+    ShotId: 103032
+  22155:
+    ReceiverId: 30183
+    ShotId: 103032
+  22156:
+    ReceiverId: 31177
+    ShotId: 103032
+  22157:
+    ReceiverId: 32113
+    ShotId: 103032
+  22158:
+    ReceiverId: 33113
+    ShotId: 103032
+  22162:
+    ReceiverId: 29110
+    ShotId: 103034
+  22163:
+    ReceiverId: 30188
+    ShotId: 103034
+  22164:
+    ReceiverId: 31106
+    ShotId: 103034
+  22165:
+    ReceiverId: 32113
+    ShotId: 103034
+  22166:
+    ReceiverId: 33176
+    ShotId: 103034
+  22167:
+    ReceiverId: 26111
+    ShotId: 103036
+  22168:
+    ReceiverId: 27112
+    ShotId: 103036
+  22172:
+    ReceiverId: 31104
+    ShotId: 103036
+  22173:
+    ReceiverId: 32177
+    ShotId: 103036
+  22174:
+    ReceiverId: 33176
+    ShotId: 103036
+  22175:
+    ReceiverId: 26110
+    ShotId: 103038
+  22176:
+    ReceiverId: 27112
+    ShotId: 103038
+  22177:
+    ReceiverId: 28112
+    ShotId: 103038
+  22178:
+    ReceiverId: 29112
+    ShotId: 103038
+  22179:
+    ReceiverId: 30114
+    ShotId: 103038
+  22180:
+    ReceiverId: 31108
+    ShotId: 103038
+  22181:
+    ReceiverId: 32108
+    ShotId: 103038
+  22182:
+    ReceiverId: 33113
+    ShotId: 103038
+  22183:
+    ReceiverId: 26110
+    ShotId: 103040
+  22184:
+    ReceiverId: 27184
+    ShotId: 103040
+  22186:
+    ReceiverId: 29175
+    ShotId: 103040
+  22187:
+    ReceiverId: 30181
+    ShotId: 103040
+  22188:
+    ReceiverId: 31171
+    ShotId: 103040
+  22189:
+    ReceiverId: 32178
+    ShotId: 103040
+  22190:
+    ReceiverId: 33176
+    ShotId: 103040
+  22191:
+    ReceiverId: 26113
+    ShotId: 103042
+  22192:
+    ReceiverId: 27177
+    ShotId: 103042
+  22193:
+    ReceiverId: 28177
+    ShotId: 103042
+  22194:
+    ReceiverId: 29112
+    ShotId: 103042
+  22195:
+    ReceiverId: 30177
+    ShotId: 103042
+  22196:
+    ReceiverId: 31109
+    ShotId: 103042
+  22197:
+    ReceiverId: 32109
+    ShotId: 103042
+  22198:
+    ReceiverId: 33177
+    ShotId: 103042
+  22199:
+    ReceiverId: 26113
+    ShotId: 103044
+  22200:
+    ReceiverId: 27112
+    ShotId: 103044
+  22201:
+    ReceiverId: 28109
+    ShotId: 103044
+  22202:
+    ReceiverId: 29110
+    ShotId: 103044
+  22203:
+    ReceiverId: 30180
+    ShotId: 103044
+  22204:
+    ReceiverId: 31106
+    ShotId: 103044
+  22205:
+    ReceiverId: 32177
+    ShotId: 103044
+  22206:
+    ReceiverId: 33110
+    ShotId: 103044
+  22207:
+    ReceiverId: 26113
+    ShotId: 103046
+  22208:
+    ReceiverId: 27113
+    ShotId: 103046
+  22209:
+    ReceiverId: 28112
+    ShotId: 103046
+  22210:
+    ReceiverId: 29177
+    ShotId: 103046
+  22212:
+    ReceiverId: 31174
+    ShotId: 103046
+  22213:
+    ReceiverId: 32177
+    ShotId: 103046
+  22214:
+    ReceiverId: 33111
+    ShotId: 103046
+  22217:
+    ReceiverId: 28113
+    ShotId: 103048
+  22219:
+    ReceiverId: 30180
+    ShotId: 103048
+  22220:
+    ReceiverId: 31111
+    ShotId: 103048
+  22221:
+    ReceiverId: 32100
+    ShotId: 103048
+  22223:
+    ReceiverId: 26112
+    ShotId: 103050
+  22224:
+    ReceiverId: 27113
+    ShotId: 103050
+  22225:
+    ReceiverId: 28113
+    ShotId: 103050
+  22228:
+    ReceiverId: 31109
+    ShotId: 103050
+  22229:
+    ReceiverId: 32192
+    ShotId: 103050
+  22230:
+    ReceiverId: 33103
+    ShotId: 103050
+  22231:
+    ReceiverId: 26113
+    ShotId: 103052
+  22232:
+    ReceiverId: 27113
+    ShotId: 103052
+  22233:
+    ReceiverId: 28179
+    ShotId: 103052
+  22234:
+    ReceiverId: 29177
+    ShotId: 103052
+  22236:
+    ReceiverId: 31117
+    ShotId: 103052
+  22237:
+    ReceiverId: 32125
+    ShotId: 103052
+  22238:
+    ReceiverId: 33107
+    ShotId: 103052
+  22239:
+    ReceiverId: 26113
+    ShotId: 103054
+  22240:
+    ReceiverId: 27176
+    ShotId: 103054
+  22241:
+    ReceiverId: 28113
+    ShotId: 103054
+  22242:
+    ReceiverId: 29113
+    ShotId: 103054
+  22243:
+    ReceiverId: 30178
+    ShotId: 103054
+  22245:
+    ReceiverId: 32192
+    ShotId: 103054
+  22246:
+    ReceiverId: 33180
+    ShotId: 103054
+  22247:
+    ReceiverId: 26176
+    ShotId: 103056
+  22248:
+    ReceiverId: 27177
+    ShotId: 103056
+  22249:
+    ReceiverId: 28113
+    ShotId: 103056
+  22250:
+    ReceiverId: 29113
+    ShotId: 103056
+  22251:
+    ReceiverId: 30177
+    ShotId: 103056
+  22252:
+    ReceiverId: 31109
+    ShotId: 103056
+  22254:
+    ReceiverId: 33108
+    ShotId: 103056
+  22255:
+    ReceiverId: 26180
+    ShotId: 103058
+  22256:
+    ReceiverId: 27177
+    ShotId: 103058
+  22257:
+    ReceiverId: 28113
+    ShotId: 103058
+  22258:
+    ReceiverId: 29113
+    ShotId: 103058
+  22260:
+    ReceiverId: 31105
+    ShotId: 103058
+  22261:
+    ReceiverId: 32109
+    ShotId: 103058
+  22262:
+    ReceiverId: 33183
+    ShotId: 103058
+  22263:
+    ReceiverId: 26117
+    ShotId: 103060
+  22264:
+    ReceiverId: 27113
+    ShotId: 103060
+  22265:
+    ReceiverId: 28177
+    ShotId: 103060
+  22266:
+    ReceiverId: 29177
+    ShotId: 103060
+  22271:
+    ReceiverId: 26109
+    ShotId: 104002
+  22272:
+    ReceiverId: 27120
+    ShotId: 104002
+  22273:
+    ReceiverId: 28177
+    ShotId: 104002
+  22274:
+    ReceiverId: 29184
+    ShotId: 104002
+  22275:
+    ReceiverId: 30117
+    ShotId: 104002
+  22276:
+    ReceiverId: 31097
+    ShotId: 104002
+  22277:
+    ReceiverId: 32128
+    ShotId: 104002
+  22278:
+    ReceiverId: 33113
+    ShotId: 104002
+  22279:
+    ReceiverId: 26107
+    ShotId: 104004
+  22280:
+    ReceiverId: 27122
+    ShotId: 104004
+  22281:
+    ReceiverId: 28177
+    ShotId: 104004
+  22282:
+    ReceiverId: 29170
+    ShotId: 104004
+  22283:
+    ReceiverId: 30120
+    ShotId: 104004
+  22285:
+    ReceiverId: 32114
+    ShotId: 104004
+  22286:
+    ReceiverId: 33176
+    ShotId: 104004
+  22287:
+    ReceiverId: 26173
+    ShotId: 104006
+  22288:
+    ReceiverId: 27112
+    ShotId: 104006
+  22289:
+    ReceiverId: 28106
+    ShotId: 104006
+  22290:
+    ReceiverId: 29109
+    ShotId: 104006
+  22291:
+    ReceiverId: 30179
+    ShotId: 104006
+  22292:
+    ReceiverId: 31168
+    ShotId: 104006
+  22293:
+    ReceiverId: 32179
+    ShotId: 104006
+  22294:
+    ReceiverId: 33113
+    ShotId: 104006
+  22295:
+    ReceiverId: 26108
+    ShotId: 104008
+  22296:
+    ReceiverId: 27177
+    ShotId: 104008
+  22297:
+    ReceiverId: 28175
+    ShotId: 104008
+  22298:
+    ReceiverId: 29176
+    ShotId: 104008
+  22299:
+    ReceiverId: 30115
+    ShotId: 104008
+  22300:
+    ReceiverId: 31109
+    ShotId: 104008
+  22301:
+    ReceiverId: 32176
+    ShotId: 104008
+  22302:
+    ReceiverId: 33113
+    ShotId: 104008
+  22303:
+    ReceiverId: 26109
+    ShotId: 104010
+  22304:
+    ReceiverId: 27112
+    ShotId: 104010
+  22305:
+    ReceiverId: 28176
+    ShotId: 104010
+  22306:
+    ReceiverId: 29111
+    ShotId: 104010
+  22307:
+    ReceiverId: 30116
+    ShotId: 104010
+  22308:
+    ReceiverId: 31115
+    ShotId: 104010
+  22311:
+    ReceiverId: 26181
+    ShotId: 104012
+  22312:
+    ReceiverId: 27112
+    ShotId: 104012
+  22313:
+    ReceiverId: 28113
+    ShotId: 104012
+  22314:
+    ReceiverId: 29113
+    ShotId: 104012
+  22315:
+    ReceiverId: 30114
+    ShotId: 104012
+  22316:
+    ReceiverId: 31173
+    ShotId: 104012
+  22317:
+    ReceiverId: 32113
+    ShotId: 104012
+  22318:
+    ReceiverId: 33177
+    ShotId: 104012
+  22319:
+    ReceiverId: 26109
+    ShotId: 104014
+  22320:
+    ReceiverId: 27113
+    ShotId: 104014
+  22321:
+    ReceiverId: 28112
+    ShotId: 104014
+  22322:
+    ReceiverId: 29112
+    ShotId: 104014
+  22323:
+    ReceiverId: 30113
+    ShotId: 104014
+  22324:
+    ReceiverId: 31111
+    ShotId: 104014
+  22325:
+    ReceiverId: 32176
+    ShotId: 104014
+  22326:
+    ReceiverId: 33113
+    ShotId: 104014
+  22327:
+    ReceiverId: 26108
+    ShotId: 104016
+  22328:
+    ReceiverId: 27122
+    ShotId: 104016
+  22329:
+    ReceiverId: 28179
+    ShotId: 104016
+  22330:
+    ReceiverId: 29115
+    ShotId: 104016
+  22331:
+    ReceiverId: 30181
+    ShotId: 104016
+  22332:
+    ReceiverId: 31114
+    ShotId: 104016
+  22333:
+    ReceiverId: 32115
+    ShotId: 104016
+  22335:
+    ReceiverId: 26177
+    ShotId: 104018
+  22336:
+    ReceiverId: 27191
+    ShotId: 104018
+  22337:
+    ReceiverId: 28176
+    ShotId: 104018
+  22338:
+    ReceiverId: 29176
+    ShotId: 104018
+  22339:
+    ReceiverId: 30113
+    ShotId: 104018
+  22340:
+    ReceiverId: 31173
+    ShotId: 104018
+  22341:
+    ReceiverId: 32177
+    ShotId: 104018
+  22343:
+    ReceiverId: 26106
+    ShotId: 104020
+  22344:
+    ReceiverId: 27112
+    ShotId: 104020
+  22345:
+    ReceiverId: 28112
+    ShotId: 104020
+  22346:
+    ReceiverId: 29111
+    ShotId: 104020
+  22347:
+    ReceiverId: 30178
+    ShotId: 104020
+  22348:
+    ReceiverId: 31109
+    ShotId: 104020
+  22349:
+    ReceiverId: 32176
+    ShotId: 104020
+  22350:
+    ReceiverId: 33113
+    ShotId: 104020
+  22351:
+    ReceiverId: 26108
+    ShotId: 104022
+  22352:
+    ReceiverId: 27107
+    ShotId: 104022
+  22353:
+    ReceiverId: 28175
+    ShotId: 104022
+  22354:
+    ReceiverId: 29175
+    ShotId: 104022
+  22355:
+    ReceiverId: 30115
+    ShotId: 104022
+  22356:
+    ReceiverId: 31174
+    ShotId: 104022
+  22357:
+    ReceiverId: 32114
+    ShotId: 104022
+  22358:
+    ReceiverId: 33176
+    ShotId: 104022
+  22360:
+    ReceiverId: 27187
+    ShotId: 104024
+  22361:
+    ReceiverId: 28110
+    ShotId: 104024
+  22362:
+    ReceiverId: 29111
+    ShotId: 104024
+  22363:
+    ReceiverId: 30115
+    ShotId: 104024
+  22364:
+    ReceiverId: 31109
+    ShotId: 104024
+  22365:
+    ReceiverId: 32177
+    ShotId: 104024
+  22366:
+    ReceiverId: 33177
+    ShotId: 104024
+  22368:
+    ReceiverId: 27181
+    ShotId: 104026
+  22369:
+    ReceiverId: 28105
+    ShotId: 104026
+  22370:
+    ReceiverId: 29178
+    ShotId: 104026
+  22371:
+    ReceiverId: 30178
+    ShotId: 104026
+  22372:
+    ReceiverId: 31174
+    ShotId: 104026
+  22373:
+    ReceiverId: 32176
+    ShotId: 104026
+  22374:
+    ReceiverId: 33113
+    ShotId: 104026
+  22379:
+    ReceiverId: 30114
+    ShotId: 104028
+  22380:
+    ReceiverId: 31109
+    ShotId: 104028
+  22381:
+    ReceiverId: 32113
+    ShotId: 104028
+  22382:
+    ReceiverId: 33113
+    ShotId: 104028
+  22385:
+    ReceiverId: 28176
+    ShotId: 104030
+  22386:
+    ReceiverId: 29102
+    ShotId: 104030
+  22387:
+    ReceiverId: 30180
+    ShotId: 104030
+  22388:
+    ReceiverId: 31174
+    ShotId: 104030
+  22389:
+    ReceiverId: 32176
+    ShotId: 104030
+  22390:
+    ReceiverId: 33113
+    ShotId: 104030
+  22391:
+    ReceiverId: 26111
+    ShotId: 104034
+  22392:
+    ReceiverId: 27112
+    ShotId: 104034
+  22396:
+    ReceiverId: 31105
+    ShotId: 104034
+  22397:
+    ReceiverId: 32112
+    ShotId: 104034
+  22398:
+    ReceiverId: 33177
+    ShotId: 104034
+  22399:
+    ReceiverId: 26178
+    ShotId: 104036
+  22400:
+    ReceiverId: 27176
+    ShotId: 104036
+  22402:
+    ReceiverId: 29175
+    ShotId: 104036
+  22403:
+    ReceiverId: 30180
+    ShotId: 104036
+  22404:
+    ReceiverId: 31178
+    ShotId: 104036
+  22405:
+    ReceiverId: 32176
+    ShotId: 104036
+  22406:
+    ReceiverId: 33176
+    ShotId: 104036
+  22408:
+    ReceiverId: 27113
+    ShotId: 104038
+  22409:
+    ReceiverId: 28113
+    ShotId: 104038
+  22410:
+    ReceiverId: 29111
+    ShotId: 104038
+  22411:
+    ReceiverId: 30113
+    ShotId: 104038
+  22412:
+    ReceiverId: 31108
+    ShotId: 104038
+  22413:
+    ReceiverId: 32177
+    ShotId: 104038
+  22414:
+    ReceiverId: 33176
+    ShotId: 104038
+  22417:
+    ReceiverId: 28177
+    ShotId: 104040
+  22418:
+    ReceiverId: 29111
+    ShotId: 104040
+  22419:
+    ReceiverId: 30113
+    ShotId: 104040
+  22420:
+    ReceiverId: 31173
+    ShotId: 104040
+  22421:
+    ReceiverId: 32176
+    ShotId: 104040
+  22422:
+    ReceiverId: 33113
+    ShotId: 104040
+  22423:
+    ReceiverId: 26106
+    ShotId: 104044
+  22424:
+    ReceiverId: 27184
+    ShotId: 104044
+  22425:
+    ReceiverId: 28111
+    ShotId: 104044
+  22426:
+    ReceiverId: 29112
+    ShotId: 104044
+  22427:
+    ReceiverId: 30182
+    ShotId: 104044
+  22428:
+    ReceiverId: 31103
+    ShotId: 104044
+  22429:
+    ReceiverId: 32113
+    ShotId: 104044
+  22430:
+    ReceiverId: 33177
+    ShotId: 104044
+  22431:
+    ReceiverId: 26110
+    ShotId: 104046
+  22432:
+    ReceiverId: 27112
+    ShotId: 104046
+  22433:
+    ReceiverId: 28177
+    ShotId: 104046
+  22434:
+    ReceiverId: 29178
+    ShotId: 104046
+  22435:
+    ReceiverId: 30112
+    ShotId: 104046
+  22436:
+    ReceiverId: 31101
+    ShotId: 104046
+  22437:
+    ReceiverId: 32177
+    ShotId: 104046
+  22439:
+    ReceiverId: 26097
+    ShotId: 104048
+  22440:
+    ReceiverId: 27183
+    ShotId: 104048
+  22441:
+    ReceiverId: 28176
+    ShotId: 104048
+  22442:
+    ReceiverId: 29178
+    ShotId: 104048
+  22443:
+    ReceiverId: 30113
+    ShotId: 104048
+  22444:
+    ReceiverId: 31110
+    ShotId: 104048
+  22445:
+    ReceiverId: 32105
+    ShotId: 104048
+  22446:
+    ReceiverId: 33180
+    ShotId: 104048
+  22448:
+    ReceiverId: 27110
+    ShotId: 104050
+  22449:
+    ReceiverId: 28113
+    ShotId: 104050
+  22450:
+    ReceiverId: 29176
+    ShotId: 104050
+  22451:
+    ReceiverId: 30177
+    ShotId: 104050
+  22452:
+    ReceiverId: 31179
+    ShotId: 104050
+  22453:
+    ReceiverId: 32181
+    ShotId: 104050
+  22454:
+    ReceiverId: 33106
+    ShotId: 104050
+  22455:
+    ReceiverId: 26174
+    ShotId: 104052
+  22456:
+    ReceiverId: 27113
+    ShotId: 104052
+  22457:
+    ReceiverId: 28176
+    ShotId: 104052
+  22459:
+    ReceiverId: 30178
+    ShotId: 104052
+  22460:
+    ReceiverId: 31188
+    ShotId: 104052
+  22461:
+    ReceiverId: 32192
+    ShotId: 104052
+  22462:
+    ReceiverId: 33106
+    ShotId: 104052
+  22463:
+    ReceiverId: 26192
+    ShotId: 104054
+  22464:
+    ReceiverId: 27113
+    ShotId: 104054
+  22465:
+    ReceiverId: 28176
+    ShotId: 104054
+  22466:
+    ReceiverId: 29113
+    ShotId: 104054
+  22467:
+    ReceiverId: 30177
+    ShotId: 104054
+  22468:
+    ReceiverId: 31105
+    ShotId: 104054
+  22469:
+    ReceiverId: 32191
+    ShotId: 104054
+  22470:
+    ReceiverId: 33180
+    ShotId: 104054
+  22471:
+    ReceiverId: 26111
+    ShotId: 104056
+  22472:
+    ReceiverId: 27176
+    ShotId: 104056
+  22473:
+    ReceiverId: 28113
+    ShotId: 104056
+  22474:
+    ReceiverId: 29177
+    ShotId: 104056
+  22475:
+    ReceiverId: 30112
+    ShotId: 104056
+  22476:
+    ReceiverId: 31184
+    ShotId: 104056
+  22477:
+    ReceiverId: 32181
+    ShotId: 104056
+  22478:
+    ReceiverId: 33107
+    ShotId: 104056
+  22479:
+    ReceiverId: 26168
+    ShotId: 104058
+  22480:
+    ReceiverId: 27184
+    ShotId: 104058
+  22481:
+    ReceiverId: 28176
+    ShotId: 104058
+  22482:
+    ReceiverId: 29173
+    ShotId: 104058
+  22483:
+    ReceiverId: 30191
+    ShotId: 104058
+  22484:
+    ReceiverId: 31179
+    ShotId: 104058
+  22486:
+    ReceiverId: 33184
+    ShotId: 104058
+  22487:
+    ReceiverId: 26100
+    ShotId: 105002
+  22488:
+    ReceiverId: 27097
+    ShotId: 105002
+  22489:
+    ReceiverId: 28103
+    ShotId: 105002
+  22490:
+    ReceiverId: 29112
+    ShotId: 105002
+  22491:
+    ReceiverId: 30114
+    ShotId: 105002
+  22492:
+    ReceiverId: 31113
+    ShotId: 105002
+  22493:
+    ReceiverId: 32113
+    ShotId: 105002
+  22494:
+    ReceiverId: 33113
+    ShotId: 105002
+  22495:
+    ReceiverId: 26184
+    ShotId: 105004
+  22496:
+    ReceiverId: 27188
+    ShotId: 105004
+  22497:
+    ReceiverId: 28113
+    ShotId: 105004
+  22498:
+    ReceiverId: 29109
+    ShotId: 105004
+  22499:
+    ReceiverId: 30114
+    ShotId: 105004
+  22500:
+    ReceiverId: 31113
+    ShotId: 105004
+  22501:
+    ReceiverId: 32176
+    ShotId: 105004
+  22502:
+    ReceiverId: 33176
+    ShotId: 105004
+  22503:
+    ReceiverId: 26110
+    ShotId: 105006
+  22504:
+    ReceiverId: 27181
+    ShotId: 105006
+  22505:
+    ReceiverId: 28108
+    ShotId: 105006
+  22506:
+    ReceiverId: 29177
+    ShotId: 105006
+  22507:
+    ReceiverId: 30110
+    ShotId: 105006
+  22508:
+    ReceiverId: 31173
+    ShotId: 105006
+  22509:
+    ReceiverId: 32176
+    ShotId: 105006
+  22510:
+    ReceiverId: 33176
+    ShotId: 105006
+  22511:
+    ReceiverId: 26107
+    ShotId: 105008
+  22512:
+    ReceiverId: 27107
+    ShotId: 105008
+  22513:
+    ReceiverId: 28179
+    ShotId: 105008
+  22514:
+    ReceiverId: 29108
+    ShotId: 105008
+  22515:
+    ReceiverId: 30114
+    ShotId: 105008
+  22516:
+    ReceiverId: 31173
+    ShotId: 105008
+  22517:
+    ReceiverId: 32177
+    ShotId: 105008
+  22518:
+    ReceiverId: 33176
+    ShotId: 105008
+  22519:
+    ReceiverId: 26186
+    ShotId: 105010
+  22520:
+    ReceiverId: 27189
+    ShotId: 105010
+  22521:
+    ReceiverId: 28177
+    ShotId: 105010
+  22522:
+    ReceiverId: 29113
+    ShotId: 105010
+  22523:
+    ReceiverId: 30177
+    ShotId: 105010
+  22524:
+    ReceiverId: 31113
+    ShotId: 105010
+  22525:
+    ReceiverId: 32113
+    ShotId: 105010
+  22526:
+    ReceiverId: 33113
+    ShotId: 105010
+  22527:
+    ReceiverId: 26107
+    ShotId: 105012
+  22528:
+    ReceiverId: 27113
+    ShotId: 105012
+  22529:
+    ReceiverId: 28177
+    ShotId: 105012
+  22530:
+    ReceiverId: 29113
+    ShotId: 105012
+  22531:
+    ReceiverId: 30177
+    ShotId: 105012
+  22532:
+    ReceiverId: 31110
+    ShotId: 105012
+  22533:
+    ReceiverId: 32113
+    ShotId: 105012
+  22536:
+    ReceiverId: 27113
+    ShotId: 105014
+  22537:
+    ReceiverId: 28175
+    ShotId: 105014
+  22538:
+    ReceiverId: 29176
+    ShotId: 105014
+  22539:
+    ReceiverId: 30176
+    ShotId: 105014
+  22540:
+    ReceiverId: 31176
+    ShotId: 105014
+  22541:
+    ReceiverId: 32113
+    ShotId: 105014
+  22545:
+    ReceiverId: 28113
+    ShotId: 105016
+  22546:
+    ReceiverId: 29176
+    ShotId: 105016
+  22547:
+    ReceiverId: 30113
+    ShotId: 105016
+  22548:
+    ReceiverId: 31110
+    ShotId: 105016
+  22549:
+    ReceiverId: 32176
+    ShotId: 105016
+  22550:
+    ReceiverId: 33113
+    ShotId: 105016
+  22553:
+    ReceiverId: 28175
+    ShotId: 105018
+  22554:
+    ReceiverId: 29111
+    ShotId: 105018
+  22555:
+    ReceiverId: 30175
+    ShotId: 105018
+  22556:
+    ReceiverId: 31173
+    ShotId: 105018
+  22557:
+    ReceiverId: 32113
+    ShotId: 105018
+  22558:
+    ReceiverId: 33177
+    ShotId: 105018
+  22561:
+    ReceiverId: 28175
+    ShotId: 105022
+  22562:
+    ReceiverId: 29175
+    ShotId: 105022
+  22563:
+    ReceiverId: 30178
+    ShotId: 105022
+  22564:
+    ReceiverId: 31109
+    ShotId: 105022
+  22565:
+    ReceiverId: 32176
+    ShotId: 105022
+  22566:
+    ReceiverId: 33113
+    ShotId: 105022
+  22568:
+    ReceiverId: 27187
+    ShotId: 105024
+  22569:
+    ReceiverId: 28176
+    ShotId: 105024
+  22570:
+    ReceiverId: 29112
+    ShotId: 105024
+  22571:
+    ReceiverId: 30115
+    ShotId: 105024
+  22572:
+    ReceiverId: 31110
+    ShotId: 105024
+  22573:
+    ReceiverId: 32113
+    ShotId: 105024
+  22574:
+    ReceiverId: 33176
+    ShotId: 105024
+  22575:
+    ReceiverId: 26179
+    ShotId: 105026
+  22576:
+    ReceiverId: 27182
+    ShotId: 105026
+  22577:
+    ReceiverId: 28179
+    ShotId: 105026
+  22578:
+    ReceiverId: 29178
+    ShotId: 105026
+  22579:
+    ReceiverId: 30177
+    ShotId: 105026
+  22580:
+    ReceiverId: 31109
+    ShotId: 105026
+  22581:
+    ReceiverId: 32113
+    ShotId: 105026
+  22582:
+    ReceiverId: 33176
+    ShotId: 105026
+  22584:
+    ReceiverId: 27182
+    ShotId: 105028
+  22585:
+    ReceiverId: 28180
+    ShotId: 105028
+  22586:
+    ReceiverId: 29107
+    ShotId: 105028
+  22587:
+    ReceiverId: 30177
+    ShotId: 105028
+  22588:
+    ReceiverId: 31109
+    ShotId: 105028
+  22589:
+    ReceiverId: 32176
+    ShotId: 105028
+  22590:
+    ReceiverId: 33113
+    ShotId: 105028
+  22593:
+    ReceiverId: 28177
+    ShotId: 105030
+  22594:
+    ReceiverId: 29182
+    ShotId: 105030
+  22595:
+    ReceiverId: 30115
+    ShotId: 105030
+  22596:
+    ReceiverId: 31174
+    ShotId: 105030
+  22597:
+    ReceiverId: 32113
+    ShotId: 105030
+  22598:
+    ReceiverId: 33113
+    ShotId: 105030
+  22600:
+    ReceiverId: 27110
+    ShotId: 105032
+  22601:
+    ReceiverId: 28110
+    ShotId: 105032
+  22602:
+    ReceiverId: 29177
+    ShotId: 105032
+  22603:
+    ReceiverId: 30113
+    ShotId: 105032
+  22604:
+    ReceiverId: 31108
+    ShotId: 105032
+  22605:
+    ReceiverId: 32113
+    ShotId: 105032
+  22606:
+    ReceiverId: 33113
+    ShotId: 105032
+  22607:
+    ReceiverId: 26112
+    ShotId: 105034
+  22609:
+    ReceiverId: 28111
+    ShotId: 105034
+  22610:
+    ReceiverId: 29176
+    ShotId: 105034
+  22611:
+    ReceiverId: 30114
+    ShotId: 105034
+  22612:
+    ReceiverId: 31175
+    ShotId: 105034
+  22613:
+    ReceiverId: 32113
+    ShotId: 105034
+  22614:
+    ReceiverId: 33113
+    ShotId: 105034
+  22615:
+    ReceiverId: 26111
+    ShotId: 105036
+  22617:
+    ReceiverId: 28111
+    ShotId: 105036
+  22618:
+    ReceiverId: 29111
+    ShotId: 105036
+  22619:
+    ReceiverId: 30115
+    ShotId: 105036
+  22620:
+    ReceiverId: 31110
+    ShotId: 105036
+  22621:
+    ReceiverId: 32176
+    ShotId: 105036
+  22622:
+    ReceiverId: 33113
+    ShotId: 105036
+  22623:
+    ReceiverId: 26107
+    ShotId: 105038
+  22624:
+    ReceiverId: 27120
+    ShotId: 105038
+  22625:
+    ReceiverId: 28116
+    ShotId: 105038
+  22626:
+    ReceiverId: 29172
+    ShotId: 105038
+  22627:
+    ReceiverId: 30185
+    ShotId: 105038
+  22628:
+    ReceiverId: 31175
+    ShotId: 105038
+  22629:
+    ReceiverId: 32112
+    ShotId: 105038
+  22630:
+    ReceiverId: 33113
+    ShotId: 105038
+  22631:
+    ReceiverId: 26171
+    ShotId: 105040
+  22632:
+    ReceiverId: 27118
+    ShotId: 105040
+  22633:
+    ReceiverId: 28176
+    ShotId: 105040
+  22634:
+    ReceiverId: 29174
+    ShotId: 105040
+  22635:
+    ReceiverId: 30106
+    ShotId: 105040
+  22636:
+    ReceiverId: 31115
+    ShotId: 105040
+  22637:
+    ReceiverId: 32110
+    ShotId: 105040
+  22638:
+    ReceiverId: 33113
+    ShotId: 105040
+  22639:
+    ReceiverId: 26173
+    ShotId: 105042
+  22640:
+    ReceiverId: 27177
+    ShotId: 105042
+  22641:
+    ReceiverId: 28176
+    ShotId: 105042
+  22642:
+    ReceiverId: 29177
+    ShotId: 105042
+  22643:
+    ReceiverId: 30104
+    ShotId: 105042
+  22644:
+    ReceiverId: 31180
+    ShotId: 105042
+  22645:
+    ReceiverId: 32177
+    ShotId: 105042
+  22646:
+    ReceiverId: 33110
+    ShotId: 105042
+  22647:
+    ReceiverId: 26171
+    ShotId: 105044
+  22648:
+    ReceiverId: 27184
+    ShotId: 105044
+  22649:
+    ReceiverId: 28177
+    ShotId: 105044
+  22650:
+    ReceiverId: 29181
+    ShotId: 105044
+  22655:
+    ReceiverId: 26141
+    ShotId: 105046
+  22656:
+    ReceiverId: 27189
+    ShotId: 105046
+  22657:
+    ReceiverId: 28177
+    ShotId: 105046
+  22658:
+    ReceiverId: 29183
+    ShotId: 105046
+  22659:
+    ReceiverId: 30113
+    ShotId: 105046
+  22660:
+    ReceiverId: 31168
+    ShotId: 105046
+  22661:
+    ReceiverId: 32104
+    ShotId: 105046
+  22663:
+    ReceiverId: 26169
+    ShotId: 105048
+  22664:
+    ReceiverId: 27120
+    ShotId: 105048
+  22665:
+    ReceiverId: 28113
+    ShotId: 105048
+  22668:
+    ReceiverId: 31112
+    ShotId: 105048
+  22669:
+    ReceiverId: 32189
+    ShotId: 105048
+  22670:
+    ReceiverId: 33113
+    ShotId: 105048
+  22671:
+    ReceiverId: 26192
+    ShotId: 105050
+  22672:
+    ReceiverId: 27097
+    ShotId: 105050
+  22673:
+    ReceiverId: 28097
+    ShotId: 105050
+  22674:
+    ReceiverId: 29191
+    ShotId: 105050
+  22675:
+    ReceiverId: 30190
+    ShotId: 105050
+  22676:
+    ReceiverId: 31180
+    ShotId: 105050
+  22677:
+    ReceiverId: 32183
+    ShotId: 105050
+  22678:
+    ReceiverId: 33111
+    ShotId: 105050
+  22679:
+    ReceiverId: 26113
+    ShotId: 105052
+  22680:
+    ReceiverId: 27113
+    ShotId: 105052
+  22683:
+    ReceiverId: 30178
+    ShotId: 105052
+  22684:
+    ReceiverId: 31105
+    ShotId: 105052
+  22688:
+    ReceiverId: 27177
+    ShotId: 105054
+  22689:
+    ReceiverId: 28176
+    ShotId: 105054
+  22695:
+    ReceiverId: 26110
+    ShotId: 105056
+  22696:
+    ReceiverId: 27113
+    ShotId: 105056
+  22697:
+    ReceiverId: 28176
+    ShotId: 105056
+  22698:
+    ReceiverId: 29176
+    ShotId: 105056
+  22699:
+    ReceiverId: 30176
+    ShotId: 105056
+  22700:
+    ReceiverId: 31173
+    ShotId: 105056
+  22701:
+    ReceiverId: 32177
+    ShotId: 105056
+  22702:
+    ReceiverId: 33108
+    ShotId: 105056
+  22703:
+    ReceiverId: 26107
+    ShotId: 106002
+  22704:
+    ReceiverId: 27182
+    ShotId: 106002
+  22705:
+    ReceiverId: 28109
+    ShotId: 106002
+  22706:
+    ReceiverId: 29180
+    ShotId: 106002
+  22707:
+    ReceiverId: 30112
+    ShotId: 106002
+  22708:
+    ReceiverId: 31174
+    ShotId: 106002
+  22709:
+    ReceiverId: 32176
+    ShotId: 106002
+  22710:
+    ReceiverId: 33113
+    ShotId: 106002
+  22712:
+    ReceiverId: 27111
+    ShotId: 106004
+  22713:
+    ReceiverId: 28176
+    ShotId: 106004
+  22714:
+    ReceiverId: 29182
+    ShotId: 106004
+  22715:
+    ReceiverId: 30182
+    ShotId: 106004
+  22716:
+    ReceiverId: 31174
+    ShotId: 106004
+  22717:
+    ReceiverId: 32177
+    ShotId: 106004
+  22719:
+    ReceiverId: 26106
+    ShotId: 106006
+  22720:
+    ReceiverId: 27116
+    ShotId: 106006
+  22721:
+    ReceiverId: 28175
+    ShotId: 106006
+  22722:
+    ReceiverId: 29179
+    ShotId: 106006
+  22723:
+    ReceiverId: 30184
+    ShotId: 106006
+  22724:
+    ReceiverId: 31107
+    ShotId: 106006
+  22725:
+    ReceiverId: 32113
+    ShotId: 106006
+  22727:
+    ReceiverId: 26109
+    ShotId: 106008
+  22731:
+    ReceiverId: 30179
+    ShotId: 106008
+  22732:
+    ReceiverId: 31109
+    ShotId: 106008
+  22733:
+    ReceiverId: 32176
+    ShotId: 106008
+  22735:
+    ReceiverId: 26174
+    ShotId: 106010
+  22736:
+    ReceiverId: 27177
+    ShotId: 106010
+  22737:
+    ReceiverId: 28112
+    ShotId: 106010
+  22738:
+    ReceiverId: 29175
+    ShotId: 106010
+  22739:
+    ReceiverId: 30177
+    ShotId: 106010
+  22740:
+    ReceiverId: 31174
+    ShotId: 106010
+  22741:
+    ReceiverId: 32176
+    ShotId: 106010
+  22742:
+    ReceiverId: 33113
+    ShotId: 106010
+  22746:
+    ReceiverId: 29112
+    ShotId: 106012
+  22748:
+    ReceiverId: 31173
+    ShotId: 106012
+  22749:
+    ReceiverId: 32114
+    ShotId: 106012
+  22755:
+    ReceiverId: 30113
+    ShotId: 106014
+  22756:
+    ReceiverId: 31173
+    ShotId: 106014
+  22757:
+    ReceiverId: 32113
+    ShotId: 106014
+  22758:
+    ReceiverId: 33176
+    ShotId: 106014
+  22770:
+    ReceiverId: 29112
+    ShotId: 106018
+  22771:
+    ReceiverId: 30110
+    ShotId: 106018
+  22772:
+    ReceiverId: 31184
+    ShotId: 106018
+  22773:
+    ReceiverId: 32176
+    ShotId: 106018
+  22774:
+    ReceiverId: 33112
+    ShotId: 106018
+  22775:
+    ReceiverId: 26182
+    ShotId: 106020
+  22776:
+    ReceiverId: 27111
+    ShotId: 106020
+  22777:
+    ReceiverId: 28176
+    ShotId: 106020
+  22778:
+    ReceiverId: 29176
+    ShotId: 106020
+  22780:
+    ReceiverId: 31113
+    ShotId: 106020
+  22781:
+    ReceiverId: 32176
+    ShotId: 106020
+  22782:
+    ReceiverId: 33176
+    ShotId: 106020
+  22783:
+    ReceiverId: 26180
+    ShotId: 106022
+  22784:
+    ReceiverId: 27107
+    ShotId: 106022
+  22785:
+    ReceiverId: 28113
+    ShotId: 106022
+  22786:
+    ReceiverId: 29111
+    ShotId: 106022
+  22787:
+    ReceiverId: 30178
+    ShotId: 106022
+  22788:
+    ReceiverId: 31113
+    ShotId: 106022
+  22789:
+    ReceiverId: 32176
+    ShotId: 106022
+  22790:
+    ReceiverId: 33112
+    ShotId: 106022
+  22791:
+    ReceiverId: 26110
+    ShotId: 106024
+  22793:
+    ReceiverId: 28111
+    ShotId: 106024
+  22794:
+    ReceiverId: 29176
+    ShotId: 106024
+  22795:
+    ReceiverId: 30179
+    ShotId: 106024
+  22796:
+    ReceiverId: 31111
+    ShotId: 106024
+  22797:
+    ReceiverId: 32113
+    ShotId: 106024
+  22798:
+    ReceiverId: 33113
+    ShotId: 106024
+  22799:
+    ReceiverId: 26111
+    ShotId: 106026
+  22800:
+    ReceiverId: 27110
+    ShotId: 106026
+  22801:
+    ReceiverId: 28107
+    ShotId: 106026
+  22802:
+    ReceiverId: 29109
+    ShotId: 106026
+  22803:
+    ReceiverId: 30179
+    ShotId: 106026
+  22804:
+    ReceiverId: 31176
+    ShotId: 106026
+  22805:
+    ReceiverId: 32176
+    ShotId: 106026
+  22806:
+    ReceiverId: 33176
+    ShotId: 106026
+  22809:
+    ReceiverId: 28171
+    ShotId: 106032
+  22810:
+    ReceiverId: 29110
+    ShotId: 106032
+  22814:
+    ReceiverId: 33113
+    ShotId: 106032
+  22815:
+    ReceiverId: 26181
+    ShotId: 106034
+  22816:
+    ReceiverId: 27111
+    ShotId: 106034
+  22819:
+    ReceiverId: 30118
+    ShotId: 106034
+  22821:
+    ReceiverId: 32113
+    ShotId: 106034
+  22822:
+    ReceiverId: 33177
+    ShotId: 106034
+  22823:
+    ReceiverId: 26106
+    ShotId: 106036
+  22824:
+    ReceiverId: 27120
+    ShotId: 106036
+  22825:
+    ReceiverId: 28113
+    ShotId: 106036
+  22826:
+    ReceiverId: 29173
+    ShotId: 106036
+  22828:
+    ReceiverId: 31109
+    ShotId: 106036
+  22829:
+    ReceiverId: 32113
+    ShotId: 106036
+  22830:
+    ReceiverId: 33176
+    ShotId: 106036
+  22831:
+    ReceiverId: 26110
+    ShotId: 106038
+  22832:
+    ReceiverId: 27178
+    ShotId: 106038
+  22835:
+    ReceiverId: 30117
+    ShotId: 106038
+  22838:
+    ReceiverId: 33176
+    ShotId: 106038
+  22839:
+    ReceiverId: 26109
+    ShotId: 106040
+  22840:
+    ReceiverId: 27180
+    ShotId: 106040
+  22841:
+    ReceiverId: 28176
+    ShotId: 106040
+  22842:
+    ReceiverId: 29111
+    ShotId: 106040
+  22843:
+    ReceiverId: 30109
+    ShotId: 106040
+  22844:
+    ReceiverId: 31180
+    ShotId: 106040
+  22845:
+    ReceiverId: 32183
+    ShotId: 106040
+  22846:
+    ReceiverId: 33177
+    ShotId: 106040
+  22849:
+    ReceiverId: 28178
+    ShotId: 106042
+  22855:
+    ReceiverId: 26181
+    ShotId: 106044
+  22856:
+    ReceiverId: 27112
+    ShotId: 106044
+  22857:
+    ReceiverId: 28113
+    ShotId: 106044
+  22858:
+    ReceiverId: 29176
+    ShotId: 106044
+  22860:
+    ReceiverId: 31108
+    ShotId: 106044
+  22861:
+    ReceiverId: 32111
+    ShotId: 106044
+  22863:
+    ReceiverId: 26174
+    ShotId: 106046
+  22864:
+    ReceiverId: 27112
+    ShotId: 106046
+  22865:
+    ReceiverId: 28112
+    ShotId: 106046
+  22866:
+    ReceiverId: 29111
+    ShotId: 106046
+  22867:
+    ReceiverId: 30112
+    ShotId: 106046
+  22870:
+    ReceiverId: 33176
+    ShotId: 106046
+  22871:
+    ReceiverId: 26111
+    ShotId: 106048
+  22872:
+    ReceiverId: 27178
+    ShotId: 106048
+  22875:
+    ReceiverId: 30111
+    ShotId: 106048
+  22876:
+    ReceiverId: 31115
+    ShotId: 106048
+  22877:
+    ReceiverId: 32176
+    ShotId: 106048
+  22880:
+    ReceiverId: 27183
+    ShotId: 106050
+  22882:
+    ReceiverId: 29112
+    ShotId: 106050
+  22888:
+    ReceiverId: 27184
+    ShotId: 106052
+  22896:
+    ReceiverId: 27123
+    ShotId: 106054
+  22897:
+    ReceiverId: 28113
+    ShotId: 106054
+  22900:
+    ReceiverId: 31110
+    ShotId: 106054
+  22903:
+    ReceiverId: 26181
+    ShotId: 107002
+  22904:
+    ReceiverId: 27110
+    ShotId: 107002
+  22905:
+    ReceiverId: 28115
+    ShotId: 107002
+  22906:
+    ReceiverId: 29113
+    ShotId: 107002
+  22907:
+    ReceiverId: 30178
+    ShotId: 107002
+  22908:
+    ReceiverId: 31174
+    ShotId: 107002
+  22909:
+    ReceiverId: 32108
+    ShotId: 107002
+  22910:
+    ReceiverId: 33178
+    ShotId: 107002
+  22911:
+    ReceiverId: 26171
+    ShotId: 107004
+  22912:
+    ReceiverId: 27117
+    ShotId: 107004
+  22913:
+    ReceiverId: 28112
+    ShotId: 107004
+  22914:
+    ReceiverId: 29175
+    ShotId: 107004
+  22915:
+    ReceiverId: 30112
+    ShotId: 107004
+  22916:
+    ReceiverId: 31178
+    ShotId: 107004
+  22917:
+    ReceiverId: 32187
+    ShotId: 107004
+  22918:
+    ReceiverId: 33176
+    ShotId: 107004
+  22921:
+    ReceiverId: 28112
+    ShotId: 107006
+  22922:
+    ReceiverId: 29105
+    ShotId: 107006
+  22923:
+    ReceiverId: 30101
+    ShotId: 107006
+  22924:
+    ReceiverId: 31097
+    ShotId: 107006
+  22925:
+    ReceiverId: 32179
+    ShotId: 107006
+  22926:
+    ReceiverId: 33176
+    ShotId: 107006
+  22927:
+    ReceiverId: 26171
+    ShotId: 107008
+  22928:
+    ReceiverId: 27119
+    ShotId: 107008
+  22929:
+    ReceiverId: 28113
+    ShotId: 107008
+  22930:
+    ReceiverId: 29105
+    ShotId: 107008
+  22931:
+    ReceiverId: 30188
+    ShotId: 107008
+  22932:
+    ReceiverId: 31097
+    ShotId: 107008
+  22933:
+    ReceiverId: 32177
+    ShotId: 107008
+  22934:
+    ReceiverId: 33176
+    ShotId: 107008
+  22935:
+    ReceiverId: 26107
+    ShotId: 107010
+  22936:
+    ReceiverId: 27184
+    ShotId: 107010
+  22937:
+    ReceiverId: 28110
+    ShotId: 107010
+  22938:
+    ReceiverId: 29100
+    ShotId: 107010
+  22939:
+    ReceiverId: 30185
+    ShotId: 107010
+  22940:
+    ReceiverId: 31176
+    ShotId: 107010
+  22941:
+    ReceiverId: 32177
+    ShotId: 107010
+  22943:
+    ReceiverId: 26108
+    ShotId: 107012
+  22944:
+    ReceiverId: 27119
+    ShotId: 107012
+  22945:
+    ReceiverId: 28180
+    ShotId: 107012
+  22946:
+    ReceiverId: 29173
+    ShotId: 107012
+  22947:
+    ReceiverId: 30110
+    ShotId: 107012
+  22948:
+    ReceiverId: 31174
+    ShotId: 107012
+  22949:
+    ReceiverId: 32176
+    ShotId: 107012
+  22950:
+    ReceiverId: 33113
+    ShotId: 107012
+  22951:
+    ReceiverId: 26107
+    ShotId: 107014
+  22952:
+    ReceiverId: 27185
+    ShotId: 107014
+  22953:
+    ReceiverId: 28109
+    ShotId: 107014
+  22954:
+    ReceiverId: 29184
+    ShotId: 107014
+  22955:
+    ReceiverId: 30097
+    ShotId: 107014
+  22956:
+    ReceiverId: 31110
+    ShotId: 107014
+  22957:
+    ReceiverId: 32176
+    ShotId: 107014
+  22963:
+    ReceiverId: 30181
+    ShotId: 107016
+  22964:
+    ReceiverId: 31192
+    ShotId: 107016
+  22965:
+    ReceiverId: 32113
+    ShotId: 107016
+  22966:
+    ReceiverId: 33113
+    ShotId: 107016
+  22970:
+    ReceiverId: 29182
+    ShotId: 107018
+  22971:
+    ReceiverId: 30100
+    ShotId: 107018
+  22972:
+    ReceiverId: 31192
+    ShotId: 107018
+  22973:
+    ReceiverId: 32109
+    ShotId: 107018
+  22974:
+    ReceiverId: 33113
+    ShotId: 107018
+  22975:
+    ReceiverId: 26182
+    ShotId: 107022
+  22976:
+    ReceiverId: 27178
+    ShotId: 107022
+  22977:
+    ReceiverId: 28175
+    ShotId: 107022
+  22978:
+    ReceiverId: 29112
+    ShotId: 107022
+  22979:
+    ReceiverId: 30177
+    ShotId: 107022
+  22980:
+    ReceiverId: 31177
+    ShotId: 107022
+  22981:
+    ReceiverId: 32113
+    ShotId: 107022
+  22982:
+    ReceiverId: 33113
+    ShotId: 107022
+  22983:
+    ReceiverId: 26108
+    ShotId: 107024
+  22984:
+    ReceiverId: 27110
+    ShotId: 107024
+  22985:
+    ReceiverId: 28110
+    ShotId: 107024
+  22986:
+    ReceiverId: 29176
+    ShotId: 107024
+  22987:
+    ReceiverId: 30113
+    ShotId: 107024
+  22988:
+    ReceiverId: 31175
+    ShotId: 107024
+  22989:
+    ReceiverId: 32176
+    ShotId: 107024
+  22990:
+    ReceiverId: 33113
+    ShotId: 107024
+  22991:
+    ReceiverId: 26109
+    ShotId: 107026
+  22992:
+    ReceiverId: 27177
+    ShotId: 107026
+  22993:
+    ReceiverId: 28110
+    ShotId: 107026
+  22994:
+    ReceiverId: 29176
+    ShotId: 107026
+  22995:
+    ReceiverId: 30179
+    ShotId: 107026
+  22996:
+    ReceiverId: 31112
+    ShotId: 107026
+  22997:
+    ReceiverId: 32113
+    ShotId: 107026
+  22998:
+    ReceiverId: 33176
+    ShotId: 107026
+  22999:
+    ReceiverId: 26181
+    ShotId: 107028
+  23000:
+    ReceiverId: 27178
+    ShotId: 107028
+  23001:
+    ReceiverId: 28173
+    ShotId: 107028
+  23002:
+    ReceiverId: 29178
+    ShotId: 107028
+  23003:
+    ReceiverId: 30178
+    ShotId: 107028
+  23004:
+    ReceiverId: 31112
+    ShotId: 107028
+  23005:
+    ReceiverId: 32176
+    ShotId: 107028
+  23006:
+    ReceiverId: 33177
+    ShotId: 107028
+  23007:
+    ReceiverId: 26181
+    ShotId: 107032
+  23008:
+    ReceiverId: 27115
+    ShotId: 107032
+  23009:
+    ReceiverId: 28116
+    ShotId: 107032
+  23010:
+    ReceiverId: 29111
+    ShotId: 107032
+  23011:
+    ReceiverId: 30174
+    ShotId: 107032
+  23012:
+    ReceiverId: 31116
+    ShotId: 107032
+  23013:
+    ReceiverId: 32177
+    ShotId: 107032
+  23015:
+    ReceiverId: 26106
+    ShotId: 107034
+  23016:
+    ReceiverId: 27186
+    ShotId: 107034
+  23017:
+    ReceiverId: 28176
+    ShotId: 107034
+  23018:
+    ReceiverId: 29185
+    ShotId: 107034
+  23019:
+    ReceiverId: 30181
+    ShotId: 107034
+  23020:
+    ReceiverId: 31175
+    ShotId: 107034
+  23021:
+    ReceiverId: 32178
+    ShotId: 107034
+  23022:
+    ReceiverId: 33113
+    ShotId: 107034
+  23023:
+    ReceiverId: 26112
+    ShotId: 107036
+  23026:
+    ReceiverId: 29183
+    ShotId: 107036
+  23028:
+    ReceiverId: 31116
+    ShotId: 107036
+  23029:
+    ReceiverId: 32112
+    ShotId: 107036
+  23030:
+    ReceiverId: 33176
+    ShotId: 107036
+  23031:
+    ReceiverId: 26107
+    ShotId: 107038
+  23034:
+    ReceiverId: 29111
+    ShotId: 107038
+  23035:
+    ReceiverId: 30184
+    ShotId: 107038
+  23037:
+    ReceiverId: 32113
+    ShotId: 107038
+  23038:
+    ReceiverId: 33177
+    ShotId: 107038
+  23039:
+    ReceiverId: 26107
+    ShotId: 107040
+  23040:
+    ReceiverId: 27178
+    ShotId: 107040
+  23041:
+    ReceiverId: 28109
+    ShotId: 107040
+  23042:
+    ReceiverId: 29176
+    ShotId: 107040
+  23045:
+    ReceiverId: 32176
+    ShotId: 107040
+  23046:
+    ReceiverId: 33113
+    ShotId: 107040
+  23047:
+    ReceiverId: 26170
+    ShotId: 107042
+  23048:
+    ReceiverId: 27186
+    ShotId: 107042
+  23049:
+    ReceiverId: 28176
+    ShotId: 107042
+  23051:
+    ReceiverId: 30173
+    ShotId: 107042
+  23052:
+    ReceiverId: 31181
+    ShotId: 107042
+  23053:
+    ReceiverId: 32114
+    ShotId: 107042
+  23054:
+    ReceiverId: 33176
+    ShotId: 107042
+  23055:
+    ReceiverId: 26100
+    ShotId: 107044
+  23056:
+    ReceiverId: 27192
+    ShotId: 107044
+  23057:
+    ReceiverId: 28173
+    ShotId: 107044
+  23058:
+    ReceiverId: 29178
+    ShotId: 107044
+  23061:
+    ReceiverId: 32183
+    ShotId: 107044
+  23063:
+    ReceiverId: 26106
+    ShotId: 107046
+  23064:
+    ReceiverId: 27120
+    ShotId: 107046
+  23071:
+    ReceiverId: 26110
+    ShotId: 107048
+  23072:
+    ReceiverId: 27177
+    ShotId: 107048
+  23073:
+    ReceiverId: 28112
+    ShotId: 107048
+  23074:
+    ReceiverId: 29185
+    ShotId: 107048
+  23075:
+    ReceiverId: 30112
+    ShotId: 107048
+  23076:
+    ReceiverId: 31172
+    ShotId: 107048
+  23077:
+    ReceiverId: 32108
+    ShotId: 107048
+  23078:
+    ReceiverId: 33118
+    ShotId: 107048
+  23079:
+    ReceiverId: 26110
+    ShotId: 107050
+  23080:
+    ReceiverId: 27113
+    ShotId: 107050
+  23081:
+    ReceiverId: 28113
+    ShotId: 107050
+  23082:
+    ReceiverId: 29113
+    ShotId: 107050
+  23084:
+    ReceiverId: 31176
+    ShotId: 107050
+  23088:
+    ReceiverId: 27177
+    ShotId: 107052
+  23089:
+    ReceiverId: 28112
+    ShotId: 107052
+  23090:
+    ReceiverId: 29179
+    ShotId: 107052
+  23092:
+    ReceiverId: 31113
+    ShotId: 107052
+  23095:
+    ReceiverId: 26180
+    ShotId: 107054
+  23096:
+    ReceiverId: 27176
+    ShotId: 107054
+  23098:
+    ReceiverId: 29113
+    ShotId: 107054
+  23101:
+    ReceiverId: 32113
+    ShotId: 107054
+  23103:
+    ReceiverId: 26104
+    ShotId: 107056
+  23104:
+    ReceiverId: 27107
+    ShotId: 107056
+  23105:
+    ReceiverId: 28181
+    ShotId: 107056
+  23106:
+    ReceiverId: 29113
+    ShotId: 107056
+  23107:
+    ReceiverId: 30113
+    ShotId: 107056
+  23108:
+    ReceiverId: 31117
+    ShotId: 107056
+  23109:
+    ReceiverId: 32179
+    ShotId: 107056
+  23110:
+    ReceiverId: 33178
+    ShotId: 107056
+Sudbury:
+  1:
+    ReceiverId: 16101
+    ShotId: 2
+  2:
+    ReceiverId: 17100
+    ShotId: 2
+  3:
+    ReceiverId: 18107
+    ShotId: 2
+  4:
+    ReceiverId: 19101
+    ShotId: 2
+  5:
+    ReceiverId: 20097
+    ShotId: 2
+  8:
+    ReceiverId: 16101
+    ShotId: 3
+  9:
+    ReceiverId: 17100
+    ShotId: 3
+  10:
+    ReceiverId: 18107
+    ShotId: 3
+  11:
+    ReceiverId: 19101
+    ShotId: 3
+  12:
+    ReceiverId: 20097
+    ShotId: 3
+  14:
+    ReceiverId: 15103
+    ShotId: 4
+  15:
+    ReceiverId: 16101
+    ShotId: 4
+  16:
+    ReceiverId: 17100
+    ShotId: 4
+  17:
+    ReceiverId: 18107
+    ShotId: 4
+  18:
+    ReceiverId: 19101
+    ShotId: 4
+  28:
+    ReceiverId: 15103
+    ShotId: 7
+  29:
+    ReceiverId: 16101
+    ShotId: 7
+  30:
+    ReceiverId: 17100
+    ShotId: 7
+  31:
+    ReceiverId: 18107
+    ShotId: 7
+  32:
+    ReceiverId: 19101
+    ShotId: 7
+  35:
+    ReceiverId: 15103
+    ShotId: 8
+  36:
+    ReceiverId: 16101
+    ShotId: 8
+  37:
+    ReceiverId: 17100
+    ShotId: 8
+  38:
+    ReceiverId: 18107
+    ShotId: 8
+  42:
+    ReceiverId: 15103
+    ShotId: 9
+  43:
+    ReceiverId: 16101
+    ShotId: 9
+  44:
+    ReceiverId: 17100
+    ShotId: 9
+  45:
+    ReceiverId: 18107
+    ShotId: 9
+  49:
+    ReceiverId: 15103
+    ShotId: 10
+  50:
+    ReceiverId: 16101
+    ShotId: 10
+  51:
+    ReceiverId: 17100
+    ShotId: 10
+  52:
+    ReceiverId: 18107
+    ShotId: 10
+  56:
+    ReceiverId: 15103
+    ShotId: 11
+  57:
+    ReceiverId: 16101
+    ShotId: 11
+  58:
+    ReceiverId: 17100
+    ShotId: 11
+  59:
+    ReceiverId: 18107
+    ShotId: 11
+  63:
+    ReceiverId: 15103
+    ShotId: 12
+  64:
+    ReceiverId: 16101
+    ShotId: 12
+  65:
+    ReceiverId: 17100
+    ShotId: 12
+  66:
+    ReceiverId: 18107
+    ShotId: 12
+  70:
+    ReceiverId: 15103
+    ShotId: 13
+  71:
+    ReceiverId: 16101
+    ShotId: 13
+  72:
+    ReceiverId: 17100
+    ShotId: 13
+  73:
+    ReceiverId: 18107
+    ShotId: 13
+  77:
+    ReceiverId: 15103
+    ShotId: 14
+  78:
+    ReceiverId: 16101
+    ShotId: 14
+  84:
+    ReceiverId: 15103
+    ShotId: 15
+  85:
+    ReceiverId: 16101
+    ShotId: 15
+  86:
+    ReceiverId: 17100
+    ShotId: 15
+  87:
+    ReceiverId: 18107
+    ShotId: 15
+  91:
+    ReceiverId: 15103
+    ShotId: 16
+  92:
+    ReceiverId: 16101
+    ShotId: 16
+  93:
+    ReceiverId: 17100
+    ShotId: 16
+  94:
+    ReceiverId: 18107
+    ShotId: 16
+  98:
+    ReceiverId: 15103
+    ShotId: 17
+  99:
+    ReceiverId: 16101
+    ShotId: 17
+  100:
+    ReceiverId: 17100
+    ShotId: 17
+  101:
+    ReceiverId: 18107
+    ShotId: 17
+  105:
+    ReceiverId: 15103
+    ShotId: 18
+  106:
+    ReceiverId: 16101
+    ShotId: 18
+  107:
+    ReceiverId: 17100
+    ShotId: 18
+  108:
+    ReceiverId: 18107
+    ShotId: 18
+  112:
+    ReceiverId: 15103
+    ShotId: 19
+  113:
+    ReceiverId: 16101
+    ShotId: 19
+  114:
+    ReceiverId: 17100
+    ShotId: 19
+  115:
+    ReceiverId: 18107
+    ShotId: 19
+  119:
+    ReceiverId: 15103
+    ShotId: 20
+  120:
+    ReceiverId: 16101
+    ShotId: 20
+  121:
+    ReceiverId: 17100
+    ShotId: 20
+  122:
+    ReceiverId: 18107
+    ShotId: 20
+  126:
+    ReceiverId: 15103
+    ShotId: 21
+  127:
+    ReceiverId: 16101
+    ShotId: 21
+  128:
+    ReceiverId: 17100
+    ShotId: 21
+  129:
+    ReceiverId: 18107
+    ShotId: 21
+  133:
+    ReceiverId: 15103
+    ShotId: 22
+  134:
+    ReceiverId: 16101
+    ShotId: 22
+  135:
+    ReceiverId: 17100
+    ShotId: 22
+  140:
+    ReceiverId: 15103
+    ShotId: 23
+  141:
+    ReceiverId: 16101
+    ShotId: 23
+  142:
+    ReceiverId: 17100
+    ShotId: 23
+  147:
+    ReceiverId: 15103
+    ShotId: 24
+  148:
+    ReceiverId: 16101
+    ShotId: 24
+  149:
+    ReceiverId: 17100
+    ShotId: 24
+  150:
+    ReceiverId: 18107
+    ShotId: 24
+  154:
+    ReceiverId: 15103
+    ShotId: 25
+  155:
+    ReceiverId: 16101
+    ShotId: 25
+  156:
+    ReceiverId: 17100
+    ShotId: 25
+  157:
+    ReceiverId: 18107
+    ShotId: 25
+  161:
+    ReceiverId: 15103
+    ShotId: 26
+  162:
+    ReceiverId: 16101
+    ShotId: 26
+  163:
+    ReceiverId: 17100
+    ShotId: 26
+  164:
+    ReceiverId: 18107
+    ShotId: 26
+  168:
+    ReceiverId: 15103
+    ShotId: 27
+  169:
+    ReceiverId: 16101
+    ShotId: 27
+  170:
+    ReceiverId: 17100
+    ShotId: 27
+  171:
+    ReceiverId: 18107
+    ShotId: 27
+  175:
+    ReceiverId: 15103
+    ShotId: 28
+  176:
+    ReceiverId: 16101
+    ShotId: 28
+  177:
+    ReceiverId: 17100
+    ShotId: 28
+  178:
+    ReceiverId: 18107
+    ShotId: 28
+  182:
+    ReceiverId: 15103
+    ShotId: 29
+  183:
+    ReceiverId: 16101
+    ShotId: 29
+  184:
+    ReceiverId: 17100
+    ShotId: 29
+  185:
+    ReceiverId: 18107
+    ShotId: 29
+  189:
+    ReceiverId: 15103
+    ShotId: 30
+  190:
+    ReceiverId: 16101
+    ShotId: 30
+  191:
+    ReceiverId: 17100
+    ShotId: 30
+  192:
+    ReceiverId: 18107
+    ShotId: 30
+  210:
+    ReceiverId: 15103
+    ShotId: 34
+  211:
+    ReceiverId: 16101
+    ShotId: 34
+  212:
+    ReceiverId: 17100
+    ShotId: 34
+  217:
+    ReceiverId: 15103
+    ShotId: 35
+  218:
+    ReceiverId: 16101
+    ShotId: 35
+  219:
+    ReceiverId: 17100
+    ShotId: 35
+  224:
+    ReceiverId: 15103
+    ShotId: 36
+  225:
+    ReceiverId: 16101
+    ShotId: 36
+  226:
+    ReceiverId: 17100
+    ShotId: 36
+  231:
+    ReceiverId: 15103
+    ShotId: 37
+  232:
+    ReceiverId: 16101
+    ShotId: 37
+  233:
+    ReceiverId: 17100
+    ShotId: 37
+  234:
+    ReceiverId: 18107
+    ShotId: 37
+  238:
+    ReceiverId: 15103
+    ShotId: 38
+  239:
+    ReceiverId: 16101
+    ShotId: 38
+  240:
+    ReceiverId: 17100
+    ShotId: 38
+  241:
+    ReceiverId: 18107
+    ShotId: 38
+  245:
+    ReceiverId: 15103
+    ShotId: 39
+  246:
+    ReceiverId: 16101
+    ShotId: 39
+  247:
+    ReceiverId: 17100
+    ShotId: 39
+  252:
+    ReceiverId: 15103
+    ShotId: 40
+  253:
+    ReceiverId: 16101
+    ShotId: 40
+  254:
+    ReceiverId: 17100
+    ShotId: 40
+  255:
+    ReceiverId: 18107
+    ShotId: 40
+  259:
+    ReceiverId: 15103
+    ShotId: 41
+  260:
+    ReceiverId: 16101
+    ShotId: 41
+  261:
+    ReceiverId: 17100
+    ShotId: 41
+  262:
+    ReceiverId: 18107
+    ShotId: 41
+  315:
+    ReceiverId: 15098
+    ShotId: 49
+  316:
+    ReceiverId: 16101
+    ShotId: 49
+  317:
+    ReceiverId: 17100
+    ShotId: 49
+  318:
+    ReceiverId: 18107
+    ShotId: 49
+  319:
+    ReceiverId: 19101
+    ShotId: 49
+  322:
+    ReceiverId: 15098
+    ShotId: 50
+  323:
+    ReceiverId: 16101
+    ShotId: 50
+  324:
+    ReceiverId: 17100
+    ShotId: 50
+  325:
+    ReceiverId: 18107
+    ShotId: 50
+  326:
+    ReceiverId: 19101
+    ShotId: 50
+  329:
+    ReceiverId: 15098
+    ShotId: 51
+  330:
+    ReceiverId: 16298
+    ShotId: 51
+  331:
+    ReceiverId: 17100
+    ShotId: 51
+  332:
+    ReceiverId: 18107
+    ShotId: 51
+  1075:
+    ReceiverId: 19101
+    ShotId: 153
+  1076:
+    ReceiverId: 20097
+    ShotId: 153
+  1077:
+    ReceiverId: 21101
+    ShotId: 153
+  1078:
+    ReceiverId: 22101
+    ShotId: 153
+  1083:
+    ReceiverId: 19101
+    ShotId: 154
+  1084:
+    ReceiverId: 20097
+    ShotId: 154
+  1085:
+    ReceiverId: 21101
+    ShotId: 154
+  1086:
+    ReceiverId: 22101
+    ShotId: 154
+  1091:
+    ReceiverId: 19101
+    ShotId: 155
+  1092:
+    ReceiverId: 20282
+    ShotId: 155
+  1093:
+    ReceiverId: 21286
+    ShotId: 155
+  1094:
+    ReceiverId: 22101
+    ShotId: 155
+  1099:
+    ReceiverId: 19101
+    ShotId: 156
+  1100:
+    ReceiverId: 20097
+    ShotId: 156
+  1101:
+    ReceiverId: 21101
+    ShotId: 156
+  1102:
+    ReceiverId: 22281
+    ShotId: 156
+  1106:
+    ReceiverId: 18107
+    ShotId: 157
+  1107:
+    ReceiverId: 19101
+    ShotId: 157
+  1108:
+    ReceiverId: 20282
+    ShotId: 157
+  1109:
+    ReceiverId: 21101
+    ShotId: 157
+  1110:
+    ReceiverId: 22102
+    ShotId: 157
+  1113:
+    ReceiverId: 17100
+    ShotId: 158
+  1114:
+    ReceiverId: 18107
+    ShotId: 158
+  1115:
+    ReceiverId: 19101
+    ShotId: 158
+  1116:
+    ReceiverId: 20097
+    ShotId: 158
+  1117:
+    ReceiverId: 21101
+    ShotId: 158
+  1118:
+    ReceiverId: 22101
+    ShotId: 158
+  1232:
+    ReceiverId: 24149
+    ShotId: 175
+  1709:
+    ReceiverId: 20281
+    ShotId: 234
+  2029:
+    ReceiverId: 16101
+    ShotId: 265
+  2236:
+    ReceiverId: 19101
+    ShotId: 283
+  2237:
+    ReceiverId: 20097
+    ShotId: 283
+  2238:
+    ReceiverId: 21101
+    ShotId: 283
+  2239:
+    ReceiverId: 22101
+    ShotId: 283
+  2240:
+    ReceiverId: 23101
+    ShotId: 283
+  2241:
+    ReceiverId: 24149
+    ShotId: 283
+  2242:
+    ReceiverId: 25166
+    ShotId: 283
+  2248:
+    ReceiverId: 19274
+    ShotId: 284
+  2249:
+    ReceiverId: 20097
+    ShotId: 284
+  2250:
+    ReceiverId: 21101
+    ShotId: 284
+  2251:
+    ReceiverId: 22101
+    ShotId: 284
+  2252:
+    ReceiverId: 23101
+    ShotId: 284
+  2253:
+    ReceiverId: 24149
+    ShotId: 284
+  2254:
+    ReceiverId: 25166
+    ShotId: 284
+  2260:
+    ReceiverId: 19101
+    ShotId: 285
+  2261:
+    ReceiverId: 20097
+    ShotId: 285
+  2262:
+    ReceiverId: 21101
+    ShotId: 285
+  2263:
+    ReceiverId: 22101
+    ShotId: 285
+  2264:
+    ReceiverId: 23101
+    ShotId: 285
+  2265:
+    ReceiverId: 24149
+    ShotId: 285
+  2565:
+    ReceiverId: 24149
+    ShotId: 312
+  2651:
+    ReceiverId: 26178
+    ShotId: 320
+  2675:
+    ReceiverId: 26178
+    ShotId: 322
+  2858:
+    ReceiverId: 17100
+    ShotId: 342
+  2865:
+    ReceiverId: 24149
+    ShotId: 342
+  2877:
+    ReceiverId: 24149
+    ShotId: 343
+  2901:
+    ReceiverId: 24149
+    ShotId: 345
+  2964:
+    ReceiverId: 15098
+    ShotId: 352
+  2965:
+    ReceiverId: 16101
+    ShotId: 352
+  2966:
+    ReceiverId: 17100
+    ShotId: 352
+  2967:
+    ReceiverId: 18107
+    ShotId: 352
+  2968:
+    ReceiverId: 19101
+    ShotId: 352
+  2969:
+    ReceiverId: 20097
+    ShotId: 352
+  2997:
+    ReceiverId: 24262
+    ShotId: 354
+  3000:
+    ReceiverId: 15098
+    ShotId: 355
+  3001:
+    ReceiverId: 16101
+    ShotId: 355
+  3002:
+    ReceiverId: 17100
+    ShotId: 355
+  3003:
+    ReceiverId: 18107
+    ShotId: 355
+  3004:
+    ReceiverId: 19275
+    ShotId: 355
+  3005:
+    ReceiverId: 20097
+    ShotId: 355
+  3060:
+    ReceiverId: 15098
+    ShotId: 361
+  3061:
+    ReceiverId: 16101
+    ShotId: 361
+  3062:
+    ReceiverId: 17291
+    ShotId: 361
+  3063:
+    ReceiverId: 18107
+    ShotId: 361
+  3064:
+    ReceiverId: 19101
+    ShotId: 361
+  3065:
+    ReceiverId: 20097
+    ShotId: 361
+  3094:
+    ReceiverId: 25166
+    ShotId: 363
+  3096:
+    ReceiverId: 15098
+    ShotId: 364
+  3097:
+    ReceiverId: 16102
+    ShotId: 364
+  3098:
+    ReceiverId: 17100
+    ShotId: 364
+  3099:
+    ReceiverId: 18280
+    ShotId: 364
+  3100:
+    ReceiverId: 19101
+    ShotId: 364
+  3101:
+    ReceiverId: 20097
+    ShotId: 364
+  3183:
+    ReceiverId: 18107
+    ShotId: 371
+  3267:
+    ReceiverId: 18107
+    ShotId: 378
+  3273:
+    ReceiverId: 24262
+    ShotId: 378
+  3274:
+    ReceiverId: 25166
+    ShotId: 378
+  3370:
+    ReceiverId: 25166
+    ShotId: 388
+  3394:
+    ReceiverId: 25260
+    ShotId: 390
+  3734:
+    ReceiverId: 25166
+    ShotId: 433
+  3841:
+    ReceiverId: 24262
+    ShotId: 443
+  3980:
+    ReceiverId: 19275
+    ShotId: 455
+  4093:
+    ReceiverId: 24149
+    ShotId: 464
+  4412:
+    ReceiverId: 19101
+    ShotId: 493
+  4413:
+    ReceiverId: 20097
+    ShotId: 493
+  4414:
+    ReceiverId: 21101
+    ShotId: 493
+  4415:
+    ReceiverId: 22101
+    ShotId: 493
+  4416:
+    ReceiverId: 23101
+    ShotId: 493
+  4670:
+    ReceiverId: 25166
+    ShotId: 516
+  5103:
+    ReceiverId: 26178
+    ShotId: 554
+  5196:
+    ReceiverId: 23101
+    ShotId: 563
+  5199:
+    ReceiverId: 26178
+    ShotId: 563
+  5201:
+    ReceiverId: 16101
+    ShotId: 564
+  5235:
+    ReceiverId: 26178
+    ShotId: 566
+  5281:
+    ReceiverId: 24149
+    ShotId: 570
+  5307:
+    ReceiverId: 26264
+    ShotId: 572
+  5330:
+    ReceiverId: 25261
+    ShotId: 574
+  5331:
+    ReceiverId: 26178
+    ShotId: 574
+  5401:
+    ReceiverId: 24262
+    ShotId: 580
+  5529:
+    ReceiverId: 20097
+    ShotId: 591
+  5553:
+    ReceiverId: 20282
+    ShotId: 593
+  7501:
+    ReceiverId: 24262
+    ShotId: 759
+  7611:
+    ReceiverId: 26183
+    ShotId: 768
+  7680:
+    ReceiverId: 23142
+    ShotId: 774
+  7681:
+    ReceiverId: 24160
+    ShotId: 774
+  7692:
+    ReceiverId: 23142
+    ShotId: 775
+  7693:
+    ReceiverId: 24160
+    ShotId: 775
+  7694:
+    ReceiverId: 25171
+    ShotId: 775
+  7695:
+    ReceiverId: 26183
+    ShotId: 775
+  7704:
+    ReceiverId: 23142
+    ShotId: 776
+  7705:
+    ReceiverId: 24160
+    ShotId: 776
+  7706:
+    ReceiverId: 25171
+    ShotId: 776
+  7707:
+    ReceiverId: 26183
+    ShotId: 776
+  7717:
+    ReceiverId: 24160
+    ShotId: 777
+  7718:
+    ReceiverId: 25171
+    ShotId: 777
+  7719:
+    ReceiverId: 26183
+    ShotId: 777
+  7730:
+    ReceiverId: 25171
+    ShotId: 778
+  7838:
+    ReceiverId: 25171
+    ShotId: 790
+  7936:
+    ReceiverId: 15098
+    ShotId: 811
+  8045:
+    ReceiverId: 16102
+    ShotId: 821
+  8063:
+    ReceiverId: 22136
+    ShotId: 822
+  8068:
+    ReceiverId: 15098
+    ShotId: 823
+  8070:
+    ReceiverId: 17105
+    ShotId: 823
+  8071:
+    ReceiverId: 18116
+    ShotId: 823
+  8072:
+    ReceiverId: 19130
+    ShotId: 823
+  8352:
+    ReceiverId: 23142
+    ShotId: 850
+  8354:
+    ReceiverId: 25171
+    ShotId: 850
+  8455:
+    ReceiverId: 18280
+    ShotId: 859
+  8635:
+    ReceiverId: 18280
+    ShotId: 875
+  8636:
+    ReceiverId: 19130
+    ShotId: 875
+  8637:
+    ReceiverId: 20130
+    ShotId: 875
+  8638:
+    ReceiverId: 21148
+    ShotId: 875
+  8639:
+    ReceiverId: 22136
+    ShotId: 875
+  8640:
+    ReceiverId: 23142
+    ShotId: 875
+  8641:
+    ReceiverId: 24160
+    ShotId: 875
+  8659:
+    ReceiverId: 18116
+    ShotId: 877
+  8660:
+    ReceiverId: 19130
+    ShotId: 877
+  8661:
+    ReceiverId: 20130
+    ShotId: 877
+  8662:
+    ReceiverId: 21148
+    ShotId: 877
+  8663:
+    ReceiverId: 22136
+    ShotId: 877
+  8664:
+    ReceiverId: 23142
+    ShotId: 877
+  8665:
+    ReceiverId: 24160
+    ShotId: 877
+  8666:
+    ReceiverId: 25261
+    ShotId: 877
+  8695:
+    ReceiverId: 18280
+    ShotId: 880
+  8696:
+    ReceiverId: 19130
+    ShotId: 880
+  8697:
+    ReceiverId: 20130
+    ShotId: 880
+  8698:
+    ReceiverId: 21288
+    ShotId: 880
+  8699:
+    ReceiverId: 22281
+    ShotId: 880
+  8700:
+    ReceiverId: 23142
+    ShotId: 880
+  8701:
+    ReceiverId: 24262
+    ShotId: 880
+  8702:
+    ReceiverId: 25171
+    ShotId: 880
+  8724:
+    ReceiverId: 23142
+    ShotId: 882
+  8810:
+    ReceiverId: 25260
+    ShotId: 889
+  8915:
+    ReceiverId: 22136
+    ShotId: 898
+  8916:
+    ReceiverId: 23142
+    ShotId: 898
+  8917:
+    ReceiverId: 24160
+    ShotId: 898
+  8918:
+    ReceiverId: 25171
+    ShotId: 898
+  8919:
+    ReceiverId: 26183
+    ShotId: 898
+  9024:
+    ReceiverId: 23142
+    ShotId: 907
+  9091:
+    ReceiverId: 18280
+    ShotId: 913
+  9092:
+    ReceiverId: 19275
+    ShotId: 913
+  9093:
+    ReceiverId: 20130
+    ShotId: 913
+  9094:
+    ReceiverId: 21148
+    ShotId: 913
+  9095:
+    ReceiverId: 22136
+    ShotId: 913
+  9096:
+    ReceiverId: 23142
+    ShotId: 913
+  9097:
+    ReceiverId: 24160
+    ShotId: 913
+  9098:
+    ReceiverId: 25171
+    ShotId: 913
+  9132:
+    ReceiverId: 23142
+    ShotId: 916
+  9133:
+    ReceiverId: 24160
+    ShotId: 916
+  9134:
+    ReceiverId: 25171
+    ShotId: 916
+  9135:
+    ReceiverId: 26183
+    ShotId: 916
+  9140:
+    ReceiverId: 19130
+    ShotId: 917
+  9141:
+    ReceiverId: 20130
+    ShotId: 917
+  9143:
+    ReceiverId: 22136
+    ShotId: 917
+  9144:
+    ReceiverId: 23142
+    ShotId: 917
+  9145:
+    ReceiverId: 24160
+    ShotId: 917
+  9146:
+    ReceiverId: 25171
+    ShotId: 917
+  9169:
+    ReceiverId: 24160
+    ShotId: 919
+  9171:
+    ReceiverId: 26183
+    ShotId: 919
+  9176:
+    ReceiverId: 19130
+    ShotId: 920
+  9177:
+    ReceiverId: 20130
+    ShotId: 920
+  9179:
+    ReceiverId: 22281
+    ShotId: 920
+  9180:
+    ReceiverId: 23142
+    ShotId: 920
+  9181:
+    ReceiverId: 24262
+    ShotId: 920
+  9182:
+    ReceiverId: 25171
+    ShotId: 920
+  9212:
+    ReceiverId: 19130
+    ShotId: 923
+  9213:
+    ReceiverId: 20130
+    ShotId: 923
+  9214:
+    ReceiverId: 21148
+    ShotId: 923
+  9215:
+    ReceiverId: 22136
+    ShotId: 923
+  9216:
+    ReceiverId: 23142
+    ShotId: 923
+  9217:
+    ReceiverId: 24262
+    ShotId: 923
+  9218:
+    ReceiverId: 25171
+    ShotId: 923
+  9219:
+    ReceiverId: 26183
+    ShotId: 923
+  9376:
+    ReceiverId: 15098
+    ShotId: 947
+  9378:
+    ReceiverId: 17105
+    ShotId: 947
+  9669:
+    ReceiverId: 20130
+    ShotId: 972
+  9670:
+    ReceiverId: 21148
+    ShotId: 972
+  9675:
+    ReceiverId: 26183
+    ShotId: 972
+  9696:
+    ReceiverId: 23282
+    ShotId: 974
+  9697:
+    ReceiverId: 24160
+    ShotId: 974
+  9708:
+    ReceiverId: 23142
+    ShotId: 975
+  9808:
+    ReceiverId: 15098
+    ShotId: 984
+  10087:
+    ReceiverId: 26183
+    ShotId: 1011
+  10164:
+    ReceiverId: 19275
+    ShotId: 1018
+  10255:
+    ReceiverId: 26264
+    ShotId: 1025
+  10273:
+    ReceiverId: 20280
+    ShotId: 1027
+  11173:
+    ReceiverId: 20282
+    ShotId: 1104
+  11174:
+    ReceiverId: 21288
+    ShotId: 1104
+  11175:
+    ReceiverId: 22136
+    ShotId: 1104
+  11176:
+    ReceiverId: 23143
+    ShotId: 1104
+  11177:
+    ReceiverId: 24262
+    ShotId: 1104
+  11178:
+    ReceiverId: 25171
+    ShotId: 1104
+  11179:
+    ReceiverId: 26264
+    ShotId: 1104
+  11184:
+    ReceiverId: 19130
+    ShotId: 1105
+  11185:
+    ReceiverId: 20130
+    ShotId: 1105
+  11186:
+    ReceiverId: 21148
+    ShotId: 1105
+  11187:
+    ReceiverId: 22136
+    ShotId: 1105
+  11188:
+    ReceiverId: 23143
+    ShotId: 1105
+  11189:
+    ReceiverId: 24160
+    ShotId: 1105
+  11190:
+    ReceiverId: 25171
+    ShotId: 1105
+  11191:
+    ReceiverId: 26264
+    ShotId: 1105
+  11196:
+    ReceiverId: 19130
+    ShotId: 1106
+  11197:
+    ReceiverId: 20130
+    ShotId: 1106
+  11198:
+    ReceiverId: 21288
+    ShotId: 1106
+  11199:
+    ReceiverId: 22282
+    ShotId: 1106
+  11200:
+    ReceiverId: 23142
+    ShotId: 1106
+  11201:
+    ReceiverId: 24160
+    ShotId: 1106
+  11202:
+    ReceiverId: 25171
+    ShotId: 1106
+  11203:
+    ReceiverId: 26183
+    ShotId: 1106
+  11208:
+    ReceiverId: 19130
+    ShotId: 1107
+  11209:
+    ReceiverId: 20282
+    ShotId: 1107
+  11210:
+    ReceiverId: 21148
+    ShotId: 1107
+  11211:
+    ReceiverId: 22136
+    ShotId: 1107
+  11212:
+    ReceiverId: 23282
+    ShotId: 1107
+  11213:
+    ReceiverId: 24160
+    ShotId: 1107
+  11214:
+    ReceiverId: 25171
+    ShotId: 1107
+  11215:
+    ReceiverId: 26183
+    ShotId: 1107
+  11220:
+    ReceiverId: 19275
+    ShotId: 1108
+  11221:
+    ReceiverId: 20130
+    ShotId: 1108
+  11222:
+    ReceiverId: 21148
+    ShotId: 1108
+  11223:
+    ReceiverId: 22136
+    ShotId: 1108
+  11224:
+    ReceiverId: 23142
+    ShotId: 1108
+  11225:
+    ReceiverId: 24262
+    ShotId: 1108
+  11226:
+    ReceiverId: 25261
+    ShotId: 1108
+  11227:
+    ReceiverId: 26183
+    ShotId: 1108
+  11232:
+    ReceiverId: 19130
+    ShotId: 1109
+  11233:
+    ReceiverId: 20130
+    ShotId: 1109
+  11234:
+    ReceiverId: 21288
+    ShotId: 1109
+  11235:
+    ReceiverId: 22136
+    ShotId: 1109
+  11236:
+    ReceiverId: 23142
+    ShotId: 1109
+  11237:
+    ReceiverId: 24262
+    ShotId: 1109
+  11238:
+    ReceiverId: 25171
+    ShotId: 1109
+  11239:
+    ReceiverId: 26185
+    ShotId: 1109
+  11244:
+    ReceiverId: 19130
+    ShotId: 1110
+  11245:
+    ReceiverId: 20130
+    ShotId: 1110
+  11246:
+    ReceiverId: 21148
+    ShotId: 1110
+  11247:
+    ReceiverId: 22136
+    ShotId: 1110
+  11248:
+    ReceiverId: 23142
+    ShotId: 1110
+  11249:
+    ReceiverId: 24160
+    ShotId: 1110
+  11250:
+    ReceiverId: 25261
+    ShotId: 1110
+  11251:
+    ReceiverId: 26184
+    ShotId: 1110
+  11256:
+    ReceiverId: 19130
+    ShotId: 1111
+  11257:
+    ReceiverId: 20130
+    ShotId: 1111
+  11258:
+    ReceiverId: 21148
+    ShotId: 1111
+  11259:
+    ReceiverId: 22136
+    ShotId: 1111
+  11260:
+    ReceiverId: 23142
+    ShotId: 1111
+  11261:
+    ReceiverId: 24160
+    ShotId: 1111
+  11262:
+    ReceiverId: 25171
+    ShotId: 1111
+  11263:
+    ReceiverId: 26183
+    ShotId: 1111
+  11268:
+    ReceiverId: 19130
+    ShotId: 1112
+  11269:
+    ReceiverId: 20130
+    ShotId: 1112
+  11270:
+    ReceiverId: 21148
+    ShotId: 1112
+  11271:
+    ReceiverId: 22136
+    ShotId: 1112
+  11272:
+    ReceiverId: 23142
+    ShotId: 1112
+  11273:
+    ReceiverId: 24160
+    ShotId: 1112
+  11274:
+    ReceiverId: 25171
+    ShotId: 1112
+  11275:
+    ReceiverId: 26183
+    ShotId: 1112
+  11304:
+    ReceiverId: 19130
+    ShotId: 1115
+  11305:
+    ReceiverId: 20130
+    ShotId: 1115
+  11306:
+    ReceiverId: 21148
+    ShotId: 1115
+  11307:
+    ReceiverId: 22282
+    ShotId: 1115
+  11308:
+    ReceiverId: 23142
+    ShotId: 1115
+  11309:
+    ReceiverId: 24262
+    ShotId: 1115
+  11310:
+    ReceiverId: 25171
+    ShotId: 1115
+  11311:
+    ReceiverId: 26183
+    ShotId: 1115
+  11316:
+    ReceiverId: 19130
+    ShotId: 1116
+  11317:
+    ReceiverId: 20130
+    ShotId: 1116
+  11318:
+    ReceiverId: 21148
+    ShotId: 1116
+  11319:
+    ReceiverId: 22136
+    ShotId: 1116
+  11320:
+    ReceiverId: 23142
+    ShotId: 1116
+  11321:
+    ReceiverId: 24160
+    ShotId: 1116
+  11322:
+    ReceiverId: 25171
+    ShotId: 1116
+  11323:
+    ReceiverId: 26183
+    ShotId: 1116
+  11328:
+    ReceiverId: 19130
+    ShotId: 1117
+  11329:
+    ReceiverId: 20130
+    ShotId: 1117
+  11330:
+    ReceiverId: 21148
+    ShotId: 1117
+  11331:
+    ReceiverId: 22136
+    ShotId: 1117
+  11332:
+    ReceiverId: 23142
+    ShotId: 1117
+  11333:
+    ReceiverId: 24160
+    ShotId: 1117
+  11334:
+    ReceiverId: 25171
+    ShotId: 1117
+  11335:
+    ReceiverId: 26183
+    ShotId: 1117
+  11337:
+    ReceiverId: 16101
+    ShotId: 1779
+  11419:
+    ReceiverId: 26183
+    ShotId: 1785

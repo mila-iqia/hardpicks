@@ -1,0 +1,10 @@
+[report]
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    if __name__ == .__main__.:
+    logging.getLogger
+    ^import
+    ^from 
+[run]
+    omit=*/tests/*, */main.py, setup.py

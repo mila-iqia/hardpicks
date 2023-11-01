@@ -1,0 +1,21 @@
+experiment:
+  name:
+    smoke_test
+  max_broken: 12
+  max_trials: 24
+  working_dir:
+    orion_working_dir
+  algorithms:
+    random:
+      seed: 1234
+evc:
+  non_monitored_arguments:
+    - output
+    - data
+    - tmp-folder
+    - mlflow-output
+    - tensorboard-output
+    - disable-progressbar
+  ignore_code_changes:
+    true
+

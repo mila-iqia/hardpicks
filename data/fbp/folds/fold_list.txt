@@ -1,0 +1,41 @@
+#Defining the folds, for easy reference
+ # sites         number of line gathers     sample rate
+   Lalor                14455                   1 ms
+   Kevitsa              23111                   1 ms
+   Brunswick            18453                   2 ms
+   Sudbury              11420                   2 ms
+   Halfmile             5520                    2 ms
+
+foldA:                foldB:                foldC:                foldD:                foldE:
+  train :  Lalor        train : Kevitsa       train : Halfmile      train : Sudbury       train : Brunswick
+           Brunswick            Lalor                 Kevitsa               Halfmile              Sudbury
+           Sudbury              Brunswick             Lalor                 Kevitsa               Halfmile
+  valid:   Halfmile     valid:  Sudbury        valid: Brunswick     valid:  Lalor          valid: Kevitsa
+  Test:    Kevitsa      Test:   Halfmile        Test: Sudbury        Test:  Brunswick      Test:  Lalor
+
+# Defining Further folds to test the impact of removing the noisy data
+(a highly modified foldB)                 (foldA minus Lalor)
+foldF:                                     foldG:
+  train : Halfmile                           train : Brunswick
+          Brunswick                                  Sudbury
+  valid:  Sudbury                            valid:  Halfmile
+   Test:   -----                              Test:   --------
+
+
+# Defining Further folds to test the impact of removing Kevitsa:
+(foldC without Kevitsa)     (foldD without Kevitsa)   (foldB without Kevitsa)     (what is left for a full cycle)
+foldH:                      foldI:                       foldJ:                       foldK:
+ train : Halfmile            train : Sudbury              train : Lalor                 train :Brunswick
+         Lalor                       Halfmile                     Brunswick                    Sudbury
+ valid:  Brunswick           valid:  Lalor                valid:  Sudbury               valid: Halfmile
+  Test:  Sudbury             Test:   Brunswick             Test:  Halfmile              Test:  Lalor
+
+
+# Defining variations on foldA, to investigate the impact of Kevitsa
+
+sub_foldA_1 (Halfmile <-> Lalor)       sub_foldA_2: (Halfmile <-> Brunswick)  sub_foldA_3: (x Sudbury)
+    train :  Halfmile                       train :  Lalor                        train :  Lalor
+             Brunswick                               Halfmile                              Brunswick
+             Sudbury                                 Sudbury
+    valid:   Lalor                          valid:   Brunswick                    valid:   Halfmile
+    Test:    Kevitsa                       Test:     Kevitsa                      Test:    Kevitsa

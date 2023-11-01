@@ -1,0 +1,100 @@
+# SESSION ARGS
+# Best performance was obtained on run_id (mlflow) 8c1921e8064d4d0da5b4959635cffe5c
+exp_name: predict_foldH
+seed: 42
+set_deterministic: false
+set_benchmark: true
+skip_setup_overlap_check: true
+
+# TRAINER ARGS
+early_stop_metric: valid/HitRate1px
+patience: 4
+max_epochs: 20
+precision: 16
+log_every_n_steps: 1
+num_sanity_val_steps: -1  # run sanity check on all validation data (good for logging pred images)
+trainer_checkpoint: latest  # "latest" will resume an existing run, "none" will skip all
+use_full_metrics_during_training: false
+
+# DATA MODULE ARGS
+module_type: FBPDataModule
+train_batch_size: 16
+eval_batch_size: 16
+num_workers: 8
+pin_memory: true
+convert_to_fp16: true
+convert_to_int16: true
+preload_trace_data: false
+cache_trace_metadata: true
+provide_offset_dists: true
+pad_to_nearest_pow2: true
+use_batch_sampler: false
+use_rebalancing_sampler: false
+train_loader_params:
+valid_loader_params:
+  - site_name: Brunswick
+    rejected_gather_yaml_path: data/fbp/bad_gathers/bad-gather-ids_combined.yaml
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+    segm_first_break_buffer: 0
+test_loader_params:
+  - site_name: Sudbury
+    rejected_gather_yaml_path: data/fbp/bad_gathers/bad-gather-ids_combined.yaml
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+    segm_first_break_buffer: 0
+
+# MODEL ARGS
+model_type: FBPUNet
+model_checkpoint: /mnt/efs/FBP/best_ckpt_export/fold_h/artifacts/checkpoints/best-epoch=19-step=21919.ckpt
+unet_encoder_type: timm-efficientnet-b4
+unet_decoder_type: vanilla
+use_dist_offsets: true
+use_first_break_prior: false
+coordconv: false
+encoder_block_count: 5
+mid_block_channels: 0
+decoder_block_channels:  '[512, 256, 128, 64, 32]'
+decoder_attention_type:  # keep empty if we're not using attention mechanisms in the decoder
+segm_class_count: 1
+gathers_to_display: 10
+optimizer_type: Adam
+optimizer_params:
+  lr: 0.00348
+  weight_decay: 0.000001
+scheduler_type: StepLR
+scheduler_params:
+  step_size: 5
+  gamma: 0.1
+update_scheduler_at_epochs: true
+use_checkpointing: true
+loss_type: crossentropy
+loss_params:
+
+# METRICS ARGS
+eval_type: FBPEvaluator
+segm_first_break_prob_threshold: 0.
+eval_metrics:
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 1
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 3
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 5
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 7
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 9
+  - metric_type: GatherCoverage
+  - metric_type: MeanAbsoluteError
+  - metric_type: RootMeanSquaredError
+  - metric_type: MeanBiasError

@@ -1,0 +1,82 @@
+# SESSION ARGS
+exp_name: test_unet
+run_name: default
+seed: 42
+set_deterministic: false
+set_benchmark: true
+
+# TRAINER ARGS
+early_stop_metric:
+patience: 2
+max_epochs: 1
+precision: 16
+log_every_n_steps: 1
+num_sanity_val_steps: -1  # run sanity check on all validation data (good for logging pred images)
+trainer_checkpoint: latest  # "latest" will resume an existing run, "none" will skip all
+
+# DATA MODULE ARGS
+module_type: FBPDataModule
+train_batch_size: 16
+eval_batch_size: 80  # we need way less memory without the forward pass
+num_workers: 4
+pin_memory: true
+convert_to_fp16: true
+convert_to_int16: true
+preload_trace_data: false
+cache_trace_metadata: false
+provide_offset_dists: true
+pad_to_nearest_pow2: true
+use_batch_sampler: false
+use_rebalancing_sampler: false
+skip_setup_overlap_check: true
+train_loader_params:
+  - site_name: Sudbury
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: true
+    segm_first_break_buffer: 1  # add a one-px buffer around the first breaks for training only
+    outlier_detection_threshold: 0.95
+    outlier_detection_strategy: global-linear-fit-error-quantile
+valid_loader_params:
+  - site_name: Halfmile
+    use_cache: true
+    normalize_samples: true
+    normalize_offsets: true
+    auto_invalidate_outliers: false
+test_loader_params:  # leave empty == no test for now
+
+# MODEL ARGS
+model_type: FBPUNet
+model_checkpoint:   # keep empty if we're training from a pre-trained state
+use_dist_offsets: true
+use_first_break_prior: false
+mid_channels: 256
+coordconv: false
+block_count: 3
+segm_class_count: 3
+gathers_to_display: 10
+optimizer_type: Adam
+optimizer_params:
+  lr: 0.001
+  weight_decay: 0.000001
+scheduler_type: StepLR
+scheduler_params:
+  step_size: 3
+  gamma: 0.1
+update_scheduler_at_epochs: true
+
+# METRICS ARGS
+eval_type: FBPEvaluator
+segm_first_break_prob_threshold: 0.333
+eval_metrics:  # also keeping it simple here, we'll only use two variations of the same metric
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 1
+  - metric_type: HitRate
+    metric_params:
+      buffer_size_px: 3
+  - metric_type: GatherCoverage
+  - metric_type: MeanAbsoluteError
+  - metric_type: RootMeanSquaredError
+  - metric_type: MeanBiasError

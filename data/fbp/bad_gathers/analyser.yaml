@@ -1,0 +1,12 @@
+# Directory where the HDF5 files are located
+local_data_directory: /Users/bruno/PycharmProjects/subsurface_rock_characterization/
+# Directory where the model prediction data dump is located
+path_to_model_result_data: /Users/bruno/monitoring/fold_all/mlruns/3/9d00c8d7d07d4000be53b2d0e09e7c93/artifacts/dataframes/train_dataframe_best-epoch=0-step=3996.pkl
+# path to where the output will be recorded
+output_yaml_path: /Users/bruno/bad_gather/bad-gather-ids.yaml
+# GUI starting position 
+starting_index: 200
+# Width of the GUI window (unknown units). 2800 works well on my laptop.
+image_width: 2800
+# stretch in the height dimension; this distorts the image, but uses more of the screen.
+height_magnification: 2
